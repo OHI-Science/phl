@@ -1,0 +1,273 @@
+stock_name,common
+Scombroids,NA
+Sharks_rays_chimaeras,NA
+Marine_fishes_not_identified,NA
+Miscellaneous_marine_crustaceans,NA
+Miscellaneous_marine_molluscs,NA
+Shrimps_prawns,NA
+Echinoidea,NA
+Rajiformes,NA
+Clupeiformes,NA
+Gadiformes,NA
+Teuthida,NA
+Sepiida,NA
+Octopoda,NA
+Clupeidae,NA
+Exocoetidae,NA
+Berycidae,NA
+Sillaginidae,NA
+Malacanthidae,NA
+Lutjanidae,NA
+Sparidae,NA
+Sciaenidae,NA
+Scaridae,NA
+Istiophoridae,NA
+Brachyura,NA
+Epinephelus,NA
+Sphyraena,NA
+Caranx,NA
+Scomberomorus,NA
+Upeneus,NA
+Auxis,NA
+Nemipterus,NA
+Cantherhines,NA
+Decapterus,NA
+Loligo,NA
+Coryphaena_hippurus,Common dolphinfish
+Istiophorus_platypterus,Indo-Pacific sailfish
+Acanthocybium_solandri,Wahoo
+Euthynnus_affinis,Kawakawa
+Katsuwonus_pelamis,Skipjack tuna
+Scomber_japonicus,Chub mackerel
+Thunnus_alalunga,Albacore
+Thunnus_albacares,Yellowfin tuna
+Thunnus_obesus,Bigeye tuna
+Thunnus_tonggol,Longtail tuna
+Makaira_indica,NA
+Makaira_mazara,NA
+Tetrapturus_albidus,NA
+Tetrapturus_audax,NA
+Xiphias_gladius,Swordfish
+Decapterus_russelli,Indian scad
+Megalaspis_cordyla,Torpedo scad
+Larimichthys_crocea,Large yellow croaker
+Mugil_cephalus,Flathead grey mullet
+Ruvettus_pretiosus,Oilfish
+Trichiurus_lepturus,Largehead hairtail
+Dussumieria_elopsoides,NA
+Sardinops_sagax,Pacific sardine
+Ilisha_elongata,Elongate ilisha
+Engraulis_japonicus,Japanese anchovy
+Rachycentron_canadum,Cobia
+Saurida_tumbil,Greater lizardfish
+Cheilopogon_agoo,NA
+Thunnus_orientalis,Pacific bluefin tuna
+Marine_animals,NA
+Clupeoids,NA
+Homaridae/Palinuridae,NA
+Clams_cockles_arkshells,NA
+Starfish_and_other_echinoderms,NA
+Cephalopoda,NA
+Holothuroidea,NA
+Perciformes,NA
+Pleuronectiformes,NA
+Stomatopoda,NA
+Ariidae,NA
+Synodontidae,NA
+Chlorophthalmidae,NA
+Atherinidae,NA
+Trachichthyidae,NA
+Scorpaenidae,NA
+Platycephalidae,NA
+Serranidae,NA
+Echeneidae,NA
+Carangidae,NA
+Leiognathidae,NA
+Gerreidae,NA
+Haemulidae,NA
+Lethrinidae,NA
+Mullidae,NA
+Mugilidae,NA
+Polynemidae,NA
+Labridae,NA
+Nototheniidae,NA
+Ammodytidae,NA
+Gobiidae,NA
+Acanthuridae,NA
+Trichiuridae,NA
+Scombridae,NA
+Centrolophidae,NA
+Stromateidae,NA
+Bothidae,NA
+Soleidae,NA
+Cynoglossidae,NA
+Balistidae,NA
+Engraulidae,NA
+Caesionidae,NA
+Ambassidae,NA
+Scophthalmidae,NA
+Scyllaridae,NA
+Sergestidae,NA
+Squillidae,NA
+Pectinidae,NA
+Paralichthys,NA
+Salmo,NA
+Siganus,NA
+Mustelus,NA
+Lutjanus,NA
+Scomberoides,NA
+Leiognathus,NA
+Plotosus,NA
+Solea,NA
+Merluccius,NA
+Scolopsis,NA
+Chirocentrus,NA
+Priacanthus,NA
+Platax,NA
+Gerres,NA
+Molva,NA
+Scatophagus,NA
+Micropogonias,NA
+Tylosurus,NA
+Salvelinus,NA
+Microchirus,NA
+Nemadactylus,NA
+Muraenesox,NA
+Thunnus,NA
+Sardinella,NA
+Dicentrarchus,NA
+Rastrelliger,NA
+Coregonus,NA
+Stolephorus,NA
+Hemiramphus,NA
+Phycis,NA
+Octopus,NA
+Crassostrea,NA
+Haliotis,NA
+Littorina,NA
+Chionoecetes,NA
+Panulirus,NA
+Metapenaeus,NA
+Penaeus,NA
+Modiolus,NA
+Anadara,NA
+Arca,NA
+Meretrix,NA
+Paphia,NA
+Solen,NA
+Merluccius_merluccius,European hake
+Gadus_morhua,Atlantic cod
+Gymnosarda_unicolor,NA
+Rastrelliger_brachysoma,Short mackerel
+Rastrelliger_kanagurta,Indian mackerel
+Sarda_chiliensis_chiliensis,NA
+Sarda_orientalis,NA
+Scomberomorus_commerson,Narrowbarred Spanish mackerel
+Scomberomorus_niphonius,Japanese Spanish mackerel
+Squalus_acanthias,Piked dogfish
+Megalops_cyprinoides,Indo-Pacific tarpon
+Coregonus_albula,NA
+Coregonus_lavaretus,NA
+Salmo_salar,Atlantic salmon
+Oncorhynchus_mykiss,NA
+Oncorhynchus_gorbuscha,Pink salmon
+Oncorhynchus_keta,Chum salmon
+Oncorhynchus_masou_masou,NA
+Harpadon_nehereus,Bombay duck
+Lates_calcarifer,Barramundi
+Lactarius_lactarius,False trevally
+Pomatomus_saltatrix,Bluefish
+Selene_setapinnis,Atlantic moonfish
+Trachinotus_carolinus,NA
+Chloroscombrus_chrysurus,Atlantic bumper
+Selar_crumenophthalmus,Bigeye scad
+Selaroides_leptolepis,Yellowstripe scad
+Mene_maculata,Moonfish
+Emmelichthys_nitidus_nitidus,NA
+Pomadasys_argenteus,NA
+Elagatis_bipinnulata,Rainbow runner
+Pampus_argenteus,Silver pomfret
+Psenopsis_anomala,Pacific rudderfish
+Psettodes_erumei,Indian halibut
+Atheresthes_stomias,Arrowtooth flounder
+Megalops_atlanticus,Tarpon
+Sphyraena_barracuda,Great barracuda
+Lutjanus_argentimaculatus,Mangrove red snapper
+Dussumieria_acuta,Rainbow sardine
+Sardinella_gibbosa,Goldstripe sardinella
+Sardinella_lemuru,Bali sardinella
+Anodontostoma_chacunda,Chacunda gizzard shad
+Ilisha_africana,West African ilisha
+Pellona_ditchela,NA
+Engraulis_anchoita,Argentine anchovy
+Engraulis_capensis,Southern African anchovy
+Engraulis_mordax,Californian anchovy
+Mola_mola,Ocean sunfish
+Decapterus_maruadsi,Japanese scad
+Parastromateus_niger,Black pomfret
+Seriolina_nigrofasciata,Blackbanded trevally
+Antimora_rostrata,NA
+Chirocentrus_dorab,Dorab wolfherring
+Cephalopholis_boenak,Chocolate hind
+Crassostrea_virginica,American cupped oyster
+Placopecten_magellanicus,American sea scallop
+Argopecten_irradians,Atlantic bay scallop
+Fenneropenaeus_merguiensis,Banana prawn
+Anadara_granosa,NA
+Portunus_pelagicus,Blue swimming crab
+Perna_viridis,Brown mussel
+Saxidomus_gigantea,Butter clam
+Penaeus_monodon,Giant tiger prawn
+Carcinus_maenas,Green crab
+Penaeus_semisulcatus,Green tiger prawn
+Scylla_serrata,Indo-Pacific swamp crab
+Crassostrea_iredalei,NA
+Melicertus_latisulcatus,Western king prawn
+Thenus_orientalis,Flathead lobster
+Mytilidae,NA
+Kyphosus,NA
+Sebastes_marinus,NA
+Tetraodontidae,NA
+Belone,NA
+Bathyraja,NA
+Auxis_thazard_thazard,NA
+Scomber_australasicus,Blue mackerel
+Terapon_jarbua,Jarbua terapon
+Sillago_sihama,Silver sillago
+Plectropomus_leopardus,NA
+Sphyraena_jello,NA
+Epinephelus_merra,NA
+Cheilinus_undulatus,NA
+Cromileptes_altivelis,NA
+Lamnidae,NA
+Carcharhinidae,NA
+Squalidae,NA
+Rhinobatidae,NA
+Dasyatidae,NA
+Myliobatidae,NA
+Caproidae,NA
+Trachinidae,NA
+Alopias,NA
+Sphyrna,NA
+Auxis_rochei_rochei,NA
+Rhinobatos_percellens,Chola guitarfish
+Thunnus_atlanticus,Blackfin tuna
+Pterothrissus_belloci,NA
+Lutjanus_argentiventris,Yellow snapper
+Opisthonema_libertate,Pacific thread herring
+Rhynchobatus_australiae,NA
+Pristidae,NA
+Nemipteridae,NA
+Isurus_oxyrinchus,Shortfin mako
+Prionace_glauca,Blue shark
+Carcharhinus_falciformis,Silky shark
+Carcharhinus_longimanus,Oceanic whitetip shark
+Liza_aurata,Golden grey mullet
+Seriola_dumerili,Greater amberjack
+Lutjanus_bohar,NA
+Latridae,NA
+Dentex,NA
+Pandalidae,NA
+Mugil,NA
+Harengula,NA
+Callinectes,NA
