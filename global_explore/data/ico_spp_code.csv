@@ -1,0 +1,358 @@
+sciname,comname,iucn_sid,year,cat_code,category,cat_score
+Balaenoptera musculus,Blue whale,2477,2016,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2016,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2016,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2016,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2016,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,83652278,2016,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2016,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2016,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2016,VU,Vulnerable,0.4
+Dermochelys coriacea,Leatherback Turtle,46967817,2016,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2016,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2016,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2016,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2016,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2016,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2016,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2016,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2016,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2016,EN,Endangered,0.6
+Steno bredanensis,Rough Toothed Dolphin,20738,2016,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2016,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2015,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2015,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2015,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2015,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2015,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,83652278,2015,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2015,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2015,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2015,VU,Vulnerable,0.4
+Dermochelys coriacea,Leatherback Turtle,46967817,2015,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2015,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2015,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2015,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2015,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2015,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2015,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2015,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2015,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2015,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2015,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2015,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2014,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2014,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2014,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2014,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2014,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2014,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2014,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2014,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2014,VU,Vulnerable,0.4
+Dermochelys coriacea,Leatherback Turtle,46967817,2014,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2014,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2014,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2014,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2014,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2014,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2014,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2014,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2014,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2014,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2014,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2014,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2013,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2013,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2013,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2013,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2013,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2013,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2013,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2013,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2013,VU,Vulnerable,0.4
+Dermochelys coriacea,Leatherback Turtle,46967817,2013,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2013,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2013,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2013,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2013,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2013,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2013,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2013,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2013,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2013,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2013,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2013,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2012,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2012,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2012,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2012,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2012,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2012,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2012,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2012,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2012,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2012,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2012,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2012,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2012,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2012,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2012,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2012,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2012,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2012,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2012,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2012,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2012,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2011,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2011,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2011,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2011,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2011,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2011,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2011,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2011,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2011,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2011,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2011,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2011,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2011,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2011,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2011,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2011,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2011,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2011,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2011,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2011,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2011,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2010,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2010,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2010,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2010,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2010,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2010,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2010,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2010,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2010,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2010,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2010,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2010,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2010,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2010,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2010,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2010,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2010,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2010,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2010,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2010,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2010,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2009,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2009,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2009,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2009,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2009,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2009,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2009,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2009,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2009,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2009,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2009,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2009,VU,Vulnerable,0.4
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2009,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2009,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2009,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2009,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2009,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2009,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2009,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2009,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2009,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2008,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2008,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2008,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2008,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2008,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2008,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2008,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2008,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2008,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2008,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2008,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2008,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2008,VU,Vulnerable,0.4
+Megachasma pelagios,Megamouth Shark,39338,2008,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2008,LC,Least Concern,0
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2008,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2008,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2008,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2008,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2008,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2008,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2007,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2007,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2007,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2007,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2007,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2007,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2007,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2007,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2007,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2007,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2007,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2007,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2007,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2007,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2007,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2007,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2007,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2007,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2007,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2007,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2007,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2006,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2006,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2006,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2006,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2006,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2006,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2006,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2006,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2006,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2006,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2006,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2006,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2006,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2006,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2006,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2006,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2006,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2006,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2006,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2006,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2006,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2005,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2005,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2005,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2005,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2005,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2005,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2005,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2005,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2005,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2005,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2005,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2005,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2005,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2005,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2005,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2005,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2005,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2005,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2005,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2005,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2005,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2004,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2004,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2004,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2004,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2004,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2004,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2004,EN,Endangered,0.6
+Chelonia mydas,Green Turtle,4615,2004,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2004,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2004,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2004,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2004,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2004,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2004,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2004,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2004,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2004,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2004,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2004,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2004,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2004,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2003,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2003,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2003,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2003,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2003,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2003,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2003,VU,Vulnerable,0.4
+Chelonia mydas,Green Turtle,4615,2003,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2003,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2003,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2003,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2003,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2003,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2003,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2003,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2003,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2003,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2003,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2003,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2003,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2003,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2002,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2002,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2002,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2002,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2002,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2002,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2002,VU,Vulnerable,0.4
+Chelonia mydas,Green Turtle,4615,2002,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2002,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2002,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2002,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2002,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2002,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2002,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2002,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2002,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2002,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2002,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2002,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2002,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2002,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2001,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2001,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2001,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2001,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2001,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2001,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2001,VU,Vulnerable,0.4
+Chelonia mydas,Green Turtle,4615,2001,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2001,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2001,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2001,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2001,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2001,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2001,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2001,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2001,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2001,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2001,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2001,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2001,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2001,NT,Near Threatened,0.2
+Balaenoptera musculus,Blue whale,2477,2e3,EN,Endangered,0.6
+Balaenoptera physalus,Fin whale,2478,2e3,EN,Endangered,0.6
+Carcharhinus melanopterus,Blacktip reef shark,39375,2e3,NT,Near Threatened,0.2
+Carcharodon carcharias,Great White Shark,3855,2e3,VU,Vulnerable,0.4
+Caretta caretta,Loggerhead Turtle,3897,2e3,EN,Endangered,0.6
+Caretta caretta,Loggerhead Turtle,83652278,2e3,LC,Least Concern,0
+Cheilinus undulatus,"Humphead wrasse, Napoleon Wrasse",4592,2e3,VU,Vulnerable,0.4
+Chelonia mydas,Green Turtle,4615,2e3,EN,Endangered,0.6
+Dermochelys coriacea,Leatherback Turtle,6494,2e3,CR,Critically Endangered,0.8
+Dermochelys coriacea,Leatherback Turtle,46967817,2e3,CR,Critically Endangered,0.8
+Eretmochelys imbricata,Hawksbill Turtle,8005,2e3,CR,Critically Endangered,0.8
+Isurus oxyrinchus,Shortfin Mako,39341,2e3,NT,Near Threatened,0.2
+Lepidochelys olivacea,Olive Ridley Turtle,11534,2e3,EN,Endangered,0.6
+Megachasma pelagios,Megamouth Shark,39338,2e3,LC,Least Concern,0
+Megaptera novaeangliae,Humpback Whale,13006,2e3,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,15419,2e3,VU,Vulnerable,0.4
+Orcaella brevirostris,Irrawaddy Dolphin,44187,2e3,CR,Critically Endangered,0.8
+Prionace glauca,Blue Shark,39381,2e3,NT,Near Threatened,0.2
+Rhincodon typus,Whale Shark,19488,2e3,VU,Vulnerable,0.4
+Steno bredanensis,Rough Toothed Dolphin,20738,2e3,LC,Least Concern,0
+Triaenodon obesus,Whitetip reef shark,39384,2e3,NT,Near Threatened,0.2

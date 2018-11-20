@@ -1,0 +1,204 @@
+X1,rgn_id,commodity,product,year,gapfill
+706,15,Coral and the like,corals,1991,none
+707,15,Coral and the like,corals,1992,none
+708,15,Coral and the like,corals,1993,none
+709,15,Coral and the like,corals,1994,none
+710,15,Coral and the like,corals,1995,none
+711,15,Coral and the like,corals,1996,none
+712,15,Coral and the like,corals,1997,none
+713,15,Coral and the like,corals,1998,none
+714,15,Coral and the like,corals,1999,none
+715,15,Coral and the like,corals,2000,none
+716,15,Coral and the like,corals,2001,none
+717,15,Coral and the like,corals,2002,none
+718,15,Coral and the like,corals,2003,none
+719,15,Coral and the like,corals,2004,none
+720,15,Coral and the like,corals,2005,none
+721,15,Coral and the like,corals,2006,none
+722,15,Coral and the like,corals,2007,none
+723,15,Coral and the like,corals,2008,none
+724,15,Coral and the like,corals,2009,none
+725,15,Coral and the like,corals,2010,none
+726,15,Coral and the like,corals,2011,none
+727,15,Coral and the like,corals,2012,none
+728,15,Coral and the like,corals,2013,none
+729,15,"Fish body oils, nei",fish_oil,1977,none
+730,15,"Fish body oils, nei",fish_oil,1978,none
+731,15,"Fish body oils, nei",fish_oil,1979,none
+732,15,"Fish body oils, nei",fish_oil,1980,none
+733,15,"Fish body oils, nei",fish_oil,1981,none
+734,15,"Fish body oils, nei",fish_oil,1982,none
+735,15,"Fish body oils, nei",fish_oil,1983,none
+736,15,"Fish body oils, nei",fish_oil,1984,zerofill
+737,15,"Fish body oils, nei",fish_oil,1985,none
+738,15,"Fish body oils, nei",fish_oil,1986,none
+739,15,"Fish body oils, nei",fish_oil,1987,zerofill
+740,15,"Fish body oils, nei",fish_oil,1988,zerofill
+741,15,"Fish body oils, nei",fish_oil,1989,zerofill
+742,15,"Fish body oils, nei",fish_oil,1990,zerofill
+743,15,"Fish body oils, nei",fish_oil,1991,zerofill
+744,15,"Fish body oils, nei",fish_oil,1992,zerofill
+745,15,"Fish body oils, nei",fish_oil,1993,zerofill
+746,15,"Fish body oils, nei",fish_oil,1994,zerofill
+747,15,"Fish body oils, nei",fish_oil,1995,zerofill
+748,15,"Fish body oils, nei",fish_oil,1996,zerofill
+749,15,"Fish body oils, nei",fish_oil,1997,zerofill
+750,15,"Fish body oils, nei",fish_oil,1998,zerofill
+751,15,"Fish body oils, nei",fish_oil,1999,none
+752,15,"Fish body oils, nei",fish_oil,2000,zerofill
+753,15,"Fish body oils, nei",fish_oil,2001,none
+754,15,"Fish body oils, nei",fish_oil,2002,none
+755,15,"Fish body oils, nei",fish_oil,2003,none
+756,15,"Fish body oils, nei",fish_oil,2004,none
+757,15,"Fish body oils, nei",fish_oil,2005,none
+758,15,"Fish body oils, nei",fish_oil,2006,none
+759,15,"Fish body oils, nei",fish_oil,2007,none
+760,15,"Fish body oils, nei",fish_oil,2008,none
+761,15,"Fish body oils, nei",fish_oil,2009,none
+762,15,"Fish body oils, nei",fish_oil,2010,none
+763,15,"Fish body oils, nei",fish_oil,2011,none
+764,15,"Fish body oils, nei",fish_oil,2012,none
+765,15,"Fish body oils, nei",fish_oil,2013,none
+766,15,"Fish liver oils, nei",fish_oil,1977,none
+767,15,"Fish liver oils, nei",fish_oil,1978,none
+768,15,"Fish liver oils, nei",fish_oil,1979,none
+769,15,"Fish liver oils, nei",fish_oil,1980,none
+770,15,"Fish liver oils, nei",fish_oil,1981,none
+771,15,"Fish liver oils, nei",fish_oil,1982,none
+772,15,"Fish liver oils, nei",fish_oil,1983,none
+773,15,"Fish liver oils, nei",fish_oil,1984,none
+774,15,"Fish liver oils, nei",fish_oil,1985,none
+775,15,"Fish liver oils, nei",fish_oil,1986,none
+776,15,"Fish liver oils, nei",fish_oil,1987,none
+777,15,"Fish liver oils, nei",fish_oil,1988,none
+778,15,"Fish liver oils, nei",fish_oil,1989,none
+779,15,"Fish liver oils, nei",fish_oil,1990,none
+780,15,"Fish liver oils, nei",fish_oil,1991,zerofill
+781,15,"Fish liver oils, nei",fish_oil,1992,zerofill
+782,15,"Fish liver oils, nei",fish_oil,1993,zerofill
+783,15,"Fish liver oils, nei",fish_oil,1994,zerofill
+784,15,"Fish liver oils, nei",fish_oil,1995,zerofill
+785,15,"Fish liver oils, nei",fish_oil,1996,zerofill
+786,15,"Fish liver oils, nei",fish_oil,1997,zerofill
+787,15,"Fish liver oils, nei",fish_oil,1998,none
+788,15,"Fish liver oils, nei",fish_oil,1999,zerofill
+789,15,"Fish liver oils, nei",fish_oil,2000,none
+790,15,"Fish liver oils, nei",fish_oil,2001,none
+791,15,"Fish liver oils, nei",fish_oil,2002,zerofill
+792,15,"Fish liver oils, nei",fish_oil,2003,none
+793,15,"Fish liver oils, nei",fish_oil,2004,zerofill
+794,15,"Fish liver oils, nei",fish_oil,2005,none
+795,15,"Fish liver oils, nei",fish_oil,2006,none
+796,15,"Fish liver oils, nei",fish_oil,2007,none
+797,15,"Fish liver oils, nei",fish_oil,2008,none
+798,15,"Fish liver oils, nei",fish_oil,2009,none
+799,15,"Fish liver oils, nei",fish_oil,2010,none
+800,15,"Fish liver oils, nei",fish_oil,2011,zerofill
+801,15,"Fish liver oils, nei",fish_oil,2012,none
+802,15,"Fish liver oils, nei",fish_oil,2013,none
+803,15,Shark liver oil,fish_oil,1991,none
+804,15,Shark liver oil,fish_oil,1992,none
+805,15,Shark liver oil,fish_oil,1993,none
+806,15,Shark liver oil,fish_oil,1994,none
+807,15,Shark liver oil,fish_oil,1995,none
+808,15,Shark liver oil,fish_oil,1996,none
+809,15,Shark liver oil,fish_oil,1997,none
+810,15,Shark liver oil,fish_oil,1998,zerofill
+811,15,Shark liver oil,fish_oil,1999,zerofill
+812,15,Shark liver oil,fish_oil,2000,zerofill
+813,15,Shark liver oil,fish_oil,2001,zerofill
+814,15,Shark liver oil,fish_oil,2002,none
+815,15,Shark liver oil,fish_oil,2003,none
+816,15,Shark liver oil,fish_oil,2004,none
+817,15,Shark liver oil,fish_oil,2005,zerofill
+818,15,Shark liver oil,fish_oil,2006,zerofill
+819,15,Shark liver oil,fish_oil,2007,zerofill
+820,15,Shark liver oil,fish_oil,2008,zerofill
+821,15,Shark liver oil,fish_oil,2009,zerofill
+822,15,Shark liver oil,fish_oil,2010,zerofill
+823,15,Shark liver oil,fish_oil,2011,none
+824,15,Shark liver oil,fish_oil,2012,none
+825,15,Shark liver oil,fish_oil,2013,none
+826,15,Ornamental fish nei,ornamentals,1991,none
+827,15,Ornamental fish nei,ornamentals,1992,none
+828,15,Ornamental fish nei,ornamentals,1993,none
+829,15,Ornamental fish nei,ornamentals,1994,none
+830,15,Ornamental fish nei,ornamentals,1995,none
+831,15,Ornamental fish nei,ornamentals,1996,none
+832,15,Ornamental fish nei,ornamentals,1997,none
+833,15,Ornamental fish nei,ornamentals,1998,none
+834,15,Ornamental fish nei,ornamentals,1999,none
+835,15,Ornamental fish nei,ornamentals,2000,none
+836,15,Ornamental fish nei,ornamentals,2001,none
+837,15,Ornamental fish nei,ornamentals,2002,none
+838,15,Ornamental fish nei,ornamentals,2003,none
+839,15,Ornamental fish nei,ornamentals,2004,none
+840,15,Ornamental fish nei,ornamentals,2005,none
+841,15,Ornamental fish nei,ornamentals,2006,none
+842,15,Ornamental fish nei,ornamentals,2007,none
+843,15,Ornamental fish nei,ornamentals,2008,none
+844,15,Ornamental fish nei,ornamentals,2009,none
+845,15,Ornamental fish nei,ornamentals,2010,none
+846,15,Ornamental fish nei,ornamentals,2011,none
+847,15,Ornamental fish nei,ornamentals,2012,none
+848,15,Ornamental fish nei,ornamentals,2013,none
+849,15,Ornamental saltwater fish,ornamentals,2007,none
+850,15,Ornamental saltwater fish,ornamentals,2008,none
+851,15,Ornamental saltwater fish,ornamentals,2009,none
+852,15,Ornamental saltwater fish,ornamentals,2010,none
+853,15,Ornamental saltwater fish,ornamentals,2011,none
+854,15,Ornamental saltwater fish,ornamentals,2012,none
+855,15,Ornamental saltwater fish,ornamentals,2013,none
+856,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1991,none
+857,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1992,none
+858,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1993,none
+859,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1994,none
+860,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1995,none
+861,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1996,none
+862,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1997,none
+863,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1998,none
+864,15,Other seaweeds and aquatic plants and products thereof,seaweeds,1999,none
+865,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2000,none
+866,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2001,none
+867,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2002,none
+868,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2003,none
+869,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2004,none
+870,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2005,none
+871,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2006,none
+872,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2007,none
+873,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2008,none
+874,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2009,none
+875,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2010,none
+876,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2011,none
+877,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2012,none
+878,15,Other seaweeds and aquatic plants and products thereof,seaweeds,2013,none
+879,15,Miscellaneous corals and shells,shells,2007,none
+880,15,Miscellaneous corals and shells,shells,2008,none
+881,15,Miscellaneous corals and shells,shells,2009,none
+882,15,Miscellaneous corals and shells,shells,2010,none
+883,15,Miscellaneous corals and shells,shells,2011,none
+884,15,Miscellaneous corals and shells,shells,2012,none
+885,15,Miscellaneous corals and shells,shells,2013,none
+886,15,Natural sponges raw,sponges,1991,none
+887,15,Natural sponges raw,sponges,1992,none
+888,15,Natural sponges raw,sponges,1993,none
+889,15,Natural sponges raw,sponges,1994,none
+890,15,Natural sponges raw,sponges,1995,none
+891,15,Natural sponges raw,sponges,1996,none
+892,15,Natural sponges raw,sponges,1997,none
+893,15,Natural sponges raw,sponges,1998,none
+894,15,Natural sponges raw,sponges,1999,none
+895,15,Natural sponges raw,sponges,2000,none
+896,15,Natural sponges raw,sponges,2001,none
+897,15,Natural sponges raw,sponges,2002,none
+898,15,Natural sponges raw,sponges,2003,none
+899,15,Natural sponges raw,sponges,2004,none
+900,15,Natural sponges raw,sponges,2005,none
+901,15,Natural sponges raw,sponges,2006,none
+902,15,Natural sponges raw,sponges,2007,none
+903,15,Natural sponges raw,sponges,2008,none
+904,15,Natural sponges raw,sponges,2009,none
+905,15,Natural sponges raw,sponges,2010,none
+906,15,Natural sponges raw,sponges,2011,none
+907,15,Natural sponges raw,sponges,2012,none
+908,15,Natural sponges raw,sponges,2013,none

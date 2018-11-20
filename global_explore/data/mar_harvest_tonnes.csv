@@ -1,0 +1,726 @@
+rgn_id,taxa_code,year,tonnes,taxa
+15,Banana prawn_72,1973,70,Banana prawn
+15,Banana prawn_72,1974,104,Banana prawn
+15,Banana prawn_72,1975,128,Banana prawn
+15,Banana prawn_72,1976,158,Banana prawn
+15,Banana prawn_72,1977,195,Banana prawn
+15,Banana prawn_72,1978,241,Banana prawn
+15,Banana prawn_72,1979,140,Banana prawn
+15,Banana prawn_72,1980,64,Banana prawn
+15,Banana prawn_72,1981,119,Banana prawn
+15,Banana prawn_72,1982,126,Banana prawn
+15,Banana prawn_72,1983,909,Banana prawn
+15,Banana prawn_72,1984,2500,Banana prawn
+15,Banana prawn_72,1985,2500,Banana prawn
+15,Banana prawn_72,1986,2481,Banana prawn
+15,Banana prawn_72,1987,2690,Banana prawn
+15,Banana prawn_72,1988,2727,Banana prawn
+15,Banana prawn_72,1989,3458,Banana prawn
+15,Banana prawn_72,1990,779,Banana prawn
+15,Banana prawn_72,1991,1445,Banana prawn
+15,Banana prawn_72,1992,760,Banana prawn
+15,Banana prawn_72,1993,230,Banana prawn
+15,Banana prawn_72,1994,378,Banana prawn
+15,Banana prawn_72,1995,346,Banana prawn
+15,Banana prawn_72,1996,709,Banana prawn
+15,Banana prawn_72,1997,687,Banana prawn
+15,Banana prawn_72,1998,741,Banana prawn
+15,Banana prawn_72,1999,1038,Banana prawn
+15,Banana prawn_72,2000,1014,Banana prawn
+15,Banana prawn_72,2001,1276,Banana prawn
+15,Banana prawn_72,2002,1541,Banana prawn
+15,Banana prawn_72,2003,1517,Banana prawn
+15,Banana prawn_72,2004,1471,Banana prawn
+15,Banana prawn_72,2005,1519,Banana prawn
+15,Banana prawn_72,2006,1647,Banana prawn
+15,Banana prawn_72,2007,2115,Banana prawn
+15,Banana prawn_72,2008,2070,Banana prawn
+15,Banana prawn_72,2009,2204,Banana prawn
+15,Banana prawn_72,2010,2077,Banana prawn
+15,Banana prawn_72,2011,1974,Banana prawn
+15,Banana prawn_72,2012,1879,Banana prawn
+15,Banana prawn_72,2013,1871,Banana prawn
+15,Banana prawn_72,2014,1827,Banana prawn
+15,Banana prawn_72,2015,1646,Banana prawn
+15,Banana prawn_72,2016,1674,Banana prawn
+15,Barramundi(=Giant seaperch)_73,1990,779,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1991,4698,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1992,36,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1993,14,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1994,3,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1995,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1996,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1997,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1998,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,1999,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2000,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2001,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2002,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2003,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2004,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2005,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2006,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2007,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2008,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2009,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2010,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2011,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2012,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2013,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2014,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2015,0,Barramundi(=Giant seaperch)
+15,Barramundi(=Giant seaperch)_73,2016,0,Barramundi(=Giant seaperch)
+15,Caulerpa seaweeds_74,1950,185,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1951,208,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1952,233,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1953,261,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1954,293,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1955,328,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1956,368,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1957,412,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1958,462,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1959,517,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1960,580,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1961,650,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1962,728,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1963,816,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1964,915,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1965,1025,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1966,1149,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1967,1288,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1968,1444,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1969,1618,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1970,1813,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1971,2032,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1972,2278,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1973,2553,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1974,2861,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1975,3206,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1976,3594,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1977,4027,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1978,4514,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1979,5059,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1980,7964,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1981,4979,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1982,6523,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1983,7932,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1984,8781,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1985,11278,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1986,10436,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1987,13250,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1988,15384,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1989,16122,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1990,17471,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1991,17027,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1992,20970,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1993,25169,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1994,26787,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1995,4040,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1996,5141,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1997,13713,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1998,28704,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,1999,22751,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2000,28296,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2001,25155,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2002,10790,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2003,4163,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2004,4252,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2005,4309,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2006,5444,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2007,5177,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2008,4288,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2009,3881,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2010,4309,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2011,5145,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2012,3928,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2013,3029,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2014,1199,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2015,1219,Caulerpa seaweeds
+15,Caulerpa seaweeds_74,2016,585,Caulerpa seaweeds
+15,Cupped oysters nei_75,1973,50,Cupped oysters nei
+15,Cupped oysters nei_75,1974,100,Cupped oysters nei
+15,Cupped oysters nei_75,1975,782,Cupped oysters nei
+15,Cupped oysters nei_75,1976,3695,Cupped oysters nei
+15,Cupped oysters nei_75,1977,5346,Cupped oysters nei
+15,Cupped oysters nei_75,1978,6863,Cupped oysters nei
+15,Cupped oysters nei_75,1979,8246,Cupped oysters nei
+15,Cupped oysters nei_75,1980,9495,Cupped oysters nei
+15,Cupped oysters nei_75,1981,7178,Cupped oysters nei
+15,Cupped oysters nei_75,1982,19002,Cupped oysters nei
+15,Cupped oysters nei_75,1983,11310,Cupped oysters nei
+15,Cupped oysters nei_75,1984,14617,Cupped oysters nei
+15,Cupped oysters nei_75,1985,15261,Cupped oysters nei
+15,Cupped oysters nei_75,1986,16465,Cupped oysters nei
+15,Cupped oysters nei_75,1987,10361,Cupped oysters nei
+15,Cupped oysters nei_75,1988,12445,Cupped oysters nei
+15,Cupped oysters nei_75,1989,12819,Cupped oysters nei
+15,Cupped oysters nei_75,1990,13485,Cupped oysters nei
+15,Cupped oysters nei_75,1991,12154,Cupped oysters nei
+15,Cupped oysters nei_75,1992,15103,Cupped oysters nei
+15,Cupped oysters nei_75,1993,18290,Cupped oysters nei
+15,Cupped oysters nei_75,1994,11697,Cupped oysters nei
+15,Cupped oysters nei_75,1995,11918,Cupped oysters nei
+15,Cupped oysters nei_75,1996,11896,Cupped oysters nei
+15,Cupped oysters nei_75,1997,13897,Cupped oysters nei
+15,Cupped oysters nei_75,1998,13418,Cupped oysters nei
+15,Cupped oysters nei_75,1999,14804,Cupped oysters nei
+15,Cupped oysters nei_75,2000,14222,Cupped oysters nei
+15,Cupped oysters nei_75,2001,19042,Cupped oysters nei
+15,Cupped oysters nei_75,2002,12570,Cupped oysters nei
+15,Cupped oysters nei_75,2003,14510,Cupped oysters nei
+15,Cupped oysters nei_75,2004,15915,Cupped oysters nei
+15,Cupped oysters nei_75,2005,16495,Cupped oysters nei
+15,Cupped oysters nei_75,2006,16838,Cupped oysters nei
+15,Cupped oysters nei_75,2007,20508,Cupped oysters nei
+15,Cupped oysters nei_75,2008,20175,Cupped oysters nei
+15,Cupped oysters nei_75,2009,19931,Cupped oysters nei
+15,Cupped oysters nei_75,2010,22525,Cupped oysters nei
+15,Cupped oysters nei_75,2011,21462,Cupped oysters nei
+15,Cupped oysters nei_75,2012,20648,Cupped oysters nei
+15,Cupped oysters nei_75,2013,22070,Cupped oysters nei
+15,Cupped oysters nei_75,2014,22355,Cupped oysters nei
+15,Cupped oysters nei_75,2015,20261,Cupped oysters nei
+15,Cupped oysters nei_75,2016,19512,Cupped oysters nei
+15,Flathead lobster_76,1995,1,Flathead lobster
+15,Flathead lobster_76,1996,3,Flathead lobster
+15,Flathead lobster_76,1997,6,Flathead lobster
+15,Flathead lobster_76,1998,2,Flathead lobster
+15,Flathead lobster_76,1999,11,Flathead lobster
+15,Flathead lobster_76,2000,12,Flathead lobster
+15,Flathead lobster_76,2001,6,Flathead lobster
+15,Flathead lobster_76,2002,3,Flathead lobster
+15,Flathead lobster_76,2003,3,Flathead lobster
+15,Flathead lobster_76,2004,5,Flathead lobster
+15,Flathead lobster_76,2005,5,Flathead lobster
+15,Flathead lobster_76,2006,4,Flathead lobster
+15,Flathead lobster_76,2007,4,Flathead lobster
+15,Flathead lobster_76,2008,4,Flathead lobster
+15,Flathead lobster_76,2009,2,Flathead lobster
+15,Flathead lobster_76,2010,2,Flathead lobster
+15,Flathead lobster_76,2011,0,Flathead lobster
+15,Flathead lobster_76,2012,0,Flathead lobster
+15,Flathead lobster_76,2013,0,Flathead lobster
+15,Flathead lobster_76,2014,0,Flathead lobster
+15,Flathead lobster_76,2015,0,Flathead lobster
+15,Flathead lobster_76,2016,0,Flathead lobster
+15,Giant tiger prawn_77,1969,940,Giant tiger prawn
+15,Giant tiger prawn_77,1970,960,Giant tiger prawn
+15,Giant tiger prawn_77,1971,980,Giant tiger prawn
+15,Giant tiger prawn_77,1972,990,Giant tiger prawn
+15,Giant tiger prawn_77,1973,900,Giant tiger prawn
+15,Giant tiger prawn_77,1974,1339,Giant tiger prawn
+15,Giant tiger prawn_77,1975,1651,Giant tiger prawn
+15,Giant tiger prawn_77,1976,2036,Giant tiger prawn
+15,Giant tiger prawn_77,1977,2512,Giant tiger prawn
+15,Giant tiger prawn_77,1978,3097,Giant tiger prawn
+15,Giant tiger prawn_77,1979,1800,Giant tiger prawn
+15,Giant tiger prawn_77,1980,819,Giant tiger prawn
+15,Giant tiger prawn_77,1981,1530,Giant tiger prawn
+15,Giant tiger prawn_77,1982,1620,Giant tiger prawn
+15,Giant tiger prawn_77,1983,11687,Giant tiger prawn
+15,Giant tiger prawn_77,1984,26357,Giant tiger prawn
+15,Giant tiger prawn_77,1985,26537,Giant tiger prawn
+15,Giant tiger prawn_77,1986,27980,Giant tiger prawn
+15,Giant tiger prawn_77,1987,32380,Giant tiger prawn
+15,Giant tiger prawn_77,1988,41458,Giant tiger prawn
+15,Giant tiger prawn_77,1989,43539,Giant tiger prawn
+15,Giant tiger prawn_77,1990,47591,Giant tiger prawn
+15,Giant tiger prawn_77,1991,45740,Giant tiger prawn
+15,Giant tiger prawn_77,1992,75996,Giant tiger prawn
+15,Giant tiger prawn_77,1993,86096,Giant tiger prawn
+15,Giant tiger prawn_77,1994,90426,Giant tiger prawn
+15,Giant tiger prawn_77,1995,88850,Giant tiger prawn
+15,Giant tiger prawn_77,1996,76220,Giant tiger prawn
+15,Giant tiger prawn_77,1997,40079,Giant tiger prawn
+15,Giant tiger prawn_78,1997,1,Giant tiger prawn
+15,Giant tiger prawn_77,1998,36854,Giant tiger prawn
+15,Giant tiger prawn_78,1998,5,Giant tiger prawn
+15,Giant tiger prawn_77,1999,37906,Giant tiger prawn
+15,Giant tiger prawn_78,1999,7,Giant tiger prawn
+15,Giant tiger prawn_77,2000,40459,Giant tiger prawn
+15,Giant tiger prawn_78,2000,8,Giant tiger prawn
+15,Giant tiger prawn_77,2001,40698,Giant tiger prawn
+15,Giant tiger prawn_78,2001,0.1,Giant tiger prawn
+15,Giant tiger prawn_77,2002,35490,Giant tiger prawn
+15,Giant tiger prawn_78,2002,3,Giant tiger prawn
+15,Giant tiger prawn_77,2003,34997,Giant tiger prawn
+15,Giant tiger prawn_78,2003,1,Giant tiger prawn
+15,Giant tiger prawn_77,2004,35917,Giant tiger prawn
+15,Giant tiger prawn_78,2004,0,Giant tiger prawn
+15,Giant tiger prawn_77,2005,37720,Giant tiger prawn
+15,Giant tiger prawn_78,2005,1,Giant tiger prawn
+15,Giant tiger prawn_77,2006,38209,Giant tiger prawn
+15,Giant tiger prawn_78,2006,0.1,Giant tiger prawn
+15,Giant tiger prawn_77,2007,39825,Giant tiger prawn
+15,Giant tiger prawn_78,2007,0,Giant tiger prawn
+15,Giant tiger prawn_77,2008,45343,Giant tiger prawn
+15,Giant tiger prawn_78,2008,0,Giant tiger prawn
+15,Giant tiger prawn_77,2009,47830,Giant tiger prawn
+15,Giant tiger prawn_78,2009,0.23,Giant tiger prawn
+15,Giant tiger prawn_77,2010,48162,Giant tiger prawn
+15,Giant tiger prawn_78,2010,0,Giant tiger prawn
+15,Giant tiger prawn_77,2011,47495,Giant tiger prawn
+15,Giant tiger prawn_78,2011,0,Giant tiger prawn
+15,Giant tiger prawn_77,2012,48197,Giant tiger prawn
+15,Giant tiger prawn_78,2012,0,Giant tiger prawn
+15,Giant tiger prawn_77,2013,49467,Giant tiger prawn
+15,Giant tiger prawn_78,2013,0,Giant tiger prawn
+15,Giant tiger prawn_77,2014,47843,Giant tiger prawn
+15,Giant tiger prawn_78,2014,0,Giant tiger prawn
+15,Giant tiger prawn_77,2015,49527,Giant tiger prawn
+15,Giant tiger prawn_78,2015,0,Giant tiger prawn
+15,Giant tiger prawn_77,2016,49139,Giant tiger prawn
+15,Giant tiger prawn_78,2016,0,Giant tiger prawn
+15,Green mussel_79,1972,38,Green mussel
+15,Green mussel_79,1973,74,Green mussel
+15,Green mussel_79,1974,140,Green mussel
+15,Green mussel_79,1975,182,Green mussel
+15,Green mussel_79,1976,312,Green mussel
+15,Green mussel_79,1977,1272,Green mussel
+15,Green mussel_79,1978,2415,Green mussel
+15,Green mussel_79,1979,2211,Green mussel
+15,Green mussel_79,1980,3e3,Green mussel
+15,Green mussel_79,1981,5659,Green mussel
+15,Green mussel_79,1982,6308,Green mussel
+15,Green mussel_79,1983,18506,Green mussel
+15,Green mussel_79,1984,20306,Green mussel
+15,Green mussel_79,1985,22680,Green mussel
+15,Green mussel_79,1986,12144,Green mussel
+15,Green mussel_79,1987,11644,Green mussel
+15,Green mussel_79,1988,15502,Green mussel
+15,Green mussel_79,1989,16403,Green mussel
+15,Green mussel_79,1990,17515,Green mussel
+15,Green mussel_79,1991,17345,Green mussel
+15,Green mussel_79,1992,20459,Green mussel
+15,Green mussel_79,1993,25070,Green mussel
+15,Green mussel_79,1994,11355,Green mussel
+15,Green mussel_79,1995,14688,Green mussel
+15,Green mussel_79,1996,21027,Green mussel
+15,Green mussel_79,1997,11658,Green mussel
+15,Green mussel_79,1998,15533,Green mussel
+15,Green mussel_79,1999,15654,Green mussel
+15,Green mussel_79,2000,16957,Green mussel
+15,Green mussel_79,2001,13513,Green mussel
+15,Green mussel_79,2002,11646,Green mussel
+15,Green mussel_79,2003,13490,Green mussel
+15,Green mussel_79,2004,15038,Green mussel
+15,Green mussel_79,2005,20159,Green mussel
+15,Green mussel_79,2006,19690,Green mussel
+15,Green mussel_79,2007,20114,Green mussel
+15,Green mussel_79,2008,23017,Green mussel
+15,Green mussel_79,2009,19936,Green mussel
+15,Green mussel_79,2010,20877,Green mussel
+15,Green mussel_79,2011,22443,Green mussel
+15,Green mussel_79,2012,25660,Green mussel
+15,Green mussel_79,2013,22894,Green mussel
+15,Green mussel_79,2014,18762,Green mussel
+15,Green mussel_79,2015,15949,Green mussel
+15,Green mussel_79,2016,18775,Green mussel
+15,"Groupers, seabasses nei_80",1990,2363,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1991,6765,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1992,349,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1993,709,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1993,63,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1994,2111,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1994,18,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1995,705,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1995,10,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1996,559,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1996,36,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1997,496,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1997,149,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1998,20,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1998,115,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",1999,6,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",1999,145,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2000,16,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2000,151,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2001,39,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2001,97,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2002,30,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2002,88,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2003,329,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2003,120,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2004,50,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2004,171,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2005,76,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2005,197,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2006,64,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2006,240,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2007,85,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2007,332,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2008,51,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2008,2561,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2009,59,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2009,862,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2010,70,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2010,1125,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2011,28,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2011,1036,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2012,30,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2012,1260,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2013,41,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2013,692,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2014,26,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2014,315,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2015,29,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2015,308,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_80",2016,26,"Groupers, seabasses nei"
+15,"Groupers, seabasses nei_81",2016,228,"Groupers, seabasses nei"
+15,Indo-Pacific swamp crab_82,1973,20,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1974,30,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1975,37,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1976,45,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1977,56,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1978,69,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1979,40,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1980,18,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1981,34,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1982,36,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1983,260,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1984,833,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1985,833,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1986,1034,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1987,1122,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1988,1136,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1989,1422,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1990,0,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1991,597,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1992,2765,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1993,5653,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1994,4085,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1995,2782,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1996,2440,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,1996,23,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1997,3710,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,1997,49,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1998,3996,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,1998,37,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,1999,4802,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,1999,24,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2000,4945,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2000,23,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2001,4585,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2001,23,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2002,4726,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2002,21,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2003,4785,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2003,24,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2004,6218,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2004,27,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2005,6847,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2005,14,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2006,7785,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2006,15,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2007,9267,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2007,41,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2008,11618,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2008,7,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2009,13720,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2009,10,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2010,14437,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2010,1,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2011,15731,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2011,0,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2012,16360,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2012,0,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2013,15794,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2013,0,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2014,16160,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2014,0,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2015,16199,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2015,0,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_82,2016,16857,Indo-Pacific swamp crab
+15,Indo-Pacific swamp crab_83,2016,0,Indo-Pacific swamp crab
+15,"Jacks, crevalles nei_84",1999,4,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2000,13,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2001,9,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2002,5,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2003,4,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2004,36,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2005,23,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2006,53,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2007,133,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2008,150,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2009,32,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2010,38,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2011,25,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2012,16,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2013,20,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2014,19,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2015,24,"Jacks, crevalles nei"
+15,"Jacks, crevalles nei_84",2016,3,"Jacks, crevalles nei"
+15,Marine fishes nei_85,1993,327,Marine fishes nei
+15,Marine fishes nei_85,1994,264,Marine fishes nei
+15,Marine fishes nei_85,1995,45,Marine fishes nei
+15,Marine fishes nei_85,1996,3,Marine fishes nei
+15,Marine fishes nei_85,1997,0.1,Marine fishes nei
+15,Marine fishes nei_85,1998,0.1,Marine fishes nei
+15,Marine fishes nei_85,1999,10,Marine fishes nei
+15,Marine fishes nei_85,2000,4,Marine fishes nei
+15,Marine fishes nei_85,2001,160,Marine fishes nei
+15,Marine fishes nei_85,2002,94,Marine fishes nei
+15,Marine fishes nei_86,2003,3,Marine fishes nei
+15,Marine fishes nei_85,2003,105,Marine fishes nei
+15,Marine fishes nei_86,2004,56,Marine fishes nei
+15,Marine fishes nei_85,2004,106,Marine fishes nei
+15,Marine fishes nei_86,2005,117,Marine fishes nei
+15,Marine fishes nei_85,2005,158,Marine fishes nei
+15,Marine fishes nei_86,2006,129,Marine fishes nei
+15,Marine fishes nei_85,2006,287,Marine fishes nei
+15,Marine fishes nei_86,2007,812,Marine fishes nei
+15,Marine fishes nei_85,2007,490,Marine fishes nei
+15,Marine fishes nei_86,2008,158,Marine fishes nei
+15,Marine fishes nei_85,2008,379,Marine fishes nei
+15,Marine fishes nei_86,2009,201,Marine fishes nei
+15,Marine fishes nei_85,2009,360.21,Marine fishes nei
+15,Marine fishes nei_86,2010,188,Marine fishes nei
+15,Marine fishes nei_85,2010,162,Marine fishes nei
+15,Marine fishes nei_86,2011,201,Marine fishes nei
+15,Marine fishes nei_85,2011,203,Marine fishes nei
+15,Marine fishes nei_86,2012,235,Marine fishes nei
+15,Marine fishes nei_85,2012,249,Marine fishes nei
+15,Marine fishes nei_86,2013,202,Marine fishes nei
+15,Marine fishes nei_85,2013,5,Marine fishes nei
+15,Marine fishes nei_86,2014,189,Marine fishes nei
+15,Marine fishes nei_85,2014,291,Marine fishes nei
+15,Marine fishes nei_86,2015,251,Marine fishes nei
+15,Marine fishes nei_85,2015,2,Marine fishes nei
+15,Marine fishes nei_86,2016,248,Marine fishes nei
+15,Marine fishes nei_85,2016,6,Marine fishes nei
+15,Metapenaeus shrimps nei_87,1973,10,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1974,15,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1975,18,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1976,23,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1977,28,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1978,34,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1979,20,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1980,9,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1981,17,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1982,18,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1983,130,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1984,448,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1985,896,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1986,620,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1987,670,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1988,682,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1989,864,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1990,5619,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1991,4273,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1992,1643,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1993,9493,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1993,8,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1994,1844,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1994,4,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1995,1295,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1995,0.1,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1996,1135,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1996,3,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1997,667,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1997,40,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1998,261,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1998,4,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,1999,339,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,1999,19,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2000,331,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2000,66,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2001,429,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2001,51,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2002,470,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2002,60,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2003,604,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2003,84,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2004,609,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2004,120,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2005,733,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2005,87,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2006,908,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2006,66,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2007,858,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2007,83,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2008,918,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2008,102,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2009,895,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2009,101,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2010,792,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2010,90,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2011,788,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2011,52,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2012,907,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2012,40,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2013,900,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2013,66,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2014,1294,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2014,64,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2015,1095,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2015,78,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_87,2016,758,Metapenaeus shrimps nei
+15,Metapenaeus shrimps nei_88,2016,64,Metapenaeus shrimps nei
+15,Milkfish_89,1950,22154,Milkfish
+15,Milkfish_89,1951,25812,Milkfish
+15,Milkfish_89,1952,27003,Milkfish
+15,Milkfish_89,1953,29121,Milkfish
+15,Milkfish_89,1954,30480,Milkfish
+15,Milkfish_89,1955,34569,Milkfish
+15,Milkfish_89,1956,33478,Milkfish
+15,Milkfish_89,1957,34290,Milkfish
+15,Milkfish_89,1958,50133,Milkfish
+15,Milkfish_89,1959,50538,Milkfish
+15,Milkfish_89,1960,52304,Milkfish
+15,Milkfish_89,1961,52918,Milkfish
+15,Milkfish_89,1962,53449,Milkfish
+15,Milkfish_89,1963,53978,Milkfish
+15,Milkfish_89,1964,54532,Milkfish
+15,Milkfish_89,1965,54982,Milkfish
+15,Milkfish_89,1966,55379,Milkfish
+15,Milkfish_89,1967,55603,Milkfish
+15,Milkfish_89,1968,84139,Milkfish
+15,Milkfish_89,1969,82279,Milkfish
+15,Milkfish_89,1970,83921,Milkfish
+15,Milkfish_89,1971,85186,Milkfish
+15,Milkfish_89,1972,86062,Milkfish
+15,Milkfish_89,1973,86652,Milkfish
+15,Milkfish_89,1974,98480,Milkfish
+15,Milkfish_89,1975,92621,Milkfish
+15,Milkfish_89,1976,98102,Milkfish
+15,Milkfish_89,1977,100708,Milkfish
+15,Milkfish_89,1978,103253,Milkfish
+15,Milkfish_89,1979,116230,Milkfish
+15,Milkfish_89,1980,150631,Milkfish
+15,Milkfish_89,1981,206507,Milkfish
+15,Milkfish_89,1982,219967,Milkfish
+15,Milkfish_89,1983,233515,Milkfish
+15,Milkfish_89,1984,155709,Milkfish
+15,Milkfish_89,1985,155344,Milkfish
+15,Milkfish_89,1986,158621,Milkfish
+15,Milkfish_89,1987,179791,Milkfish
+15,Milkfish_89,1988,175935,Milkfish
+15,Milkfish_89,1989,181197,Milkfish
+15,Milkfish_89,1990,191878,Milkfish
+15,Milkfish_89,1991,213674,Milkfish
+15,Milkfish_89,1992,145554,Milkfish
+15,Milkfish_89,1993,124510,Milkfish
+15,Milkfish_89,1994,135682,Milkfish
+15,Milkfish_89,1995,137796,Milkfish
+15,Milkfish_90,1995,166,Milkfish
+15,Milkfish_89,1996,139372,Milkfish
+15,Milkfish_90,1996,78,Milkfish
+15,Milkfish_89,1997,144076,Milkfish
+15,Milkfish_90,1997,221,Milkfish
+15,Milkfish_89,1998,141131,Milkfish
+15,Milkfish_90,1998,7545,Milkfish
+15,Milkfish_89,1999,155833,Milkfish
+15,Milkfish_90,1999,8692,Milkfish
+15,Milkfish_89,2000,186599,Milkfish
+15,Milkfish_90,2000,8872,Milkfish
+15,Milkfish_89,2001,211594,Milkfish
+15,Milkfish_90,2001,9941,Milkfish
+15,Milkfish_89,2002,203517,Milkfish
+15,Milkfish_90,2002,17481,Milkfish
+15,Milkfish_89,2003,202973,Milkfish
+15,Milkfish_90,2003,21817,Milkfish
+15,Milkfish_89,2004,208975,Milkfish
+15,Milkfish_90,2004,37351,Milkfish
+15,Milkfish_89,2005,219906,Milkfish
+15,Milkfish_90,2005,43970,Milkfish
+15,Milkfish_89,2006,220602,Milkfish
+15,Milkfish_90,2006,59907,Milkfish
+15,Milkfish_89,2007,229111,Milkfish
+15,Milkfish_90,2007,79347,Milkfish
+15,Milkfish_89,2008,226032,Milkfish
+15,Milkfish_90,2008,80365,Milkfish
+15,Milkfish_89,2009,225320,Milkfish
+15,Milkfish_90,2009,79153,Milkfish
+15,Milkfish_89,2010,219444,Milkfish
+15,Milkfish_90,2010,87199,Milkfish
+15,Milkfish_89,2011,226371,Milkfish
+15,Milkfish_90,2011,103958,Milkfish
+15,Milkfish_89,2012,232515,Milkfish
+15,Milkfish_90,2012,112690,Milkfish
+15,Milkfish_89,2013,236168,Milkfish
+15,Milkfish_90,2013,122718,Milkfish
+15,Milkfish_89,2014,229091,Milkfish
+15,Milkfish_90,2014,124247,Milkfish
+15,Milkfish_89,2015,229574,Milkfish
+15,Milkfish_90,2015,116063,Milkfish
+15,Milkfish_89,2016,244049,Milkfish
+15,Milkfish_90,2016,117150,Milkfish
+15,Scats_91,1991,11,Scats
+15,Scats_91,1992,2,Scats
+15,Scats_91,1993,2,Scats
+15,Scats_91,1994,2,Scats
+15,Scats_91,1995,0.1,Scats
+15,Scats_91,1996,0.1,Scats
+15,Scats_91,1997,0,Scats
+15,Scats_91,1998,0,Scats
+15,Scats_91,1999,0,Scats
+15,Scats_91,2000,0,Scats
+15,Scats_91,2001,0,Scats
+15,Scats_91,2002,0,Scats
+15,Scats_91,2003,0,Scats
+15,Scats_91,2004,0,Scats
+15,Scats_91,2005,0,Scats
+15,Scats_91,2006,0,Scats
+15,Scats_91,2007,0,Scats
+15,Scats_91,2008,0,Scats
+15,Scats_91,2009,0,Scats
+15,Scats_91,2010,0,Scats
+15,Scats_91,2011,0,Scats
+15,Scats_91,2012,0,Scats
+15,Scats_91,2013,0,Scats
+15,Scats_91,2014,0,Scats
+15,Scats_91,2015,0,Scats
+15,Scats_91,2016,0,Scats
+15,Snappers nei_92,1996,1,Snappers nei
+15,Snappers nei_92,1997,27,Snappers nei
+15,Snappers nei_92,1998,2,Snappers nei
+15,Snappers nei_92,1999,2,Snappers nei
+15,Snappers nei_92,2000,14,Snappers nei
+15,Snappers nei_92,2001,7,Snappers nei
+15,Snappers nei_92,2002,3,Snappers nei
+15,Snappers nei_92,2003,1,Snappers nei
+15,Snappers nei_92,2004,2,Snappers nei
+15,Snappers nei_92,2005,2,Snappers nei
+15,Snappers nei_92,2006,2,Snappers nei
+15,Snappers nei_92,2007,7,Snappers nei
+15,Snappers nei_92,2008,7,Snappers nei
+15,Snappers nei_92,2009,8,Snappers nei
+15,Snappers nei_92,2010,9,Snappers nei
+15,Snappers nei_92,2011,8,Snappers nei
+15,Snappers nei_92,2012,24,Snappers nei
+15,Snappers nei_92,2013,24,Snappers nei
+15,Snappers nei_92,2014,24,Snappers nei
+15,Snappers nei_92,2015,23,Snappers nei
+15,Snappers nei_92,2016,26,Snappers nei
+15,Tropical spiny lobsters nei_93,1994,2,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,1995,1,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,1996,6,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,1997,5,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,1998,10,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,1999,19,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2000,27,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2001,17,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2002,10,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2003,18,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2004,19,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2005,19,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2006,23,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2007,64,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2008,72,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2009,64,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2010,89,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2011,68,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2012,38,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2013,13,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2014,10,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2015,9,Tropical spiny lobsters nei
+15,Tropical spiny lobsters nei_93,2016,10,Tropical spiny lobsters nei
+15,Whiteleg shrimp_94,2008,1854,Whiteleg shrimp
+15,Whiteleg shrimp_94,2009,3112,Whiteleg shrimp
+15,Whiteleg shrimp_94,2010,4971,Whiteleg shrimp
+15,Whiteleg shrimp_94,2011,4182,Whiteleg shrimp
+15,Whiteleg shrimp_94,2012,5558,Whiteleg shrimp
+15,Whiteleg shrimp_94,2013,7597,Whiteleg shrimp
+15,Whiteleg shrimp_94,2014,7626,Whiteleg shrimp
+15,Whiteleg shrimp_94,2015,8752,Whiteleg shrimp
+15,Whiteleg shrimp_94,2016,10233,Whiteleg shrimp
