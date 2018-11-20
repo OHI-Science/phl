@@ -149,6 +149,8 @@ scores_plot <- scores_plot %>%
 ## display
 scores_plot %>% 
   DT::datatable()
+
+scores_plot %>% write_csv("data/scores_lookup.csv")
 ```
 
 
@@ -383,6 +385,10 @@ mar_harvest_tonnes %>%
             total_tonnes = sum(tonnes),
             mean_tonnes  = mean(tonnes)) %>%
   DT::datatable()
+
+## save as csv:
+mar_harvest_tonnes %>% write_csv("data/mar_harvest_tonnes.csv")
+
 ```
 
 <br>
@@ -427,6 +433,9 @@ lsp_combo <- left_join(
   
 lsp_combo %>%
   DT::datatable()
+
+## save as csv:
+lsp_combo %>% write_csv("data/lsp_combo.csv")
 
 ```
 
@@ -493,6 +502,9 @@ hab_extent_rgn <- rbind(
 
 hab_extent_rgn %>%
   DT::datatable()
+
+#save csv
+hab_extent_rgn %>% write_csv("data/hab_extent_rgn.csv")
 ```
 
 
@@ -530,6 +542,9 @@ hab_health_rgn <- rbind(
 
 hab_health_rgn %>%
   DT::datatable()
+
+#save csv
+hab_health_rgn %>% write_csv("data/hab_health_rgn.csv")
 ```
 
 
@@ -555,6 +570,9 @@ np_harvest_tonnes <- np_harvest_tonnes_csv %>%
 np_harvest_tonnes %>%
   distinct(commodity, product) %>%
   DT::datatable()
+
+#save csv
+np_harvest_tonnes %>% write_csv("data/np_harvest_tonnes.csv")
 ```
 
 <br>
@@ -568,6 +586,9 @@ We can also look at how much of this was gapfilled:
 np_harvest_tonnes %>%
   select(commodity, product, year, gapfill) %>%
   DT::datatable()
+
+#save csv
+np_harvest_tonnes %>% write_csv("data/np_harvest_tonnes_gf.csv")
 ```
 
 #### Discussion
@@ -620,6 +641,9 @@ For Species, there are probably more than we can go through today. But, here is 
 rgn_spp_gl %>%
   select(comname, sciname) %>%
   DT::datatable()
+
+#save csv
+rgn_spp_gl %>% write_csv("data/rgn_spp_gl.csv")
 ```
 
 <br>
@@ -641,4 +665,7 @@ ico_spp_code <- ico_spp_iucn_status %>%
 ico_spp_code %>%
   select(comname, sciname) %>% distinct() %>% #data.frame()
   DT::datatable()
+
+#save csv
+ico_spp_code %>% write_csv("data/ico_spp_code.csv")
 ```
