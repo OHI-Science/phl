@@ -27,7 +27,7 @@ rawprep_prefix <- "https://raw.githubusercontent.com/OHI-Science/ohiprep_v2017/m
 
 ## get global rgn_id
 rgn_global <- read_csv(file.path(rawkey_prefix, 'eez/layers/rgn_global.csv')) %>%
-  filter(label == rgn_name) # ken is 43
+  filter(label == rgn_name) # 
 
 ## scores, gapfilling
 scores_csv <- read_csv(file.path(rawkey_prefix, "eez/scores.csv")) 
