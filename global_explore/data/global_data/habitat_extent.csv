@@ -1,0 +1,1158 @@
+rgn_id,habitat,year,km2,label
+1,soft_bottom,2012,164.171153134499,Cocos Islands
+2,soft_bottom,2012,82.9588273817949,Christmas Island
+3,soft_bottom,2012,3370.74814414451,Norfolk Island
+4,soft_bottom,2012,347.553824188994,Macquarie Island
+5,soft_bottom,2012,10926.9874424042,New Caledonia
+6,soft_bottom,2012,1017.33719894517,Vanuatu
+7,soft_bottom,2012,9662.52026294275,Solomon Islands
+8,soft_bottom,2012,130.987622181782,Palau
+9,soft_bottom,2012,7479.39322657972,Micronesia
+10,soft_bottom,2012,27.9440260654467,Nauru
+11,soft_bottom,2012,2848.54415704647,Marshall Islands
+13,soft_bottom,2012,405.188377948977,Northern Mariana Islands and Guam
+14,soft_bottom,2012,70752.527496082,Taiwan
+15,soft_bottom,2012,41759.7272023665,Philippines
+16,soft_bottom,2012,2019537.46827101,Australia
+17,soft_bottom,2012,138014.671486427,Papua New Guinea
+18,soft_bottom,2012,10475.5167712843,Fiji
+19,soft_bottom,2012,3182.12596820275,Tuvalu
+20,soft_bottom,2012,241544.668306463,South Korea
+21,soft_bottom,2012,34403.4623406376,North Korea
+24,soft_bottom,2012,47772.9323113248,Cambodia
+25,soft_bottom,2012,217190.576339612,Thailand
+26,soft_bottom,2012,6372.1111937364,Andaman and Nicobar
+28,soft_bottom,2012,920.406358530651,Comoro Islands
+29,soft_bottom,2012,1433.00458666869,Mayotte
+30,soft_bottom,2012,142.339882770869,Glorioso Islands
+31,soft_bottom,2012,37210.9637094005,Seychelles
+32,soft_bottom,2012,227.9184625963,R_union
+33,soft_bottom,2012,382.483856770802,Juan de Nova Island
+34,soft_bottom,2012,186.875674312675,Bassas da India
+37,soft_bottom,2012,26414.0906383635,Mauritius
+38,soft_bottom,2012,14723.0087332322,British Indian Ocean Territory
+39,soft_bottom,2012,6541.52185175817,Maldives
+40,soft_bottom,2012,27375.5397851778,Sri Lanka
+41,soft_bottom,2012,74615.78909963,Mozambique
+42,soft_bottom,2012,83880.1069911401,Madagascar
+43,soft_bottom,2012,7024.42955220167,Kenya
+44,soft_bottom,2012,44517.4532747003,Somalia
+45,soft_bottom,2012,58341.0136689509,Eritrea
+46,soft_bottom,2012,1219.05813710511,Djibouti
+47,soft_bottom,2012,50103.638735346,Yemen
+48,soft_bottom,2012,48640.9436209827,Oman
+49,soft_bottom,2012,15770.0364598719,Sudan
+50,soft_bottom,2012,89096.0341064187,Saudi Arabia
+51,soft_bottom,2012,11811.5905175385,Kuwait
+52,soft_bottom,2012,7652.29688785968,Bahrain
+53,soft_bottom,2012,48395.5601420955,Pakistan
+54,soft_bottom,2012,52828.181276727,United Arab Emirates
+55,soft_bottom,2012,1779.68516004314,Azores
+56,soft_bottom,2012,4776.6819555623,Cape Verde
+57,soft_bottom,2012,796.404742865232,Madeira
+58,soft_bottom,2012,5102.40450938766,Canary Islands
+59,soft_bottom,2012,3453.70697152631,Belgium
+60,soft_bottom,2012,45.4090423563509,Gibraltar
+61,soft_bottom,2012,32745.1590438163,Tunisia
+62,soft_bottom,2012,50705.3085465676,Morocco
+63,soft_bottom,2012,56402.3968606606,Western Sahara
+64,soft_bottom,2012,27612.1907559195,Mauritania
+65,soft_bottom,2012,4921.6415907768,Gambia
+66,soft_bottom,2012,22442.5459338119,Senegal
+67,soft_bottom,2012,42361.3970135881,Libya
+68,soft_bottom,2012,5325.95671791124,Malta
+69,soft_bottom,2012,28157.9725150103,Latvia
+70,soft_bottom,2012,36262.6133248044,Estonia
+71,soft_bottom,2012,8977.89162433931,Bulgaria
+72,soft_bottom,2012,21791.9740769757,Romania
+73,soft_bottom,2012,3800720.2534611,Russia
+74,soft_bottom,2012,3059.87085416642,Georgia
+75,soft_bottom,2012,70542.9473005912,Ukraine
+76,soft_bottom,2012,44658.9199066566,Turkey
+77,soft_bottom,2012,978.91416310518,Syria
+78,soft_bottom,2012,1038.29521849425,Lebanon
+79,soft_bottom,2012,3842.30358399892,Israel
+80,soft_bottom,2012,69073.2661797116,Greece
+81,soft_bottom,2012,3457.19997478449,Cyprus
+82,soft_bottom,2012,5484.01511534392,Albania
+84,soft_bottom,2012,6550.25435990362,Algeria
+85,soft_bottom,2012,155.438644989047,Ascension
+86,soft_bottom,2012,489.020456145318,Saint Helena
+88,soft_bottom,2012,1019.95695138881,Tristan da Cunha
+89,soft_bottom,2012,23155.1185984808,South Georgia and the South Sandwich Islands
+90,soft_bottom,2012,262.848495178108,Prince Edward Islands
+92,soft_bottom,2012,52.3950488727126,Amsterdam Island and Saint Paul Island
+93,soft_bottom,2012,45543.5229817909,Kerguelen Islands
+94,soft_bottom,2012,6338.05441196913,Heard and McDonald Islands
+95,soft_bottom,2012,172947.323820679,Falkland Islands
+96,soft_bottom,2012,24073.7784553824,Sierra Leone
+97,soft_bottom,2012,18128.6869099586,Liberia
+98,soft_bottom,2012,361.525837221717,Togo
+100,soft_bottom,2012,4629.9758187187,Republique du Congo
+101,soft_bottom,2012,84453.8327762963,Namibia
+102,soft_bottom,2012,147188.171293224,South Africa
+103,soft_bottom,2012,1603.28849550501,Sao Tome and Principe
+104,soft_bottom,2012,7823.45404751054,Equatorial Guinea
+106,soft_bottom,2012,21653.127197463,Ghana
+107,soft_bottom,2012,21.8312703636302,Clipperton Island
+108,soft_bottom,2012,84.705329010885393,Bermuda
+110,soft_bottom,2012,88897.8061715169,Bahamas
+111,soft_bottom,2012,4875.35929760591,Turks and Caicos Islands
+112,soft_bottom,2012,58523.5230891909,Cuba
+113,soft_bottom,2012,239.270723185388,Cayman Islands
+114,soft_bottom,2012,3121.87166199913,Haiti
+115,soft_bottom,2012,8120.35932445591,Dominican Republic
+116,soft_bottom,2012,7330.06733729249,Puerto Rico and Virgin Islands of the United States
+117,soft_bottom,2012,2385.72122533751,British Virgin Islands
+118,soft_bottom,2012,1757.85388967951,Anguilla
+119,soft_bottom,2012,231.411465854481,Saint Kitts and Nevis
+120,soft_bottom,2012,2673.89399413743,Antigua and Barbuda
+121,soft_bottom,2012,133.607374625417,Montserrat
+122,soft_bottom,2012,367.638592923533,Saint Lucia
+123,soft_bottom,2012,427.019648312608,Dominica
+124,soft_bottom,2012,174.650162909042,Barbados
+125,soft_bottom,2012,1407.68031304688,Grenada
+126,soft_bottom,2012,22094.9921096229,Trinidad and Tobago
+127,soft_bottom,2012,1264.46717946146,Saint Vincent and the Grenadines
+129,soft_bottom,2012,10297.3736051171,Panama
+130,soft_bottom,2012,10046.7506213426,Costa Rica
+131,soft_bottom,2012,26104.0865992,Nicaragua
+132,soft_bottom,2012,18752.1879915438,Colombia
+133,soft_bottom,2012,30542.8204895333,Honduras
+134,soft_bottom,2012,15012.9280036613,El Salvador
+135,soft_bottom,2012,386781.124029179,Mexico
+136,soft_bottom,2012,14104.7471565342,Guatemala
+137,soft_bottom,2012,33265.6165292852,Ecuador
+138,soft_bottom,2012,79751.3771399704,Peru
+139,soft_bottom,2012,87354.7719822155,Venezuela
+140,soft_bottom,2012,597.303557148924,Guadeloupe and Martinique
+141,soft_bottom,2012,24179.4418039423,Faeroe Islands
+143,soft_bottom,2012,107824.64432597,Iceland
+144,soft_bottom,2012,879.363570247026,Jan Mayen
+145,soft_bottom,2012,383112.597357275,Greenland
+147,soft_bottom,2012,11623.8415924113,French Polynesia
+148,soft_bottom,2012,308.257537534459,Line Islands (Kiribati)
+149,soft_bottom,2012,7.85925733090689,Jarvis Island
+150,soft_bottom,2012,824.348768930678,Palmyra Atoll
+153,soft_bottom,2012,192.115179199946,Cook Islands
+154,soft_bottom,2012,10.4790097745425,Niue
+155,soft_bottom,2012,1481.03338146868,Tonga
+157,soft_bottom,2012,35.8032833963536,Phoenix Islands (Kiribati)
+158,soft_bottom,2012,27.9440260654467,Howland Island and Baker Island
+159,soft_bottom,2012,235.777719927207,Johnston Atoll
+161,soft_bottom,2012,310.877289978095,Wallis and Futuna
+162,soft_bottom,2012,263534.870318341,New Zealand
+163,soft_bottom,2012,1992818.61309837,United States
+164,soft_bottom,2012,1455.70910784687,Belize
+166,soft_bottom,2012,8536.02671217943,Jamaica
+167,soft_bottom,2012,47438.477249354,Guyana
+168,soft_bottom,2012,51491.2342796583,Suriname
+169,soft_bottom,2012,41968.4341470428,French Guiana
+171,soft_bottom,2012,643378.016625958,Brazil
+172,soft_bottom,2012,793370.196284687,Argentina
+173,soft_bottom,2012,66921.5761726722,Uruguay
+174,soft_bottom,2012,78355.0490875126,Finland
+175,soft_bottom,2012,98897.4012488741,Denmark
+176,soft_bottom,2012,55958.7854468716,Germany
+177,soft_bottom,2012,64031.1159765275,Netherlands
+178,soft_bottom,2012,31832.6119426165,Poland
+179,soft_bottom,2012,90456.5588754801,France
+180,soft_bottom,2012,490611.519129419,United Kingdom
+181,soft_bottom,2012,135362.608762653,Ireland
+182,soft_bottom,2012,65751.4200811816,Spain
+183,soft_bottom,2012,20508.2953795943,Portugal
+184,soft_bottom,2012,102064.68195323,Italy
+186,soft_bottom,2012,4021.32000098069,Montenegro
+187,soft_bottom,2012,46047.3887017835,Croatia
+188,soft_bottom,2012,187.74892512722,Slovenia
+189,soft_bottom,2012,6107.5161969292,Lithuania
+190,soft_bottom,2012,30884.2615580204,Qatar
+191,soft_bottom,2012,112468.592157721,Iran
+192,soft_bottom,2012,582.458293301655,Iraq
+193,soft_bottom,2012,36197.992764528,Guinea Bissau
+194,soft_bottom,2012,48066.344585012,Guinea
+195,soft_bottom,2012,9607.5054616264,Ivory Coast
+196,soft_bottom,2012,66.367061905436,Nigeria
+197,soft_bottom,2012,9159.52779376471,Cameroon
+198,soft_bottom,2012,903.814593054292,Gabon
+199,soft_bottom,2012,2909.67171406464,Democratic Republic of the Congo
+200,soft_bottom,2012,35096.8234873865,Angola
+202,soft_bottom,2012,16765.5423884535,Tanzania
+203,soft_bottom,2012,343735.971627802,India
+204,soft_bottom,2012,58389.9157145655,Bangladesh
+205,soft_bottom,2012,184735.336566225,Myanmar
+206,soft_bottom,2012,311513.016571084,Malaysia
+207,soft_bottom,2012,353481.450718126,Vietnam
+208,soft_bottom,2012,611.275570181647,Singapore
+209,soft_bottom,2012,793950.90807636,China
+210,soft_bottom,2012,253349.272817485,Japan
+212,soft_bottom,2012,581.58504248711,Gilbert Islands (Kiribati)
+214,soft_bottom,2012,42945.6018085189,Egypt
+216,soft_bottom,2012,1583625.50691389,Indonesia
+218,soft_bottom,2012,2711846.34778838,Canada
+219,soft_bottom,2012,7795.51002144509,Saint Pierre and Miquelon
+220,soft_bottom,2012,6.11275570181647,Sint Maarten
+221,soft_bottom,2012,1261.84742701783,Northern Saint-Martin
+222,soft_bottom,2012,147076.395188962,Sweden
+223,soft_bottom,2012,459781.3991219,Norway
+224,soft_bottom,2012,198757.124895377,Chile
+227,soft_bottom,2012,1548.27369418866,Jersey
+228,soft_bottom,2012,1193.7338634833,Guernsey
+231,soft_bottom,2012,3049.39184439187,East Timor
+232,soft_bottom,2012,9.60575895999731,Bosnia and Herzegovina
+237,soft_bottom,2012,106.536599374516,Oecussi Ambeno
+247,soft_bottom,2012,3079.95562290096,Brunei
+248,soft_bottom,2012,1292.41120552691,Saba
+249,soft_bottom,2012,6.98600651636168,Sint Eustatius
+1,mangrove,2015,0,Cocos Islands
+2,mangrove,2015,0,Christmas Island
+3,mangrove,2015,0,Norfolk Island
+4,mangrove,2015,0,Macquarie Island
+5,mangrove,2015,93.774893,New Caledonia
+6,mangrove,2015,9.802309,Vanuatu
+7,mangrove,2015,397.23933,Solomon Islands
+8,mangrove,2015,47.341449,Palau
+9,mangrove,2015,7.273821,Micronesia
+10,mangrove,2015,0,Nauru
+11,mangrove,2015,0,Marshall Islands
+12,mangrove,2015,0,Wake Island
+13,mangrove,2015,0,Northern Mariana Islands and Guam
+14,mangrove,2015,0.922028,Taiwan
+15,mangrove,2015,2088.473236,Philippines
+16,mangrove,2015,3167.272391,Australia
+17,mangrove,2015,4247.351979,Papua New Guinea
+18,mangrove,2015,388.554334,Fiji
+19,mangrove,2015,0,Tuvalu
+20,mangrove,2015,0,South Korea
+21,mangrove,2015,0,North Korea
+24,mangrove,2015,323.997443,Cambodia
+25,mangrove,2015,1915.404873,Thailand
+26,mangrove,2015,523.126979,Andaman and Nicobar
+28,mangrove,2015,0.725981,Comoro Islands
+29,mangrove,2015,3.24778,Mayotte
+30,mangrove,2015,0,Glorioso Islands
+31,mangrove,2015,5.18548,Seychelles
+32,mangrove,2015,0,R_union
+33,mangrove,2015,0,Juan de Nova Island
+34,mangrove,2015,0,Bassas da India
+35,mangrove,2015,0,Ile Europa
+36,mangrove,2015,0,Ile Tromelin
+37,mangrove,2015,0,Mauritius
+38,mangrove,2015,0,British Indian Ocean Territory
+39,mangrove,2015,0.292447,Maldives
+40,mangrove,2015,33.506994,Sri Lanka
+41,mangrove,2015,1191.805675,Mozambique
+42,mangrove,2015,838.750025,Madagascar
+43,mangrove,2015,237.693446,Kenya
+44,mangrove,2015,8.324245,Somalia
+45,mangrove,2015,1.217213,Eritrea
+46,mangrove,2015,0.171212,Djibouti
+47,mangrove,2015,0.165591,Yemen
+48,mangrove,2015,0.017796,Oman
+49,mangrove,2015,0.016089,Sudan
+50,mangrove,2015,0.301804,Saudi Arabia
+51,mangrove,2015,0,Kuwait
+52,mangrove,2015,2.7e-5,Bahrain
+53,mangrove,2015,10.813692,Pakistan
+54,mangrove,2015,0.279341,United Arab Emirates
+55,mangrove,2015,0,Azores
+56,mangrove,2015,0,Cape Verde
+57,mangrove,2015,0,Madeira
+58,mangrove,2015,0,Canary Islands
+59,mangrove,2015,0,Belgium
+60,mangrove,2015,0,Gibraltar
+61,mangrove,2015,0,Tunisia
+62,mangrove,2015,0.293685,Morocco
+63,mangrove,2015,0,Western Sahara
+64,mangrove,2015,0,Mauritania
+65,mangrove,2015,48.515827,Gambia
+66,mangrove,2015,154.932571,Senegal
+67,mangrove,2015,0,Libya
+68,mangrove,2015,0,Malta
+69,mangrove,2015,0,Latvia
+70,mangrove,2015,0,Estonia
+71,mangrove,2015,0,Bulgaria
+72,mangrove,2015,0,Romania
+73,mangrove,2015,0,Russia
+74,mangrove,2015,0,Georgia
+75,mangrove,2015,0,Ukraine
+76,mangrove,2015,0,Turkey
+77,mangrove,2015,0,Syria
+78,mangrove,2015,0,Lebanon
+79,mangrove,2015,0,Israel
+80,mangrove,2015,0,Greece
+81,mangrove,2015,0,Cyprus
+82,mangrove,2015,0,Albania
+84,mangrove,2015,0,Algeria
+85,mangrove,2015,0,Ascension
+86,mangrove,2015,0,Saint Helena
+88,mangrove,2015,0,Tristan da Cunha
+89,mangrove,2015,0,South Georgia and the South Sandwich Islands
+90,mangrove,2015,0,Prince Edward Islands
+91,mangrove,2015,0,Crozet Islands
+92,mangrove,2015,0,Amsterdam Island and Saint Paul Island
+93,mangrove,2015,0,Kerguelen Islands
+94,mangrove,2015,0,Heard and McDonald Islands
+95,mangrove,2015,0,Falkland Islands
+96,mangrove,2015,666.56775,Sierra Leone
+97,mangrove,2015,46.741033,Liberia
+98,mangrove,2015,0.792717,Togo
+99,mangrove,2015,6.651261,Benin
+100,mangrove,2015,0,Republique du Congo
+101,mangrove,2015,0,Namibia
+102,mangrove,2015,6.106863,South Africa
+103,mangrove,2015,0,Sao Tome and Principe
+104,mangrove,2015,160.566319,Equatorial Guinea
+105,mangrove,2015,0,Bouvet Island
+106,mangrove,2015,24.446811,Ghana
+107,mangrove,2015,0,Clipperton Island
+108,mangrove,2015,0.024013,Bermuda
+110,mangrove,2015,34.005232,Bahamas
+111,mangrove,2015,0.188969,Turks and Caicos Islands
+112,mangrove,2015,1559.117081,Cuba
+113,mangrove,2015,44.818161,Cayman Islands
+114,mangrove,2015,39.682453,Haiti
+115,mangrove,2015,96.92963,Dominican Republic
+116,mangrove,2015,46.788706,Puerto Rico and Virgin Islands of the United States
+117,mangrove,2015,0.262598,British Virgin Islands
+118,mangrove,2015,0.021232,Anguilla
+119,mangrove,2015,0.119292,Saint Kitts and Nevis
+120,mangrove,2015,1.517098,Antigua and Barbuda
+121,mangrove,2015,0,Montserrat
+122,mangrove,2015,0.868182,Saint Lucia
+123,mangrove,2015,0,Dominica
+124,mangrove,2015,0.059163,Barbados
+125,mangrove,2015,1.119778,Grenada
+126,mangrove,2015,51.221458,Trinidad and Tobago
+127,mangrove,2015,0.199127,Saint Vincent and the Grenadines
+129,mangrove,2015,1354.293356,Panama
+130,mangrove,2015,337.332012,Costa Rica
+131,mangrove,2015,553.290666,Nicaragua
+132,mangrove,2015,1710.455046,Colombia
+133,mangrove,2015,516.874149,Honduras
+134,mangrove,2015,237.958244,El Salvador
+135,mangrove,2015,2896.112355,Mexico
+136,mangrove,2015,252.270343,Guatemala
+137,mangrove,2015,959.695372,Ecuador
+138,mangrove,2015,17.703439,Peru
+139,mangrove,2015,2433.660497,Venezuela
+140,mangrove,2015,29.295968,Guadeloupe and Martinique
+141,mangrove,2015,0,Faeroe Islands
+143,mangrove,2015,0,Iceland
+144,mangrove,2015,0,Jan Mayen
+145,mangrove,2015,0,Greenland
+146,mangrove,2015,0,Pitcairn
+147,mangrove,2015,0,French Polynesia
+148,mangrove,2015,0,Line Islands (Kiribati)
+149,mangrove,2015,0,Jarvis Island
+150,mangrove,2015,0,Palmyra Atoll
+151,mangrove,2015,0,American Samoa
+152,mangrove,2015,0,Samoa
+153,mangrove,2015,0,Cook Islands
+154,mangrove,2015,0,Niue
+155,mangrove,2015,0,Tonga
+156,mangrove,2015,0,Tokelau
+157,mangrove,2015,0,Phoenix Islands (Kiribati)
+158,mangrove,2015,0,Howland Island and Baker Island
+159,mangrove,2015,0,Johnston Atoll
+161,mangrove,2015,0,Wallis and Futuna
+162,mangrove,2015,66.026256,New Zealand
+163,mangrove,2015,1447.704175,United States
+164,mangrove,2015,298.680853,Belize
+166,mangrove,2015,42.539842,Jamaica
+167,mangrove,2015,186.973947,Guyana
+168,mangrove,2015,518.360874,Suriname
+169,mangrove,2015,678.42603,French Guiana
+171,mangrove,2015,7784.695412,Brazil
+172,mangrove,2015,0,Argentina
+173,mangrove,2015,0,Uruguay
+174,mangrove,2015,0,Finland
+175,mangrove,2015,0,Denmark
+176,mangrove,2015,0,Germany
+177,mangrove,2015,0,Netherlands
+178,mangrove,2015,0,Poland
+179,mangrove,2015,0,France
+180,mangrove,2015,0,United Kingdom
+181,mangrove,2015,0,Ireland
+182,mangrove,2015,0,Spain
+183,mangrove,2015,0,Portugal
+184,mangrove,2015,0,Italy
+185,mangrove,2015,0,Monaco
+186,mangrove,2015,0,Montenegro
+187,mangrove,2015,0,Croatia
+188,mangrove,2015,0,Slovenia
+189,mangrove,2015,0,Lithuania
+190,mangrove,2015,7.28e-4,Qatar
+191,mangrove,2015,0.035458,Iran
+192,mangrove,2015,0,Iraq
+193,mangrove,2015,756.476474,Guinea Bissau
+194,mangrove,2015,825.060834,Guinea
+195,mangrove,2015,23.207009,Ivory Coast
+196,mangrove,2015,2707.896115,Nigeria
+197,mangrove,2015,1133.865849,Cameroon
+198,mangrove,2015,1094.562069,Gabon
+199,mangrove,2015,148.154359,Democratic Republic of the Congo
+200,mangrove,2015,186.423077,Angola
+202,mangrove,2015,485.418822,Tanzania
+203,mangrove,2015,271.161429,India
+204,mangrove,2015,1673.903359,Bangladesh
+205,mangrove,2015,2543.940877,Myanmar
+206,mangrove,2015,4841.344193,Malaysia
+207,mangrove,2015,715.231851,Vietnam
+208,mangrove,2015,4.207669,Singapore
+209,mangrove,2015,31.514598,China
+210,mangrove,2015,7.410579,Japan
+212,mangrove,2015,0,Gilbert Islands (Kiribati)
+213,mangrove,2015,0,Antarctica
+214,mangrove,2015,0.005978,Egypt
+215,mangrove,2015,0,Jordan
+216,mangrove,2015,23869.890278,Indonesia
+218,mangrove,2015,0,Canada
+219,mangrove,2015,0,Saint Pierre and Miquelon
+220,mangrove,2015,0,Sint Maarten
+221,mangrove,2015,0.043435,Northern Saint-Martin
+222,mangrove,2015,0,Sweden
+223,mangrove,2015,0,Norway
+224,mangrove,2015,0,Chile
+227,mangrove,2015,0,Jersey
+228,mangrove,2015,0,Guernsey
+231,mangrove,2015,5.99694,East Timor
+232,mangrove,2015,0,Bosnia and Herzegovina
+237,mangrove,2015,1.045822,Oecussi Ambeno
+244,mangrove,2015,0.286146,Curacao
+245,mangrove,2015,0.894529,Bonaire
+247,mangrove,2015,106.200843,Brunei
+248,mangrove,2015,0,Saba
+249,mangrove,2015,0,Sint Eustatius
+250,mangrove,2015,0.106146,Aruba
+1,mangrove_inland1km,2015,0,Cocos Islands
+2,mangrove_inland1km,2015,0,Christmas Island
+3,mangrove_inland1km,2015,0,Norfolk Island
+4,mangrove_inland1km,2015,0,Macquarie Island
+5,mangrove_inland1km,2015,51.783111,New Caledonia
+6,mangrove_inland1km,2015,1.715463,Vanuatu
+7,mangrove_inland1km,2015,211.862749,Solomon Islands
+8,mangrove_inland1km,2015,21.940169,Palau
+9,mangrove_inland1km,2015,3.042212,Micronesia
+10,mangrove_inland1km,2015,0,Nauru
+11,mangrove_inland1km,2015,0,Marshall Islands
+12,mangrove_inland1km,2015,0,Wake Island
+13,mangrove_inland1km,2015,0,Northern Mariana Islands and Guam
+14,mangrove_inland1km,2015,0.181169,Taiwan
+15,mangrove_inland1km,2015,1321.724156,Philippines
+16,mangrove_inland1km,2015,1558.68975,Australia
+17,mangrove_inland1km,2015,1645.329491,Papua New Guinea
+18,mangrove_inland1km,2015,200.488589,Fiji
+19,mangrove_inland1km,2015,0,Tuvalu
+20,mangrove_inland1km,2015,0,South Korea
+21,mangrove_inland1km,2015,0,North Korea
+24,mangrove_inland1km,2015,118.237109,Cambodia
+25,mangrove_inland1km,2015,734.552307,Thailand
+26,mangrove_inland1km,2015,215.162432,Andaman and Nicobar
+28,mangrove_inland1km,2015,0.2606,Comoro Islands
+29,mangrove_inland1km,2015,2.54257,Mayotte
+30,mangrove_inland1km,2015,0,Glorioso Islands
+31,mangrove_inland1km,2015,2.894147,Seychelles
+32,mangrove_inland1km,2015,0,R_union
+33,mangrove_inland1km,2015,0,Juan de Nova Island
+34,mangrove_inland1km,2015,0,Bassas da India
+35,mangrove_inland1km,2015,0,Ile Europa
+36,mangrove_inland1km,2015,0,Ile Tromelin
+37,mangrove_inland1km,2015,0,Mauritius
+38,mangrove_inland1km,2015,0,British Indian Ocean Territory
+39,mangrove_inland1km,2015,0.060167,Maldives
+40,mangrove_inland1km,2015,11.800836,Sri Lanka
+41,mangrove_inland1km,2015,438.20722,Mozambique
+42,mangrove_inland1km,2015,378.10849,Madagascar
+43,mangrove_inland1km,2015,133.551543,Kenya
+44,mangrove_inland1km,2015,2.154627,Somalia
+45,mangrove_inland1km,2015,0.908722,Eritrea
+46,mangrove_inland1km,2015,0.116641,Djibouti
+47,mangrove_inland1km,2015,0.108587,Yemen
+48,mangrove_inland1km,2015,0.012801,Oman
+49,mangrove_inland1km,2015,0.004251,Sudan
+50,mangrove_inland1km,2015,0.125464,Saudi Arabia
+51,mangrove_inland1km,2015,0,Kuwait
+52,mangrove_inland1km,2015,0,Bahrain
+53,mangrove_inland1km,2015,4.196917,Pakistan
+54,mangrove_inland1km,2015,0.085769,United Arab Emirates
+55,mangrove_inland1km,2015,0,Azores
+56,mangrove_inland1km,2015,0,Cape Verde
+57,mangrove_inland1km,2015,0,Madeira
+58,mangrove_inland1km,2015,0,Canary Islands
+59,mangrove_inland1km,2015,0,Belgium
+60,mangrove_inland1km,2015,0,Gibraltar
+61,mangrove_inland1km,2015,0,Tunisia
+62,mangrove_inland1km,2015,0,Morocco
+63,mangrove_inland1km,2015,0,Western Sahara
+64,mangrove_inland1km,2015,0,Mauritania
+65,mangrove_inland1km,2015,13.023004,Gambia
+66,mangrove_inland1km,2015,28.440871,Senegal
+67,mangrove_inland1km,2015,0,Libya
+68,mangrove_inland1km,2015,0,Malta
+69,mangrove_inland1km,2015,0,Latvia
+70,mangrove_inland1km,2015,0,Estonia
+71,mangrove_inland1km,2015,0,Bulgaria
+72,mangrove_inland1km,2015,0,Romania
+73,mangrove_inland1km,2015,0,Russia
+74,mangrove_inland1km,2015,0,Georgia
+75,mangrove_inland1km,2015,0,Ukraine
+76,mangrove_inland1km,2015,0,Turkey
+77,mangrove_inland1km,2015,0,Syria
+78,mangrove_inland1km,2015,0,Lebanon
+79,mangrove_inland1km,2015,0,Israel
+80,mangrove_inland1km,2015,0,Greece
+81,mangrove_inland1km,2015,0,Cyprus
+82,mangrove_inland1km,2015,0,Albania
+84,mangrove_inland1km,2015,0,Algeria
+85,mangrove_inland1km,2015,0,Ascension
+86,mangrove_inland1km,2015,0,Saint Helena
+88,mangrove_inland1km,2015,0,Tristan da Cunha
+89,mangrove_inland1km,2015,0,South Georgia and the South Sandwich Islands
+90,mangrove_inland1km,2015,0,Prince Edward Islands
+91,mangrove_inland1km,2015,0,Crozet Islands
+92,mangrove_inland1km,2015,0,Amsterdam Island and Saint Paul Island
+93,mangrove_inland1km,2015,0,Kerguelen Islands
+94,mangrove_inland1km,2015,0,Heard and McDonald Islands
+95,mangrove_inland1km,2015,0,Falkland Islands
+96,mangrove_inland1km,2015,199.997288,Sierra Leone
+97,mangrove_inland1km,2015,13.414995,Liberia
+98,mangrove_inland1km,2015,9.2e-5,Togo
+99,mangrove_inland1km,2015,1.364714,Benin
+100,mangrove_inland1km,2015,0,Republique du Congo
+101,mangrove_inland1km,2015,0,Namibia
+102,mangrove_inland1km,2015,2.971943,South Africa
+103,mangrove_inland1km,2015,0,Sao Tome and Principe
+104,mangrove_inland1km,2015,10.359604,Equatorial Guinea
+105,mangrove_inland1km,2015,0,Bouvet Island
+106,mangrove_inland1km,2015,5.159963,Ghana
+107,mangrove_inland1km,2015,0,Clipperton Island
+108,mangrove_inland1km,2015,0.024013,Bermuda
+110,mangrove_inland1km,2015,20.41922,Bahamas
+111,mangrove_inland1km,2015,0.163418,Turks and Caicos Islands
+112,mangrove_inland1km,2015,766.578188,Cuba
+113,mangrove_inland1km,2015,16.106782,Cayman Islands
+114,mangrove_inland1km,2015,28.930978,Haiti
+115,mangrove_inland1km,2015,53.280114,Dominican Republic
+116,mangrove_inland1km,2015,27.447909,Puerto Rico and Virgin Islands of the United States
+117,mangrove_inland1km,2015,0.122594,British Virgin Islands
+118,mangrove_inland1km,2015,0.020514,Anguilla
+119,mangrove_inland1km,2015,0.07062,Saint Kitts and Nevis
+120,mangrove_inland1km,2015,0.745024,Antigua and Barbuda
+121,mangrove_inland1km,2015,0,Montserrat
+122,mangrove_inland1km,2015,0.855247,Saint Lucia
+123,mangrove_inland1km,2015,0,Dominica
+124,mangrove_inland1km,2015,0.056546,Barbados
+125,mangrove_inland1km,2015,0.643091,Grenada
+126,mangrove_inland1km,2015,18.26816,Trinidad and Tobago
+127,mangrove_inland1km,2015,0.120719,Saint Vincent and the Grenadines
+129,mangrove_inland1km,2015,628.938354,Panama
+130,mangrove_inland1km,2015,190.769272,Costa Rica
+131,mangrove_inland1km,2015,160.63092,Nicaragua
+132,mangrove_inland1km,2015,641.457768,Colombia
+133,mangrove_inland1km,2015,180.360963,Honduras
+134,mangrove_inland1km,2015,108.58905,El Salvador
+135,mangrove_inland1km,2015,445.119692,Mexico
+136,mangrove_inland1km,2015,71.71536,Guatemala
+137,mangrove_inland1km,2015,416.070791,Ecuador
+138,mangrove_inland1km,2015,8.824398,Peru
+139,mangrove_inland1km,2015,488.975379,Venezuela
+140,mangrove_inland1km,2015,18.346477,Guadeloupe and Martinique
+141,mangrove_inland1km,2015,0,Faeroe Islands
+143,mangrove_inland1km,2015,0,Iceland
+144,mangrove_inland1km,2015,0,Jan Mayen
+145,mangrove_inland1km,2015,0,Greenland
+146,mangrove_inland1km,2015,0,Pitcairn
+147,mangrove_inland1km,2015,0,French Polynesia
+148,mangrove_inland1km,2015,0,Line Islands (Kiribati)
+149,mangrove_inland1km,2015,0,Jarvis Island
+150,mangrove_inland1km,2015,0,Palmyra Atoll
+151,mangrove_inland1km,2015,0,American Samoa
+152,mangrove_inland1km,2015,0,Samoa
+153,mangrove_inland1km,2015,0,Cook Islands
+154,mangrove_inland1km,2015,0,Niue
+155,mangrove_inland1km,2015,0,Tonga
+156,mangrove_inland1km,2015,0,Tokelau
+157,mangrove_inland1km,2015,0,Phoenix Islands (Kiribati)
+158,mangrove_inland1km,2015,0,Howland Island and Baker Island
+159,mangrove_inland1km,2015,0,Johnston Atoll
+161,mangrove_inland1km,2015,0,Wallis and Futuna
+162,mangrove_inland1km,2015,22.572734,New Zealand
+163,mangrove_inland1km,2015,648.780965,United States
+164,mangrove_inland1km,2015,123.913774,Belize
+166,mangrove_inland1km,2015,29.202879,Jamaica
+167,mangrove_inland1km,2015,79.004768,Guyana
+168,mangrove_inland1km,2015,87.363136,Suriname
+169,mangrove_inland1km,2015,91.294754,French Guiana
+171,mangrove_inland1km,2015,3340.443176,Brazil
+172,mangrove_inland1km,2015,0,Argentina
+173,mangrove_inland1km,2015,0,Uruguay
+174,mangrove_inland1km,2015,0,Finland
+175,mangrove_inland1km,2015,0,Denmark
+176,mangrove_inland1km,2015,0,Germany
+177,mangrove_inland1km,2015,0,Netherlands
+178,mangrove_inland1km,2015,0,Poland
+179,mangrove_inland1km,2015,0,France
+180,mangrove_inland1km,2015,0,United Kingdom
+181,mangrove_inland1km,2015,0,Ireland
+182,mangrove_inland1km,2015,0,Spain
+183,mangrove_inland1km,2015,0,Portugal
+184,mangrove_inland1km,2015,0,Italy
+185,mangrove_inland1km,2015,0,Monaco
+186,mangrove_inland1km,2015,0,Montenegro
+187,mangrove_inland1km,2015,0,Croatia
+188,mangrove_inland1km,2015,0,Slovenia
+189,mangrove_inland1km,2015,0,Lithuania
+190,mangrove_inland1km,2015,8.6e-5,Qatar
+191,mangrove_inland1km,2015,0.003168,Iran
+192,mangrove_inland1km,2015,0,Iraq
+193,mangrove_inland1km,2015,248.971873,Guinea Bissau
+194,mangrove_inland1km,2015,218.746847,Guinea
+195,mangrove_inland1km,2015,8.562742,Ivory Coast
+196,mangrove_inland1km,2015,471.998885,Nigeria
+197,mangrove_inland1km,2015,423.078615,Cameroon
+198,mangrove_inland1km,2015,337.438182,Gabon
+199,mangrove_inland1km,2015,38.01597,Democratic Republic of the Congo
+200,mangrove_inland1km,2015,54.313292,Angola
+202,mangrove_inland1km,2015,270.670991,Tanzania
+203,mangrove_inland1km,2015,49.030326,India
+204,mangrove_inland1km,2015,152.891045,Bangladesh
+205,mangrove_inland1km,2015,961.310084,Myanmar
+206,mangrove_inland1km,2015,1318.693265,Malaysia
+207,mangrove_inland1km,2015,99.230572,Vietnam
+208,mangrove_inland1km,2015,2.637334,Singapore
+209,mangrove_inland1km,2015,16.751656,China
+210,mangrove_inland1km,2015,5.147278,Japan
+212,mangrove_inland1km,2015,0,Gilbert Islands (Kiribati)
+213,mangrove_inland1km,2015,0,Antarctica
+214,mangrove_inland1km,2015,0.004558,Egypt
+215,mangrove_inland1km,2015,0,Jordan
+216,mangrove_inland1km,2015,7306.779905,Indonesia
+218,mangrove_inland1km,2015,0,Canada
+219,mangrove_inland1km,2015,0,Saint Pierre and Miquelon
+220,mangrove_inland1km,2015,0,Sint Maarten
+221,mangrove_inland1km,2015,0.042626,Northern Saint-Martin
+222,mangrove_inland1km,2015,0,Sweden
+223,mangrove_inland1km,2015,0,Norway
+224,mangrove_inland1km,2015,0,Chile
+227,mangrove_inland1km,2015,0,Jersey
+228,mangrove_inland1km,2015,0,Guernsey
+231,mangrove_inland1km,2015,1.229455,East Timor
+232,mangrove_inland1km,2015,0,Bosnia and Herzegovina
+237,mangrove_inland1km,2015,0.293666,Oecussi Ambeno
+244,mangrove_inland1km,2015,0.122676,Curacao
+245,mangrove_inland1km,2015,0.349499,Bonaire
+247,mangrove_inland1km,2015,28.005303,Brunei
+248,mangrove_inland1km,2015,0,Saba
+249,mangrove_inland1km,2015,0,Sint Eustatius
+250,mangrove_inland1km,2015,0.047182,Aruba
+1,mangrove_offshore,2015,0,Cocos Islands
+2,mangrove_offshore,2015,0,Christmas Island
+3,mangrove_offshore,2015,0,Norfolk Island
+4,mangrove_offshore,2015,0,Macquarie Island
+5,mangrove_offshore,2015,18.944061,New Caledonia
+6,mangrove_offshore,2015,7.8742,Vanuatu
+7,mangrove_offshore,2015,120.994624,Solomon Islands
+8,mangrove_offshore,2015,15.296954,Palau
+9,mangrove_offshore,2015,2.918573,Micronesia
+10,mangrove_offshore,2015,0,Nauru
+11,mangrove_offshore,2015,0,Marshall Islands
+12,mangrove_offshore,2015,0,Wake Island
+13,mangrove_offshore,2015,0,Northern Mariana Islands and Guam
+14,mangrove_offshore,2015,0.192408,Taiwan
+15,mangrove_offshore,2015,320.607796,Philippines
+16,mangrove_offshore,2015,313.756509,Australia
+17,mangrove_offshore,2015,241.43717,Papua New Guinea
+18,mangrove_offshore,2015,90.996242,Fiji
+19,mangrove_offshore,2015,0,Tuvalu
+20,mangrove_offshore,2015,0,South Korea
+21,mangrove_offshore,2015,0,North Korea
+24,mangrove_offshore,2015,32.291484,Cambodia
+25,mangrove_offshore,2015,179.243739,Thailand
+26,mangrove_offshore,2015,91.210051000000007,Andaman and Nicobar
+28,mangrove_offshore,2015,0.445801,Comoro Islands
+29,mangrove_offshore,2015,0.628824,Mayotte
+30,mangrove_offshore,2015,0,Glorioso Islands
+31,mangrove_offshore,2015,1.873889,Seychelles
+32,mangrove_offshore,2015,0,R_union
+33,mangrove_offshore,2015,0,Juan de Nova Island
+34,mangrove_offshore,2015,0,Bassas da India
+35,mangrove_offshore,2015,0,Ile Europa
+36,mangrove_offshore,2015,0,Ile Tromelin
+37,mangrove_offshore,2015,0,Mauritius
+38,mangrove_offshore,2015,0,British Indian Ocean Territory
+39,mangrove_offshore,2015,0.23228,Maldives
+40,mangrove_offshore,2015,3.766326,Sri Lanka
+41,mangrove_offshore,2015,133.703968,Mozambique
+42,mangrove_offshore,2015,106.478537,Madagascar
+43,mangrove_offshore,2015,55.601458,Kenya
+44,mangrove_offshore,2015,2.322598,Somalia
+45,mangrove_offshore,2015,0.307987,Eritrea
+46,mangrove_offshore,2015,0.001634,Djibouti
+47,mangrove_offshore,2015,0.053052,Yemen
+48,mangrove_offshore,2015,0.004722,Oman
+49,mangrove_offshore,2015,0.011361,Sudan
+50,mangrove_offshore,2015,0.130553,Saudi Arabia
+51,mangrove_offshore,2015,0,Kuwait
+52,mangrove_offshore,2015,2.7e-5,Bahrain
+53,mangrove_offshore,2015,0.15517,Pakistan
+54,mangrove_offshore,2015,0.183717,United Arab Emirates
+55,mangrove_offshore,2015,0,Azores
+56,mangrove_offshore,2015,0,Cape Verde
+57,mangrove_offshore,2015,0,Madeira
+58,mangrove_offshore,2015,0,Canary Islands
+59,mangrove_offshore,2015,0,Belgium
+60,mangrove_offshore,2015,0,Gibraltar
+61,mangrove_offshore,2015,0,Tunisia
+62,mangrove_offshore,2015,0,Morocco
+63,mangrove_offshore,2015,0,Western Sahara
+64,mangrove_offshore,2015,0,Mauritania
+65,mangrove_offshore,2015,1.781921,Gambia
+66,mangrove_offshore,2015,3.02345800000001,Senegal
+67,mangrove_offshore,2015,0,Libya
+68,mangrove_offshore,2015,0,Malta
+69,mangrove_offshore,2015,0,Latvia
+70,mangrove_offshore,2015,0,Estonia
+71,mangrove_offshore,2015,0,Bulgaria
+72,mangrove_offshore,2015,0,Romania
+73,mangrove_offshore,2015,0,Russia
+74,mangrove_offshore,2015,0,Georgia
+75,mangrove_offshore,2015,0,Ukraine
+76,mangrove_offshore,2015,0,Turkey
+77,mangrove_offshore,2015,0,Syria
+78,mangrove_offshore,2015,0,Lebanon
+79,mangrove_offshore,2015,0,Israel
+80,mangrove_offshore,2015,0,Greece
+81,mangrove_offshore,2015,0,Cyprus
+82,mangrove_offshore,2015,0,Albania
+84,mangrove_offshore,2015,0,Algeria
+85,mangrove_offshore,2015,0,Ascension
+86,mangrove_offshore,2015,0,Saint Helena
+88,mangrove_offshore,2015,0,Tristan da Cunha
+89,mangrove_offshore,2015,0,South Georgia and the South Sandwich Islands
+90,mangrove_offshore,2015,0,Prince Edward Islands
+91,mangrove_offshore,2015,0,Crozet Islands
+92,mangrove_offshore,2015,0,Amsterdam Island and Saint Paul Island
+93,mangrove_offshore,2015,0,Kerguelen Islands
+94,mangrove_offshore,2015,0,Heard and McDonald Islands
+95,mangrove_offshore,2015,0,Falkland Islands
+96,mangrove_offshore,2015,28.792052,Sierra Leone
+97,mangrove_offshore,2015,0.824784000000001,Liberia
+98,mangrove_offshore,2015,0,Togo
+99,mangrove_offshore,2015,0.0672189999999997,Benin
+100,mangrove_offshore,2015,0,Republique du Congo
+101,mangrove_offshore,2015,0,Namibia
+102,mangrove_offshore,2015,0.982501999999999,South Africa
+103,mangrove_offshore,2015,0,Sao Tome and Principe
+104,mangrove_offshore,2015,1.71720999999999,Equatorial Guinea
+105,mangrove_offshore,2015,0,Bouvet Island
+106,mangrove_offshore,2015,0.846129000000001,Ghana
+107,mangrove_offshore,2015,0,Clipperton Island
+108,mangrove_offshore,2015,0,Bermuda
+110,mangrove_offshore,2015,3.945043,Bahamas
+111,mangrove_offshore,2015,0.006963,Turks and Caicos Islands
+112,mangrove_offshore,2015,145.859934,Cuba
+113,mangrove_offshore,2015,1.009233,Cayman Islands
+114,mangrove_offshore,2015,5.276492,Haiti
+115,mangrove_offshore,2015,9.122659,Dominican Republic
+116,mangrove_offshore,2015,9.014618,Puerto Rico and Virgin Islands of the United States
+117,mangrove_offshore,2015,0.140004,British Virgin Islands
+118,mangrove_offshore,2015,7.18e-4,Anguilla
+119,mangrove_offshore,2015,0.048672,Saint Kitts and Nevis
+120,mangrove_offshore,2015,0.0867990000000001,Antigua and Barbuda
+121,mangrove_offshore,2015,0,Montserrat
+122,mangrove_offshore,2015,0.012935,Saint Lucia
+123,mangrove_offshore,2015,0,Dominica
+124,mangrove_offshore,2015,0.002617,Barbados
+125,mangrove_offshore,2015,0.476687,Grenada
+126,mangrove_offshore,2015,2.648328,Trinidad and Tobago
+127,mangrove_offshore,2015,0.078408,Saint Vincent and the Grenadines
+129,mangrove_offshore,2015,70.4365919999998,Panama
+130,mangrove_offshore,2015,15.06172,Costa Rica
+131,mangrove_offshore,2015,15.944756,Nicaragua
+132,mangrove_offshore,2015,269.041036,Colombia
+133,mangrove_offshore,2015,18.758824,Honduras
+134,mangrove_offshore,2015,8.35414500000002,El Salvador
+135,mangrove_offshore,2015,100.316324,Mexico
+136,mangrove_offshore,2015,2.60584800000001,Guatemala
+137,mangrove_offshore,2015,112.836985,Ecuador
+138,mangrove_offshore,2015,5.245563,Peru
+139,mangrove_offshore,2015,203.504816,Venezuela
+140,mangrove_offshore,2015,4.297387,Guadeloupe and Martinique
+141,mangrove_offshore,2015,0,Faeroe Islands
+143,mangrove_offshore,2015,0,Iceland
+144,mangrove_offshore,2015,0,Jan Mayen
+145,mangrove_offshore,2015,0,Greenland
+146,mangrove_offshore,2015,0,Pitcairn
+147,mangrove_offshore,2015,0,French Polynesia
+148,mangrove_offshore,2015,0,Line Islands (Kiribati)
+149,mangrove_offshore,2015,0,Jarvis Island
+150,mangrove_offshore,2015,0,Palmyra Atoll
+151,mangrove_offshore,2015,0,American Samoa
+152,mangrove_offshore,2015,0,Samoa
+153,mangrove_offshore,2015,0,Cook Islands
+154,mangrove_offshore,2015,0,Niue
+155,mangrove_offshore,2015,0,Tonga
+156,mangrove_offshore,2015,0,Tokelau
+157,mangrove_offshore,2015,0,Phoenix Islands (Kiribati)
+158,mangrove_offshore,2015,0,Howland Island and Baker Island
+159,mangrove_offshore,2015,0,Johnston Atoll
+161,mangrove_offshore,2015,0,Wallis and Futuna
+162,mangrove_offshore,2015,30.684864,New Zealand
+163,mangrove_offshore,2015,125.096159,United States
+164,mangrove_offshore,2015,42.300036,Belize
+166,mangrove_offshore,2015,4.332679,Jamaica
+167,mangrove_offshore,2015,23.055118,Guyana
+168,mangrove_offshore,2015,49.890298,Suriname
+169,mangrove_offshore,2015,455.085786,French Guiana
+171,mangrove_offshore,2015,917.430537,Brazil
+172,mangrove_offshore,2015,0,Argentina
+173,mangrove_offshore,2015,0,Uruguay
+174,mangrove_offshore,2015,0,Finland
+175,mangrove_offshore,2015,0,Denmark
+176,mangrove_offshore,2015,0,Germany
+177,mangrove_offshore,2015,0,Netherlands
+178,mangrove_offshore,2015,0,Poland
+179,mangrove_offshore,2015,0,France
+180,mangrove_offshore,2015,0,United Kingdom
+181,mangrove_offshore,2015,0,Ireland
+182,mangrove_offshore,2015,0,Spain
+183,mangrove_offshore,2015,0,Portugal
+184,mangrove_offshore,2015,0,Italy
+185,mangrove_offshore,2015,0,Monaco
+186,mangrove_offshore,2015,0,Montenegro
+187,mangrove_offshore,2015,0,Croatia
+188,mangrove_offshore,2015,0,Slovenia
+189,mangrove_offshore,2015,0,Lithuania
+190,mangrove_offshore,2015,6.42e-4,Qatar
+191,mangrove_offshore,2015,0.03229,Iran
+192,mangrove_offshore,2015,0,Iraq
+193,mangrove_offshore,2015,51.306013,Guinea Bissau
+194,mangrove_offshore,2015,38.070318,Guinea
+195,mangrove_offshore,2015,1.310034,Ivory Coast
+196,mangrove_offshore,2015,46.157248,Nigeria
+197,mangrove_offshore,2015,53.687555,Cameroon
+198,mangrove_offshore,2015,42.023062,Gabon
+199,mangrove_offshore,2015,5.24505500000001,Democratic Republic of the Congo
+200,mangrove_offshore,2015,4.49508,Angola
+202,mangrove_offshore,2015,61.149969,Tanzania
+203,mangrove_offshore,2015,7.47483899999997,India
+204,mangrove_offshore,2015,18.0453319999999,Bangladesh
+205,mangrove_offshore,2015,196.466274,Myanmar
+206,mangrove_offshore,2015,391.890355,Malaysia
+207,mangrove_offshore,2015,101.141449,Vietnam
+208,mangrove_offshore,2015,1.037647,Singapore
+209,mangrove_offshore,2015,11.507007,China
+210,mangrove_offshore,2015,0.917363,Japan
+212,mangrove_offshore,2015,0,Gilbert Islands (Kiribati)
+213,mangrove_offshore,2015,0,Antarctica
+214,mangrove_offshore,2015,0.00142,Egypt
+215,mangrove_offshore,2015,0,Jordan
+216,mangrove_offshore,2015,2677.067795,Indonesia
+218,mangrove_offshore,2015,0,Canada
+219,mangrove_offshore,2015,0,Saint Pierre and Miquelon
+220,mangrove_offshore,2015,0,Sint Maarten
+221,mangrove_offshore,2015,0,Northern Saint-Martin
+222,mangrove_offshore,2015,0,Sweden
+223,mangrove_offshore,2015,0,Norway
+224,mangrove_offshore,2015,0,Chile
+227,mangrove_offshore,2015,0,Jersey
+228,mangrove_offshore,2015,0,Guernsey
+231,mangrove_offshore,2015,3.549562,East Timor
+232,mangrove_offshore,2015,0,Bosnia and Herzegovina
+237,mangrove_offshore,2015,0.751317,Oecussi Ambeno
+244,mangrove_offshore,2015,7.09999999999988e-4,Curacao
+245,mangrove_offshore,2015,0.54503,Bonaire
+247,mangrove_offshore,2015,4.61362500000001,Brunei
+248,mangrove_offshore,2015,0,Saba
+249,mangrove_offshore,2015,0,Sint Eustatius
+250,mangrove_offshore,2015,0.055893,Aruba
+1,seagrass,2012,199.974,Cocos Islands
+2,seagrass,2012,130.988,Christmas Island
+5,seagrass,2012,1310.75,New Caledonia
+6,seagrass,2012,1143.96,Vanuatu
+7,seagrass,2012,1158.8,Solomon Islands
+8,seagrass,2012,716.939,Palau
+9,seagrass,2012,1523.82,Micronesia
+11,seagrass,2012,496.88,Marshall Islands
+13,seagrass,2012,413.921,Northern Mariana Islands and Guam
+14,seagrass,2012,1239.14,Taiwan
+15,seagrass,2012,13470.8,Philippines
+16,seagrass,2012,39491,Australia
+17,seagrass,2012,8593.66,Papua New Guinea
+18,seagrass,2012,1036.55,Fiji
+25,seagrass,2012,1582.33,Thailand
+26,seagrass,2012,1350.05,Andaman and Nicobar
+28,seagrass,2012,1245.26,Comoro Islands
+29,seagrass,2012,1452.22,Mayotte
+37,seagrass,2012,97.8041,Mauritius
+39,seagrass,2012,2387.47,Maldives
+40,seagrass,2012,2822.35,Sri Lanka
+41,seagrass,2012,655.811,Mozambique
+42,seagrass,2012,5525.93,Madagascar
+43,seagrass,2012,103.044,Kenya
+45,seagrass,2012,23.5778,Eritrea
+47,seagrass,2012,5411.53,Yemen
+49,seagrass,2012,4287.66,Sudan
+50,seagrass,2012,20619.2,Saudi Arabia
+51,seagrass,2012,1423.4,Kuwait
+52,seagrass,2012,477.668,Bahrain
+54,seagrass,2012,3950.59,United Arab Emirates
+58,seagrass,2012,1993.63,Canary Islands
+66,seagrass,2012,1473.17,Senegal
+68,seagrass,2012,172.03,Malta
+73,seagrass,2012,668.91,Russia
+75,seagrass,2012,5754.72,Ukraine
+79,seagrass,2012,16.5918,Israel
+96,seagrass,2012,4332.2,Sierra Leone
+98,seagrass,2012,190.369,Togo
+99,seagrass,2012,1370.13,Benin
+102,seagrass,2012,397.329,South Africa
+106,seagrass,2012,2725.42,Ghana
+110,seagrass,2012,2094.06,Bahamas
+111,seagrass,2012,881.11,Turks and Caicos Islands
+112,seagrass,2012,12994.8,Cuba
+113,seagrass,2012,40.1695,Cayman Islands
+114,seagrass,2012,702.094,Haiti
+115,seagrass,2012,330.089,Dominican Republic
+116,seagrass,2012,633.98,Puerto Rico and Virgin Islands of the United States
+117,seagrass,2012,32.3103,British Virgin Islands
+118,seagrass,2012,19.2115,Anguilla
+119,seagrass,2012,52.395,Saint Kitts and Nevis
+120,seagrass,2012,249.75,Antigua and Barbuda
+121,seagrass,2012,10.479,Montserrat
+122,seagrass,2012,1.7465,Saint Lucia
+123,seagrass,2012,470.682,Dominica
+124,seagrass,2012,70.7333,Barbados
+125,seagrass,2012,2.61975,Grenada
+129,seagrass,2012,1516.84,Panama
+131,seagrass,2012,5278.8,Nicaragua
+132,seagrass,2012,372.005,Colombia
+133,seagrass,2012,2314.11,Honduras
+135,seagrass,2012,9020.68,Mexico
+139,seagrass,2012,1225.17,Venezuela
+140,seagrass,2012,1131.73,Guadeloupe and Martinique
+147,seagrass,2012,633.98,French Polynesia
+151,seagrass,2012,414.794,American Samoa
+152,seagrass,2012,931.759,Samoa
+155,seagrass,2012,3575.96,Tonga
+163,seagrass,2012,17906,United States
+164,seagrass,2012,4739.13,Belize
+166,seagrass,2012,695.108,Jamaica
+171,seagrass,2012,422.653,Brazil
+175,seagrass,2012,747.503,Denmark
+178,seagrass,2012,2.61975,Poland
+179,seagrass,2012,586.825,France
+182,seagrass,2012,509.105,Spain
+184,seagrass,2012,2921.02,Italy
+190,seagrass,2012,985.027,Qatar
+191,seagrass,2012,2580.46,Iran
+192,seagrass,2012,69.8601,Iraq
+193,seagrass,2012,14515.2,Guinea Bissau
+194,seagrass,2012,12663.9,Guinea
+196,seagrass,2012,8847.78,Nigeria
+200,seagrass,2012,556.261,Angola
+202,seagrass,2012,41.0428,Tanzania
+203,seagrass,2012,2558.62,India
+205,seagrass,2012,1793.66,Myanmar
+206,seagrass,2012,521.331,Malaysia
+207,seagrass,2012,12.2255,Vietnam
+208,seagrass,2012,55.888,Singapore
+209,seagrass,2012,7311.73,China
+210,seagrass,2012,274.201,Japan
+212,seagrass,2012,454.09,Gilbert Islands (Kiribati)
+214,seagrass,2012,2224.17,Egypt
+215,seagrass,2012,1.7465,Jordan
+216,seagrass,2012,14797.2,Indonesia
+218,seagrass,2012,3.493,Canada
+220,seagrass,2012,24.451,Sint Maarten
+221,seagrass,2012,57.6346,Northern Saint-Martin
+222,seagrass,2012,8.73251,Sweden
+231,seagrass,2012,284.68,East Timor
+245,seagrass,2012,1.7465,Bonaire
+248,seagrass,2012,1.7465,Saba
+249,seagrass,2012,1.7465,Sint Eustatius
+250,seagrass,2012,20.958,Aruba
+255,seagrass,2012,758.855,NA
+269,seagrass,2012,6413.15,NA
+16,saltmarsh,2012,13028.95,Australia
+59,saltmarsh,2012,4.22,Belgium
+69,saltmarsh,2012,0.82,Latvia
+70,saltmarsh,2012,5,Estonia
+153,saltmarsh,2012,7.2025259359495,Cook Islands
+154,saltmarsh,2012,0.995940460081194,Niue
+156,saltmarsh,2012,2.04961659900767,Tokelau
+162,saltmarsh,2012,181.751917004962,New Zealand
+163,saltmarsh,2012,15747,United States
+176,saltmarsh,2012,283.45,Germany
+177,saltmarsh,2012,112.3,Netherlands
+178,saltmarsh,2012,7.05,Poland
+179,saltmarsh,2012,1147.1,France
+180,saltmarsh,2012,314.508957489879,United Kingdom
+181,saltmarsh,2012,56.34,Ireland
+184,saltmarsh,2012,349,Italy
+209,saltmarsh,2012,5734.4,China
+218,saltmarsh,2012,440,Canada
+222,saltmarsh,2012,29.3,Sweden
+227,saltmarsh,2012,1.5022604588394,Jersey
+228,saltmarsh,2012,2.03878205128204,Guernsey
+1,coral,2012,102.17,Cocos Islands
+2,coral,2012,1.7465,Christmas Island
+5,coral,2012,4381.1,New Caledonia
+6,coral,2012,459.33,Vanuatu
+7,coral,2012,2197.97,Solomon Islands
+8,coral,2012,496.006,Palau
+9,coral,2012,3060.74,Micronesia
+10,coral,2012,3.493,Nauru
+11,coral,2012,1789.29,Marshall Islands
+12,coral,2012,7.85926,Wake Island
+13,coral,2012,169.411,Northern Mariana Islands and Guam
+14,coral,2012,330.962,Taiwan
+15,coral,2012,9668.63,Philippines
+16,coral,2012,31682.4,Australia
+17,coral,2012,6471.66,Papua New Guinea
+18,coral,2012,3011.84,Fiji
+19,coral,2012,889.843,Tuvalu
+24,coral,2012,29.6905,Cambodia
+25,coral,2012,155.439,Thailand
+26,coral,2012,645.332,Andaman and Nicobar
+28,coral,2012,160.678,Comoro Islands
+29,coral,2012,280.314,Mayotte
+30,coral,2012,165.918,Glorioso Islands
+31,coral,2012,1428.64,Seychelles
+32,coral,2012,9.60576,R_union
+33,coral,2012,50.6485,Juan de Nova Island
+34,coral,2012,31.437,Bassas da India
+35,coral,2012,6.11276,Ile Europa
+36,coral,2012,6.11276,Ile Tromelin
+37,coral,2012,654.065,Mauritius
+38,coral,2012,1767.46,British Indian Ocean Territory
+39,coral,2012,2634.6,Maldives
+40,coral,2012,96.0576,Sri Lanka
+41,coral,2012,1496.75,Mozambique
+42,coral,2012,2066.98,Madagascar
+43,coral,2012,385.977,Kenya
+44,coral,2012,341.441,Somalia
+45,coral,2012,1323.85,Eritrea
+46,coral,2012,126.621,Djibouti
+47,coral,2012,574.599,Yemen
+48,coral,2012,227.045,Oman
+49,coral,2012,602.543,Sudan
+50,coral,2012,2712.32,Saudi Arabia
+51,coral,2012,41.0428,Kuwait
+52,coral,2012,199.101,Bahrain
+54,coral,2012,121.382,United Arab Emirates
+79,coral,2012,0.873251,Israel
+102,coral,2012,0.873251,South Africa
+108,coral,2012,525.697,Bermuda
+110,coral,2012,1944.73,Bahamas
+111,coral,2012,159.805,Turks and Caicos Islands
+112,coral,2012,2484.4,Cuba
+113,coral,2012,100.424,Cayman Islands
+114,coral,2012,246.257,Haiti
+115,coral,2012,259.355,Dominican Republic
+116,coral,2012,177.27,Puerto Rico and Virgin Islands of the United States
+117,coral,2012,124.875,British Virgin Islands
+118,coral,2012,20.0848,Anguilla
+119,coral,2012,34.0568,Saint Kitts and Nevis
+120,coral,2012,38.423,Antigua and Barbuda
+122,coral,2012,15.7185,Saint Lucia
+123,coral,2012,8.73251,Dominica
+124,coral,2012,19.2115,Barbados
+125,coral,2012,41.0428,Grenada
+126,coral,2012,13.0988,Trinidad and Tobago
+127,coral,2012,21.8313,Saint Vincent and the Grenadines
+129,coral,2012,510.852,Panama
+130,coral,2012,55.888,Costa Rica
+131,coral,2012,456.71,Nicaragua
+132,coral,2012,882.857,Colombia
+133,coral,2012,626.994,Honduras
+135,coral,2012,907.308,Mexico
+137,coral,2012,71.6066,Ecuador
+139,coral,2012,308.258,Venezuela
+140,coral,2012,128.368,Guadeloupe and Martinique
+146,coral,2012,30.5638,Pitcairn
+147,coral,2012,2537.67,French Polynesia
+148,coral,2012,135.354,Line Islands (Kiribati)
+150,coral,2012,63.7473,Palmyra Atoll
+151,coral,2012,34.0568,American Samoa
+152,coral,2012,138.847,Samoa
+153,coral,2012,220.932,Cook Islands
+154,coral,2012,5.2395,Niue
+155,coral,2012,898.575,Tonga
+156,coral,2012,76.8461,Tokelau
+157,coral,2012,48.902,Phoenix Islands (Kiribati)
+158,coral,2012,7.85926,Howland Island and Baker Island
+159,coral,2012,72.4798,Johnston Atoll
+161,coral,2012,378.118,Wallis and Futuna
+163,coral,2012,3968.92,United States
+164,coral,2012,863.645,Belize
+166,coral,2012,351.92,Jamaica
+171,coral,2012,664.544,Brazil
+190,coral,2012,155.439,Qatar
+191,coral,2012,103.917,Iran
+202,coral,2012,1559.63,Tanzania
+203,coral,2012,1212.95,India
+204,coral,2012,3.493,Bangladesh
+205,coral,2012,538.796,Myanmar
+206,coral,2012,1408.55,Malaysia
+207,coral,2012,364.146,Vietnam
+208,coral,2012,3.493,Singapore
+209,coral,2012,261.102,China
+210,coral,2012,845.307,Japan
+212,coral,2012,1501.99,Gilbert Islands (Kiribati)
+214,coral,2012,1576.22,Egypt
+215,coral,2012,1.7465,Jordan
+216,coral,2012,15690.6,Indonesia
+220,coral,2012,1.7465,Sint Maarten
+221,coral,2012,9.60576,Northern Saint-Martin
+231,coral,2012,16.5918,East Timor
+237,coral,2012,1.7465,Oecussi Ambeno
+244,coral,2012,17.465,Curacao
+245,coral,2012,12.2255,Bonaire
+247,coral,2012,67.2403,Brunei
+248,coral,2012,161.551,Saba
+249,coral,2012,10.479,Sint Eustatius
+250,coral,2012,46.2823,Aruba
+255,coral,2012,3602.16,NA
+21,seaice_edge,2017,5300.66287878786,North Korea
+69,seaice_edge,2017,3181.81818181818,Latvia
+70,seaice_edge,2017,5629.73484848484,Estonia
+73,seaice_edge,2017,691768.465909088,Russia
+143,seaice_edge,2017,17336.6477272727,Iceland
+144,seaice_edge,2017,18525.0946969697,Jan Mayen
+145,seaice_edge,2017,241820.549242424,Greenland
+163,seaice_edge,2017,177102.272727273,United States
+174,seaice_edge,2017,13806.8181818182,Finland
+175,seaice_edge,2017,6500.94696969698,Denmark
+176,seaice_edge,2017,2836.17424242424,Germany
+177,seaice_edge,2017,674.715909090912,Netherlands
+178,seaice_edge,2017,2085.70075757575,Poland
+179,seaice_edge,2017,920.928030303031,France
+180,seaice_edge,2017,6242.89772727271,United Kingdom
+189,seaice_edge,2017,1107.95454545455,Lithuania
+209,seaice_edge,2017,8830.49242424245,China
+210,seaice_edge,2017,19952.6515151515,Japan
+218,seaice_edge,2017,504045.928030303,Canada
+222,seaice_edge,2017,13951.231060606,Sweden
+223,seaice_edge,2017,107057.291666667,Norway
+89,seaice_edge,2017,102355.587121212,South Georgia and the South Sandwich Islands
+105,seaice_edge,2017,32530.7765151515,Bouvet Island
+21,seaice_shoreline,2017,2014.67803030303,North Korea
+69,seaice_shoreline,2017,2282.19696969697,Latvia
+70,seaice_shoreline,2017,3757.10227272727,Estonia
+73,seaice_shoreline,2017,475210.700757576,Russia
+143,seaice_shoreline,2017,1070.07575757576,Iceland
+145,seaice_shoreline,2017,136219.223484848,Greenland
+163,seaice_shoreline,2017,73970.1704545453,United States
+174,seaice_shoreline,2017,8787.8787878788,Finland
+175,seaice_shoreline,2017,4491.00378787879,Denmark
+176,seaice_shoreline,2017,2440.8143939394,Germany
+179,seaice_shoreline,2017,243.844696969697,France
+180,seaice_shoreline,2017,1988.63636363636,United Kingdom
+189,seaice_shoreline,2017,381.155303030303,Lithuania
+209,seaice_shoreline,2017,3894.41287878788,China
+210,seaice_shoreline,2017,6323.39015151516,Japan
+218,seaice_shoreline,2017,702949.810606063,Canada
+222,seaice_shoreline,2017,6676.13636363635,Sweden
+223,seaice_shoreline,2017,20991.9507575758,Norway

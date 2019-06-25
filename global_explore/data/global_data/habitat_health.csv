@@ -1,0 +1,3493 @@
+rgn_id,year,habitat,health,label
+1,2003,soft_bottom,1,Cocos Islands
+2,2003,soft_bottom,0.918838082024179,Christmas Island
+3,2003,soft_bottom,1,Norfolk Island
+4,2003,soft_bottom,1,Macquarie Island
+5,2003,soft_bottom,1,New Caledonia
+6,2003,soft_bottom,0.955614555423225,Vanuatu
+7,2003,soft_bottom,1,Solomon Islands
+8,2003,soft_bottom,0.797580146024328,Palau
+9,2003,soft_bottom,1,Micronesia
+10,2003,soft_bottom,0.746942993393381,Nauru
+11,2003,soft_bottom,1,Marshall Islands
+13,2003,soft_bottom,1,Northern Mariana Islands and Guam
+14,2003,soft_bottom,0.960250762069639,Taiwan
+15,2003,soft_bottom,0.74700019597069,Philippines
+16,2003,soft_bottom,1,Australia
+17,2003,soft_bottom,1,Papua New Guinea
+18,2003,soft_bottom,0.966935828073629,Fiji
+19,2003,soft_bottom,1,Tuvalu
+20,2003,soft_bottom,0.870069824621198,South Korea
+21,2003,soft_bottom,0.862216286811326,North Korea
+24,2003,soft_bottom,1,Cambodia
+25,2003,soft_bottom,0.935912223411738,Thailand
+26,2003,soft_bottom,0.705310684779846,Andaman and Nicobar
+28,2003,soft_bottom,0.95478833911067,Comoro Islands
+29,2003,soft_bottom,1,Mayotte
+30,2003,soft_bottom,0.851731232066812,Glorioso Islands
+31,2003,soft_bottom,1,Seychelles
+32,2003,soft_bottom,0.999001339667498,R_union
+33,2003,soft_bottom,0.990641019855832,Juan de Nova Island
+34,2003,soft_bottom,1,Bassas da India
+37,2003,soft_bottom,1,Mauritius
+38,2003,soft_bottom,1,British Indian Ocean Territory
+39,2003,soft_bottom,0.94435755403109,Maldives
+40,2003,soft_bottom,0.974493671718906,Sri Lanka
+41,2003,soft_bottom,1,Mozambique
+42,2003,soft_bottom,0.999833215035168,Madagascar
+43,2003,soft_bottom,1,Kenya
+44,2003,soft_bottom,1,Somalia
+45,2003,soft_bottom,1,Eritrea
+46,2003,soft_bottom,0.956324824461089,Djibouti
+47,2003,soft_bottom,0.9747354333611,Yemen
+48,2003,soft_bottom,1,Oman
+49,2003,soft_bottom,0.891136431982667,Sudan
+50,2003,soft_bottom,0.895493720623597,Saudi Arabia
+51,2003,soft_bottom,0.951003780185806,Kuwait
+52,2003,soft_bottom,0.933837768661527,Bahrain
+53,2003,soft_bottom,0.870597814330139,Pakistan
+54,2003,soft_bottom,1,United Arab Emirates
+55,2003,soft_bottom,0.932548983547187,Azores
+56,2003,soft_bottom,1,Cape Verde
+57,2003,soft_bottom,0.844436638392363,Madeira
+58,2003,soft_bottom,0.910152191250977,Canary Islands
+59,2003,soft_bottom,1,Belgium
+60,2003,soft_bottom,0.674600651896537,Gibraltar
+61,2003,soft_bottom,0.939297983854175,Tunisia
+62,2003,soft_bottom,0.964122876126878,Morocco
+63,2003,soft_bottom,1,Western Sahara
+64,2003,soft_bottom,0.903966016341967,Mauritania
+65,2003,soft_bottom,0.802666448641828,Gambia
+66,2003,soft_bottom,0.82895121814702,Senegal
+67,2003,soft_bottom,1,Libya
+68,2003,soft_bottom,1,Malta
+69,2003,soft_bottom,1,Latvia
+70,2003,soft_bottom,1,Estonia
+71,2003,soft_bottom,1,Bulgaria
+72,2003,soft_bottom,1,Romania
+73,2003,soft_bottom,1,Russia
+74,2003,soft_bottom,1,Georgia
+75,2003,soft_bottom,1,Ukraine
+76,2003,soft_bottom,0.963957343245796,Turkey
+77,2003,soft_bottom,0.95574177251748,Syria
+78,2003,soft_bottom,0.935906063716333,Lebanon
+79,2003,soft_bottom,1,Israel
+80,2003,soft_bottom,1,Greece
+81,2003,soft_bottom,1,Cyprus
+82,2003,soft_bottom,1,Albania
+84,2003,soft_bottom,0.917009304668164,Algeria
+85,2003,soft_bottom,0.55024643913248406,Ascension
+86,2003,soft_bottom,0.733799501742406,Saint Helena
+88,2003,soft_bottom,1,Tristan da Cunha
+89,2003,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2003,soft_bottom,1,Prince Edward Islands
+92,2003,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2003,soft_bottom,1,Kerguelen Islands
+94,2003,soft_bottom,1,Heard and McDonald Islands
+95,2003,soft_bottom,1,Falkland Islands
+96,2003,soft_bottom,0.903459534155924,Sierra Leone
+97,2003,soft_bottom,1,Liberia
+98,2003,soft_bottom,0.775502675623235,Togo
+100,2003,soft_bottom,0.941570422165666,Republique du Congo
+101,2003,soft_bottom,1,Namibia
+102,2003,soft_bottom,1,South Africa
+103,2003,soft_bottom,1,Sao Tome and Principe
+104,2003,soft_bottom,0.943370487775397,Equatorial Guinea
+106,2003,soft_bottom,1,Ghana
+107,2003,soft_bottom,1,Clipperton Island
+108,2003,soft_bottom,1,Bermuda
+110,2003,soft_bottom,1,Bahamas
+111,2003,soft_bottom,1,Turks and Caicos Islands
+112,2003,soft_bottom,1,Cuba
+113,2003,soft_bottom,1,Cayman Islands
+114,2003,soft_bottom,0.916249406729451,Haiti
+115,2003,soft_bottom,0.997975921841045,Dominican Republic
+116,2003,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2003,soft_bottom,1,British Virgin Islands
+118,2003,soft_bottom,1,Anguilla
+119,2003,soft_bottom,0.970960290319207,Saint Kitts and Nevis
+120,2003,soft_bottom,1,Antigua and Barbuda
+121,2003,soft_bottom,0.948525057656724,Montserrat
+122,2003,soft_bottom,0.944014787680016,Saint Lucia
+123,2003,soft_bottom,0.883810350497401,Dominica
+124,2003,soft_bottom,0.849307463174837,Barbados
+125,2003,soft_bottom,1,Grenada
+126,2003,soft_bottom,1,Trinidad and Tobago
+127,2003,soft_bottom,1,Saint Vincent and the Grenadines
+129,2003,soft_bottom,0.845947520909427,Panama
+130,2003,soft_bottom,1,Costa Rica
+131,2003,soft_bottom,1,Nicaragua
+132,2003,soft_bottom,1,Colombia
+133,2003,soft_bottom,1,Honduras
+134,2003,soft_bottom,1,El Salvador
+135,2003,soft_bottom,1,Mexico
+136,2003,soft_bottom,1,Guatemala
+137,2003,soft_bottom,0.990239052919541,Ecuador
+138,2003,soft_bottom,0.970245065911692,Peru
+139,2003,soft_bottom,1,Venezuela
+140,2003,soft_bottom,0.809545306338188,Guadeloupe and Martinique
+141,2003,soft_bottom,0.887291824197347,Faeroe Islands
+143,2003,soft_bottom,0.887749188724541,Iceland
+144,2003,soft_bottom,0.657850994865805,Jan Mayen
+145,2003,soft_bottom,1,Greenland
+147,2003,soft_bottom,1,French Polynesia
+148,2003,soft_bottom,1,Line Islands (Kiribati)
+149,2003,soft_bottom,0.733362314601988,Jarvis Island
+150,2003,soft_bottom,1,Palmyra Atoll
+153,2003,soft_bottom,0.916839355818985,Cook Islands
+154,2003,soft_bottom,0.895900365453125,Niue
+155,2003,soft_bottom,0.947151428737191,Tonga
+157,2003,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2003,soft_bottom,1,Howland Island and Baker Island
+159,2003,soft_bottom,1,Johnston Atoll
+161,2003,soft_bottom,1,Wallis and Futuna
+162,2003,soft_bottom,1,New Zealand
+163,2003,soft_bottom,1,United States
+164,2003,soft_bottom,0.926714025858606,Belize
+166,2003,soft_bottom,1,Jamaica
+167,2003,soft_bottom,0.935504431839515,Guyana
+168,2003,soft_bottom,1,Suriname
+169,2003,soft_bottom,1,French Guiana
+171,2003,soft_bottom,1,Brazil
+172,2003,soft_bottom,1,Argentina
+173,2003,soft_bottom,1,Uruguay
+174,2003,soft_bottom,1,Finland
+175,2003,soft_bottom,0.968462344515222,Denmark
+176,2003,soft_bottom,0.972470749426186,Germany
+177,2003,soft_bottom,0.985029783695537,Netherlands
+178,2003,soft_bottom,1,Poland
+179,2003,soft_bottom,0.983751288111102,France
+180,2003,soft_bottom,0.96550908620263,United Kingdom
+181,2003,soft_bottom,0.956512901624357,Ireland
+182,2003,soft_bottom,0.980091895799858,Spain
+183,2003,soft_bottom,0.979818349256659,Portugal
+184,2003,soft_bottom,1,Italy
+186,2003,soft_bottom,1,Montenegro
+187,2003,soft_bottom,1,Croatia
+188,2003,soft_bottom,1,Slovenia
+189,2003,soft_bottom,1,Lithuania
+190,2003,soft_bottom,1,Qatar
+191,2003,soft_bottom,1,Iran
+192,2003,soft_bottom,0.907707163419987,Iraq
+193,2003,soft_bottom,1,Guinea Bissau
+194,2003,soft_bottom,0.919640404920547,Guinea
+195,2003,soft_bottom,0.920698604294237,Ivory Coast
+196,2003,soft_bottom,0.060585312413717,Nigeria
+197,2003,soft_bottom,0.840845016541966,Cameroon
+198,2003,soft_bottom,0.615411768568197,Gabon
+199,2003,soft_bottom,1,Democratic Republic of the Congo
+200,2003,soft_bottom,0.890194707806304,Angola
+202,2003,soft_bottom,0.941783359798228,Tanzania
+203,2003,soft_bottom,0.916385940257451,India
+204,2003,soft_bottom,0.812885196240201,Bangladesh
+205,2003,soft_bottom,0.862347695525738,Myanmar
+206,2003,soft_bottom,0.875871750201478,Malaysia
+207,2003,soft_bottom,0.889876983637688,Vietnam
+208,2003,soft_bottom,0.766016646897096,Singapore
+209,2003,soft_bottom,0.862706343744708,China
+210,2003,soft_bottom,0.835249874238318,Japan
+212,2003,soft_bottom,0.602629739723597,Gilbert Islands (Kiribati)
+214,2003,soft_bottom,1,Egypt
+216,2003,soft_bottom,0.989856255521037,Indonesia
+218,2003,soft_bottom,1,Canada
+219,2003,soft_bottom,1,Saint Pierre and Miquelon
+220,2003,soft_bottom,0.735925530474242,Sint Maarten
+221,2003,soft_bottom,1,Northern Saint-Martin
+222,2003,soft_bottom,1,Sweden
+223,2003,soft_bottom,0.924753128803076,Norway
+224,2003,soft_bottom,0.99201153809296,Chile
+227,2003,soft_bottom,1,Jersey
+228,2003,soft_bottom,0.851850954176399,Guernsey
+231,2003,soft_bottom,0.952432521143043,East Timor
+232,2003,soft_bottom,0.534070499728391,Bosnia and Herzegovina
+237,2003,soft_bottom,0.741925816647647,Oecussi Ambeno
+247,2003,soft_bottom,0.793369307099736,Brunei
+248,2003,soft_bottom,1,Saba
+249,2003,soft_bottom,0.642374825098315,Sint Eustatius
+1,2004,soft_bottom,1,Cocos Islands
+2,2004,soft_bottom,0.771271885415459,Christmas Island
+3,2004,soft_bottom,1,Norfolk Island
+4,2004,soft_bottom,1,Macquarie Island
+5,2004,soft_bottom,1,New Caledonia
+6,2004,soft_bottom,0.973848875962454,Vanuatu
+7,2004,soft_bottom,1,Solomon Islands
+8,2004,soft_bottom,0.802122519418171,Palau
+9,2004,soft_bottom,1,Micronesia
+10,2004,soft_bottom,0.751302139011487,Nauru
+11,2004,soft_bottom,1,Marshall Islands
+13,2004,soft_bottom,1,Northern Mariana Islands and Guam
+14,2004,soft_bottom,0.958072205629063,Taiwan
+15,2004,soft_bottom,0.749487297065232,Philippines
+16,2004,soft_bottom,1,Australia
+17,2004,soft_bottom,1,Papua New Guinea
+18,2004,soft_bottom,0.953556453308516,Fiji
+19,2004,soft_bottom,1,Tuvalu
+20,2004,soft_bottom,0.879270618648446,South Korea
+21,2004,soft_bottom,0.863535730117076,North Korea
+24,2004,soft_bottom,1,Cambodia
+25,2004,soft_bottom,0.949691516897727,Thailand
+26,2004,soft_bottom,0.68638835759426,Andaman and Nicobar
+28,2004,soft_bottom,0.967201820329244,Comoro Islands
+29,2004,soft_bottom,1,Mayotte
+30,2004,soft_bottom,0.856150505189104,Glorioso Islands
+31,2004,soft_bottom,1,Seychelles
+32,2004,soft_bottom,1,R_union
+33,2004,soft_bottom,0.962022269766521,Juan de Nova Island
+34,2004,soft_bottom,1,Bassas da India
+37,2004,soft_bottom,1,Mauritius
+38,2004,soft_bottom,1,British Indian Ocean Territory
+39,2004,soft_bottom,0.985441378931933,Maldives
+40,2004,soft_bottom,0.984120747458735,Sri Lanka
+41,2004,soft_bottom,1,Mozambique
+42,2004,soft_bottom,0.99683596625667,Madagascar
+43,2004,soft_bottom,1,Kenya
+44,2004,soft_bottom,1,Somalia
+45,2004,soft_bottom,1,Eritrea
+46,2004,soft_bottom,0.965404839115583,Djibouti
+47,2004,soft_bottom,0.953792888703684,Yemen
+48,2004,soft_bottom,1,Oman
+49,2004,soft_bottom,0.842954869806028,Sudan
+50,2004,soft_bottom,0.88942121195679,Saudi Arabia
+51,2004,soft_bottom,0.901571703086542,Kuwait
+52,2004,soft_bottom,0.957654484059995,Bahrain
+53,2004,soft_bottom,0.871923941945988,Pakistan
+54,2004,soft_bottom,1,United Arab Emirates
+55,2004,soft_bottom,0.937460266223321,Azores
+56,2004,soft_bottom,1,Cape Verde
+57,2004,soft_bottom,0.722417076402873,Madeira
+58,2004,soft_bottom,0.839958355155034,Canary Islands
+59,2004,soft_bottom,1,Belgium
+60,2004,soft_bottom,0.72554839922682,Gibraltar
+61,2004,soft_bottom,0.942713828032922,Tunisia
+62,2004,soft_bottom,0.981639712132637,Morocco
+63,2004,soft_bottom,1,Western Sahara
+64,2004,soft_bottom,0.893524226920193,Mauritania
+65,2004,soft_bottom,0.820653681509961,Gambia
+66,2004,soft_bottom,0.838050802912324,Senegal
+67,2004,soft_bottom,1,Libya
+68,2004,soft_bottom,1,Malta
+69,2004,soft_bottom,1,Latvia
+70,2004,soft_bottom,1,Estonia
+71,2004,soft_bottom,1,Bulgaria
+72,2004,soft_bottom,1,Romania
+73,2004,soft_bottom,1,Russia
+74,2004,soft_bottom,1,Georgia
+75,2004,soft_bottom,1,Ukraine
+76,2004,soft_bottom,0.95962545007864,Turkey
+77,2004,soft_bottom,0.966946352607921,Syria
+78,2004,soft_bottom,0.926269744085515,Lebanon
+79,2004,soft_bottom,1,Israel
+80,2004,soft_bottom,1,Greece
+81,2004,soft_bottom,1,Cyprus
+82,2004,soft_bottom,1,Albania
+84,2004,soft_bottom,0.949979835561273,Algeria
+85,2004,soft_bottom,1,Ascension
+86,2004,soft_bottom,0.739794371778572,Saint Helena
+88,2004,soft_bottom,0.767074403911409,Tristan da Cunha
+89,2004,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2004,soft_bottom,1,Prince Edward Islands
+92,2004,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2004,soft_bottom,1,Kerguelen Islands
+94,2004,soft_bottom,1,Heard and McDonald Islands
+95,2004,soft_bottom,1,Falkland Islands
+96,2004,soft_bottom,0.85846379116646,Sierra Leone
+97,2004,soft_bottom,1,Liberia
+98,2004,soft_bottom,0.750456555156233,Togo
+100,2004,soft_bottom,0.948749590543676,Republique du Congo
+101,2004,soft_bottom,1,Namibia
+102,2004,soft_bottom,1,South Africa
+103,2004,soft_bottom,1,Sao Tome and Principe
+104,2004,soft_bottom,0.916202066482026,Equatorial Guinea
+106,2004,soft_bottom,1,Ghana
+107,2004,soft_bottom,1,Clipperton Island
+108,2004,soft_bottom,1,Bermuda
+110,2004,soft_bottom,1,Bahamas
+111,2004,soft_bottom,1,Turks and Caicos Islands
+112,2004,soft_bottom,1,Cuba
+113,2004,soft_bottom,1,Cayman Islands
+114,2004,soft_bottom,0.905720915105502,Haiti
+115,2004,soft_bottom,1,Dominican Republic
+116,2004,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2004,soft_bottom,1,British Virgin Islands
+118,2004,soft_bottom,1,Anguilla
+119,2004,soft_bottom,0.909314104468788,Saint Kitts and Nevis
+120,2004,soft_bottom,1,Antigua and Barbuda
+121,2004,soft_bottom,0.959432068088545,Montserrat
+122,2004,soft_bottom,0.917068225180027,Saint Lucia
+123,2004,soft_bottom,0.928065877815815,Dominica
+124,2004,soft_bottom,0.888855479545149,Barbados
+125,2004,soft_bottom,1,Grenada
+126,2004,soft_bottom,1,Trinidad and Tobago
+127,2004,soft_bottom,1,Saint Vincent and the Grenadines
+129,2004,soft_bottom,0.84516740000346,Panama
+130,2004,soft_bottom,1,Costa Rica
+131,2004,soft_bottom,1,Nicaragua
+132,2004,soft_bottom,1,Colombia
+133,2004,soft_bottom,1,Honduras
+134,2004,soft_bottom,1,El Salvador
+135,2004,soft_bottom,1,Mexico
+136,2004,soft_bottom,1,Guatemala
+137,2004,soft_bottom,0.994940395031251,Ecuador
+138,2004,soft_bottom,0.972065111848654,Peru
+139,2004,soft_bottom,0.989549397952074,Venezuela
+140,2004,soft_bottom,0.847430911709075,Guadeloupe and Martinique
+141,2004,soft_bottom,0.907359149057371,Faeroe Islands
+143,2004,soft_bottom,0.929836034608218,Iceland
+144,2004,soft_bottom,0.760904482749508,Jan Mayen
+145,2004,soft_bottom,1,Greenland
+147,2004,soft_bottom,1,French Polynesia
+148,2004,soft_bottom,1,Line Islands (Kiribati)
+149,2004,soft_bottom,0.722725416959182,Jarvis Island
+150,2004,soft_bottom,1,Palmyra Atoll
+153,2004,soft_bottom,0.951068060934367,Cook Islands
+154,2004,soft_bottom,0.880287071734309,Niue
+155,2004,soft_bottom,1,Tonga
+157,2004,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2004,soft_bottom,1,Howland Island and Baker Island
+159,2004,soft_bottom,0.998944192731436,Johnston Atoll
+161,2004,soft_bottom,1,Wallis and Futuna
+162,2004,soft_bottom,1,New Zealand
+163,2004,soft_bottom,1,United States
+164,2004,soft_bottom,0.932153703773291,Belize
+166,2004,soft_bottom,0.99235297046219,Jamaica
+167,2004,soft_bottom,1,Guyana
+168,2004,soft_bottom,1,Suriname
+169,2004,soft_bottom,1,French Guiana
+171,2004,soft_bottom,1,Brazil
+172,2004,soft_bottom,1,Argentina
+173,2004,soft_bottom,1,Uruguay
+174,2004,soft_bottom,1,Finland
+175,2004,soft_bottom,0.934728411683012,Denmark
+176,2004,soft_bottom,0.926861219457451,Germany
+177,2004,soft_bottom,0.92156543747618,Netherlands
+178,2004,soft_bottom,1,Poland
+179,2004,soft_bottom,0.996357798789661,France
+180,2004,soft_bottom,0.967738049210092,United Kingdom
+181,2004,soft_bottom,0.98046876607321,Ireland
+182,2004,soft_bottom,1,Spain
+183,2004,soft_bottom,0.986231113680003,Portugal
+184,2004,soft_bottom,1,Italy
+186,2004,soft_bottom,1,Montenegro
+187,2004,soft_bottom,1,Croatia
+188,2004,soft_bottom,1,Slovenia
+189,2004,soft_bottom,1,Lithuania
+190,2004,soft_bottom,1,Qatar
+191,2004,soft_bottom,1,Iran
+192,2004,soft_bottom,0.950145542274942,Iraq
+193,2004,soft_bottom,1,Guinea Bissau
+194,2004,soft_bottom,0.958067587794389,Guinea
+195,2004,soft_bottom,0.944342924384521,Ivory Coast
+196,2004,soft_bottom,0.0779282090798538,Nigeria
+197,2004,soft_bottom,0.815916764260164,Cameroon
+198,2004,soft_bottom,0.625879994756792,Gabon
+199,2004,soft_bottom,1,Democratic Republic of the Congo
+200,2004,soft_bottom,0.882396759367664,Angola
+202,2004,soft_bottom,0.931690110004485,Tanzania
+203,2004,soft_bottom,0.918680203346728,India
+204,2004,soft_bottom,0.805422185407003,Bangladesh
+205,2004,soft_bottom,0.840237629247498,Myanmar
+206,2004,soft_bottom,0.883046927902964,Malaysia
+207,2004,soft_bottom,0.878101248652514,Vietnam
+208,2004,soft_bottom,0.785249160744361,Singapore
+209,2004,soft_bottom,0.865014420292823,China
+210,2004,soft_bottom,0.84567413198871,Japan
+212,2004,soft_bottom,0.615550098496023,Gilbert Islands (Kiribati)
+214,2004,soft_bottom,1,Egypt
+216,2004,soft_bottom,0.992149544521835,Indonesia
+218,2004,soft_bottom,1,Canada
+219,2004,soft_bottom,1,Saint Pierre and Miquelon
+220,2004,soft_bottom,0.784322449914848,Sint Maarten
+221,2004,soft_bottom,1,Northern Saint-Martin
+222,2004,soft_bottom,1,Sweden
+223,2004,soft_bottom,0.927315274117966,Norway
+224,2004,soft_bottom,0.974388905425613,Chile
+227,2004,soft_bottom,1,Jersey
+228,2004,soft_bottom,0.864912053314648,Guernsey
+231,2004,soft_bottom,0.958806744967254,East Timor
+232,2004,soft_bottom,0.520856693268796,Bosnia and Herzegovina
+237,2004,soft_bottom,0.777107960128341,Oecussi Ambeno
+247,2004,soft_bottom,0.790298581425539,Brunei
+248,2004,soft_bottom,1,Saba
+249,2004,soft_bottom,0.633992488937498,Sint Eustatius
+1,2005,soft_bottom,0.916802827601991,Cocos Islands
+2,2005,soft_bottom,0.882400606222131,Christmas Island
+3,2005,soft_bottom,1,Norfolk Island
+4,2005,soft_bottom,1,Macquarie Island
+5,2005,soft_bottom,1,New Caledonia
+6,2005,soft_bottom,0.966882281795282,Vanuatu
+7,2005,soft_bottom,1,Solomon Islands
+8,2005,soft_bottom,0.801486234851873,Palau
+9,2005,soft_bottom,1,Micronesia
+10,2005,soft_bottom,0.858128738546415,Nauru
+11,2005,soft_bottom,1,Marshall Islands
+13,2005,soft_bottom,1,Northern Mariana Islands and Guam
+14,2005,soft_bottom,0.969778844578069,Taiwan
+15,2005,soft_bottom,0.749846654804401,Philippines
+16,2005,soft_bottom,1,Australia
+17,2005,soft_bottom,1,Papua New Guinea
+18,2005,soft_bottom,0.955491316867418,Fiji
+19,2005,soft_bottom,1,Tuvalu
+20,2005,soft_bottom,0.902102055350674,South Korea
+21,2005,soft_bottom,0.87066707190473,North Korea
+24,2005,soft_bottom,0.991257084075374,Cambodia
+25,2005,soft_bottom,0.962050780608486,Thailand
+26,2005,soft_bottom,0.701190628162337,Andaman and Nicobar
+28,2005,soft_bottom,0.962192548773713,Comoro Islands
+29,2005,soft_bottom,1,Mayotte
+30,2005,soft_bottom,0.907590938420925,Glorioso Islands
+31,2005,soft_bottom,1,Seychelles
+32,2005,soft_bottom,1,R_union
+33,2005,soft_bottom,0.972037358713412,Juan de Nova Island
+34,2005,soft_bottom,1,Bassas da India
+37,2005,soft_bottom,1,Mauritius
+38,2005,soft_bottom,1,British Indian Ocean Territory
+39,2005,soft_bottom,0.968497781398475,Maldives
+40,2005,soft_bottom,1,Sri Lanka
+41,2005,soft_bottom,1,Mozambique
+42,2005,soft_bottom,1,Madagascar
+43,2005,soft_bottom,1,Kenya
+44,2005,soft_bottom,1,Somalia
+45,2005,soft_bottom,1,Eritrea
+46,2005,soft_bottom,0.940008116055746,Djibouti
+47,2005,soft_bottom,0.966970206642123,Yemen
+48,2005,soft_bottom,1,Oman
+49,2005,soft_bottom,0.867896467114837,Sudan
+50,2005,soft_bottom,0.894090770353789,Saudi Arabia
+51,2005,soft_bottom,0.941877686915709,Kuwait
+52,2005,soft_bottom,0.959866166648943,Bahrain
+53,2005,soft_bottom,0.900985821906105,Pakistan
+54,2005,soft_bottom,1,United Arab Emirates
+55,2005,soft_bottom,0.739045303595292,Azores
+56,2005,soft_bottom,1,Cape Verde
+57,2005,soft_bottom,0.872544624007538,Madeira
+58,2005,soft_bottom,0.868870638764861,Canary Islands
+59,2005,soft_bottom,0.938835426932534,Belgium
+60,2005,soft_bottom,0.83461152513798,Gibraltar
+61,2005,soft_bottom,1,Tunisia
+62,2005,soft_bottom,0.920209123309105,Morocco
+63,2005,soft_bottom,1,Western Sahara
+64,2005,soft_bottom,0.896568064239407,Mauritania
+65,2005,soft_bottom,0.824029496806461,Gambia
+66,2005,soft_bottom,0.842711957489408,Senegal
+67,2005,soft_bottom,1,Libya
+68,2005,soft_bottom,0.993555650712958,Malta
+69,2005,soft_bottom,1,Latvia
+70,2005,soft_bottom,1,Estonia
+71,2005,soft_bottom,1,Bulgaria
+72,2005,soft_bottom,1,Romania
+73,2005,soft_bottom,1,Russia
+74,2005,soft_bottom,1,Georgia
+75,2005,soft_bottom,1,Ukraine
+76,2005,soft_bottom,0.940191567996191,Turkey
+77,2005,soft_bottom,0.928802026524935,Syria
+78,2005,soft_bottom,0.901396454033588,Lebanon
+79,2005,soft_bottom,1,Israel
+80,2005,soft_bottom,1,Greece
+81,2005,soft_bottom,1,Cyprus
+82,2005,soft_bottom,1,Albania
+84,2005,soft_bottom,0.939270792990468,Algeria
+85,2005,soft_bottom,0.879644180264639,Ascension
+86,2005,soft_bottom,0.699789511828836,Saint Helena
+88,2005,soft_bottom,0.999662668569051,Tristan da Cunha
+89,2005,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2005,soft_bottom,1,Prince Edward Islands
+92,2005,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2005,soft_bottom,1,Kerguelen Islands
+94,2005,soft_bottom,1,Heard and McDonald Islands
+95,2005,soft_bottom,1,Falkland Islands
+96,2005,soft_bottom,0.849498134447166,Sierra Leone
+97,2005,soft_bottom,1,Liberia
+98,2005,soft_bottom,0.770584356659349,Togo
+100,2005,soft_bottom,0.947519670703475,Republique du Congo
+101,2005,soft_bottom,1,Namibia
+102,2005,soft_bottom,1,South Africa
+103,2005,soft_bottom,1,Sao Tome and Principe
+104,2005,soft_bottom,0.916204561440245,Equatorial Guinea
+106,2005,soft_bottom,0.982211802718446,Ghana
+107,2005,soft_bottom,1,Clipperton Island
+108,2005,soft_bottom,1,Bermuda
+110,2005,soft_bottom,1,Bahamas
+111,2005,soft_bottom,1,Turks and Caicos Islands
+112,2005,soft_bottom,1,Cuba
+113,2005,soft_bottom,1,Cayman Islands
+114,2005,soft_bottom,0.896228781114608,Haiti
+115,2005,soft_bottom,1,Dominican Republic
+116,2005,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2005,soft_bottom,1,British Virgin Islands
+118,2005,soft_bottom,1,Anguilla
+119,2005,soft_bottom,0.914084808280917,Saint Kitts and Nevis
+120,2005,soft_bottom,1,Antigua and Barbuda
+121,2005,soft_bottom,0.949777539752687,Montserrat
+122,2005,soft_bottom,0.917357827424981,Saint Lucia
+123,2005,soft_bottom,0.905763456649713,Dominica
+124,2005,soft_bottom,0.878517067394961,Barbados
+125,2005,soft_bottom,1,Grenada
+126,2005,soft_bottom,1,Trinidad and Tobago
+127,2005,soft_bottom,1,Saint Vincent and the Grenadines
+129,2005,soft_bottom,0.868168149315072,Panama
+130,2005,soft_bottom,1,Costa Rica
+131,2005,soft_bottom,1,Nicaragua
+132,2005,soft_bottom,0.981971902888273,Colombia
+133,2005,soft_bottom,1,Honduras
+134,2005,soft_bottom,1,El Salvador
+135,2005,soft_bottom,1,Mexico
+136,2005,soft_bottom,1,Guatemala
+137,2005,soft_bottom,1,Ecuador
+138,2005,soft_bottom,0.955808467302373,Peru
+139,2005,soft_bottom,1,Venezuela
+140,2005,soft_bottom,0.850571592128753,Guadeloupe and Martinique
+141,2005,soft_bottom,0.925498657198916,Faeroe Islands
+143,2005,soft_bottom,0.964043743413703,Iceland
+144,2005,soft_bottom,0.822698092789269,Jan Mayen
+145,2005,soft_bottom,1,Greenland
+147,2005,soft_bottom,1,French Polynesia
+148,2005,soft_bottom,1,Line Islands (Kiribati)
+149,2005,soft_bottom,0.768075478935524,Jarvis Island
+150,2005,soft_bottom,1,Palmyra Atoll
+153,2005,soft_bottom,0.958027362513891,Cook Islands
+154,2005,soft_bottom,0.904859599612205,Niue
+155,2005,soft_bottom,1,Tonga
+157,2005,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2005,soft_bottom,1,Howland Island and Baker Island
+159,2005,soft_bottom,0.977006726680735,Johnston Atoll
+161,2005,soft_bottom,0.984084558483103,Wallis and Futuna
+162,2005,soft_bottom,1,New Zealand
+163,2005,soft_bottom,1,United States
+164,2005,soft_bottom,0.899498074047688,Belize
+166,2005,soft_bottom,0.996208958918007,Jamaica
+167,2005,soft_bottom,1,Guyana
+168,2005,soft_bottom,1,Suriname
+169,2005,soft_bottom,1,French Guiana
+171,2005,soft_bottom,1,Brazil
+172,2005,soft_bottom,1,Argentina
+173,2005,soft_bottom,1,Uruguay
+174,2005,soft_bottom,1,Finland
+175,2005,soft_bottom,0.94811469505625,Denmark
+176,2005,soft_bottom,0.980543432746369,Germany
+177,2005,soft_bottom,0.996024624028401,Netherlands
+178,2005,soft_bottom,1,Poland
+179,2005,soft_bottom,0.970252808981116,France
+180,2005,soft_bottom,0.963641122472279,United Kingdom
+181,2005,soft_bottom,0.992444419381045,Ireland
+182,2005,soft_bottom,1,Spain
+183,2005,soft_bottom,0.955502154242382,Portugal
+184,2005,soft_bottom,1,Italy
+186,2005,soft_bottom,1,Montenegro
+187,2005,soft_bottom,1,Croatia
+188,2005,soft_bottom,0.851420896414528,Slovenia
+189,2005,soft_bottom,0.965243068554115,Lithuania
+190,2005,soft_bottom,1,Qatar
+191,2005,soft_bottom,1,Iran
+192,2005,soft_bottom,0.869235816856069,Iraq
+193,2005,soft_bottom,1,Guinea Bissau
+194,2005,soft_bottom,0.960429214786555,Guinea
+195,2005,soft_bottom,1,Ivory Coast
+196,2005,soft_bottom,0.0637355555369104,Nigeria
+197,2005,soft_bottom,0.796692881902445,Cameroon
+198,2005,soft_bottom,0.634078135757413,Gabon
+199,2005,soft_bottom,1,Democratic Republic of the Congo
+200,2005,soft_bottom,0.888950872750273,Angola
+202,2005,soft_bottom,0.932021405334226,Tanzania
+203,2005,soft_bottom,0.920252392800881,India
+204,2005,soft_bottom,0.798119571312115,Bangladesh
+205,2005,soft_bottom,0.841589764265062,Myanmar
+206,2005,soft_bottom,0.887150640282853,Malaysia
+207,2005,soft_bottom,0.883575920903949,Vietnam
+208,2005,soft_bottom,0.742051577020449,Singapore
+209,2005,soft_bottom,0.866324289940194,China
+210,2005,soft_bottom,0.858583008415752,Japan
+212,2005,soft_bottom,0.631204309850632,Gilbert Islands (Kiribati)
+214,2005,soft_bottom,1,Egypt
+216,2005,soft_bottom,0.992485115685994,Indonesia
+218,2005,soft_bottom,1,Canada
+219,2005,soft_bottom,1,Saint Pierre and Miquelon
+220,2005,soft_bottom,0.741583279770431,Sint Maarten
+221,2005,soft_bottom,1,Northern Saint-Martin
+222,2005,soft_bottom,1,Sweden
+223,2005,soft_bottom,0.935408395301674,Norway
+224,2005,soft_bottom,0.975594669260501,Chile
+227,2005,soft_bottom,0.993628876635632,Jersey
+228,2005,soft_bottom,0.852209075942625,Guernsey
+231,2005,soft_bottom,0.917175126069872,East Timor
+232,2005,soft_bottom,0.491043761358721,Bosnia and Herzegovina
+237,2005,soft_bottom,0.773751503905811,Oecussi Ambeno
+247,2005,soft_bottom,0.810722235156442,Brunei
+248,2005,soft_bottom,1,Saba
+249,2005,soft_bottom,0.583392439712542,Sint Eustatius
+1,2006,soft_bottom,1,Cocos Islands
+2,2006,soft_bottom,0.936243009856557,Christmas Island
+3,2006,soft_bottom,1,Norfolk Island
+4,2006,soft_bottom,1,Macquarie Island
+5,2006,soft_bottom,1,New Caledonia
+6,2006,soft_bottom,0.970130974151189,Vanuatu
+7,2006,soft_bottom,1,Solomon Islands
+8,2006,soft_bottom,0.798277488059632,Palau
+9,2006,soft_bottom,1,Micronesia
+10,2006,soft_bottom,0.755150751985602,Nauru
+11,2006,soft_bottom,1,Marshall Islands
+13,2006,soft_bottom,1,Northern Mariana Islands and Guam
+14,2006,soft_bottom,0.958760690692413,Taiwan
+15,2006,soft_bottom,0.745795916823346,Philippines
+16,2006,soft_bottom,1,Australia
+17,2006,soft_bottom,1,Papua New Guinea
+18,2006,soft_bottom,0.950745856310994,Fiji
+19,2006,soft_bottom,1,Tuvalu
+20,2006,soft_bottom,1,South Korea
+21,2006,soft_bottom,0.915201936894748,North Korea
+24,2006,soft_bottom,0.996907621070945,Cambodia
+25,2006,soft_bottom,0.943859228455377,Thailand
+26,2006,soft_bottom,0.701164793961132,Andaman and Nicobar
+28,2006,soft_bottom,0.94724909166484,Comoro Islands
+29,2006,soft_bottom,1,Mayotte
+30,2006,soft_bottom,0.91135169846785,Glorioso Islands
+31,2006,soft_bottom,1,Seychelles
+32,2006,soft_bottom,1,R_union
+33,2006,soft_bottom,1,Juan de Nova Island
+34,2006,soft_bottom,1,Bassas da India
+37,2006,soft_bottom,1,Mauritius
+38,2006,soft_bottom,1,British Indian Ocean Territory
+39,2006,soft_bottom,0.99300817288714,Maldives
+40,2006,soft_bottom,0.989019871324129,Sri Lanka
+41,2006,soft_bottom,1,Mozambique
+42,2006,soft_bottom,1,Madagascar
+43,2006,soft_bottom,1,Kenya
+44,2006,soft_bottom,1,Somalia
+45,2006,soft_bottom,1,Eritrea
+46,2006,soft_bottom,0.954094392830251,Djibouti
+47,2006,soft_bottom,0.96965676714542,Yemen
+48,2006,soft_bottom,1,Oman
+49,2006,soft_bottom,0.857544565251522,Sudan
+50,2006,soft_bottom,0.880955501582739,Saudi Arabia
+51,2006,soft_bottom,0.922428090732382,Kuwait
+52,2006,soft_bottom,0.946463564018392,Bahrain
+53,2006,soft_bottom,0.902585261888185,Pakistan
+54,2006,soft_bottom,1,United Arab Emirates
+55,2006,soft_bottom,0.628563818182505,Azores
+56,2006,soft_bottom,1,Cape Verde
+57,2006,soft_bottom,0.897209702845516,Madeira
+58,2006,soft_bottom,0.831155667592746,Canary Islands
+59,2006,soft_bottom,1,Belgium
+60,2006,soft_bottom,0.801201596930501,Gibraltar
+61,2006,soft_bottom,1,Tunisia
+62,2006,soft_bottom,0.929882354197642,Morocco
+63,2006,soft_bottom,1,Western Sahara
+64,2006,soft_bottom,0.926809825888679,Mauritania
+65,2006,soft_bottom,0.842275431885855,Gambia
+66,2006,soft_bottom,0.857059785990231,Senegal
+67,2006,soft_bottom,1,Libya
+68,2006,soft_bottom,1,Malta
+69,2006,soft_bottom,1,Latvia
+70,2006,soft_bottom,1,Estonia
+71,2006,soft_bottom,1,Bulgaria
+72,2006,soft_bottom,1,Romania
+73,2006,soft_bottom,1,Russia
+74,2006,soft_bottom,1,Georgia
+75,2006,soft_bottom,1,Ukraine
+76,2006,soft_bottom,0.93791060937087,Turkey
+77,2006,soft_bottom,0.930044974210537,Syria
+78,2006,soft_bottom,0.891592183500818,Lebanon
+79,2006,soft_bottom,1,Israel
+80,2006,soft_bottom,1,Greece
+81,2006,soft_bottom,1,Cyprus
+82,2006,soft_bottom,1,Albania
+84,2006,soft_bottom,0.946147775453954,Algeria
+85,2006,soft_bottom,0.885694323761343,Ascension
+86,2006,soft_bottom,0.760015899107719,Saint Helena
+88,2006,soft_bottom,0.84185230038874,Tristan da Cunha
+89,2006,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2006,soft_bottom,1,Prince Edward Islands
+92,2006,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2006,soft_bottom,1,Kerguelen Islands
+94,2006,soft_bottom,1,Heard and McDonald Islands
+95,2006,soft_bottom,1,Falkland Islands
+96,2006,soft_bottom,0.836433274218403,Sierra Leone
+97,2006,soft_bottom,1,Liberia
+98,2006,soft_bottom,0.752138505266519,Togo
+100,2006,soft_bottom,0.934395303459838,Republique du Congo
+101,2006,soft_bottom,1,Namibia
+102,2006,soft_bottom,1,South Africa
+103,2006,soft_bottom,1,Sao Tome and Principe
+104,2006,soft_bottom,0.898266552482662,Equatorial Guinea
+106,2006,soft_bottom,0.987358321241966,Ghana
+107,2006,soft_bottom,1,Clipperton Island
+108,2006,soft_bottom,1,Bermuda
+110,2006,soft_bottom,1,Bahamas
+111,2006,soft_bottom,1,Turks and Caicos Islands
+112,2006,soft_bottom,1,Cuba
+113,2006,soft_bottom,1,Cayman Islands
+114,2006,soft_bottom,0.874377363582951,Haiti
+115,2006,soft_bottom,1,Dominican Republic
+116,2006,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2006,soft_bottom,1,British Virgin Islands
+118,2006,soft_bottom,1,Anguilla
+119,2006,soft_bottom,0.93096530709476,Saint Kitts and Nevis
+120,2006,soft_bottom,1,Antigua and Barbuda
+121,2006,soft_bottom,0.94056124775304,Montserrat
+122,2006,soft_bottom,0.952450484632598,Saint Lucia
+123,2006,soft_bottom,0.910117820302282,Dominica
+124,2006,soft_bottom,0.918489347088181,Barbados
+125,2006,soft_bottom,1,Grenada
+126,2006,soft_bottom,1,Trinidad and Tobago
+127,2006,soft_bottom,1,Saint Vincent and the Grenadines
+129,2006,soft_bottom,0.88520951101339,Panama
+130,2006,soft_bottom,1,Costa Rica
+131,2006,soft_bottom,1,Nicaragua
+132,2006,soft_bottom,1,Colombia
+133,2006,soft_bottom,1,Honduras
+134,2006,soft_bottom,1,El Salvador
+135,2006,soft_bottom,1,Mexico
+136,2006,soft_bottom,1,Guatemala
+137,2006,soft_bottom,1,Ecuador
+138,2006,soft_bottom,0.961093978411207,Peru
+139,2006,soft_bottom,1,Venezuela
+140,2006,soft_bottom,0.858099065140092,Guadeloupe and Martinique
+141,2006,soft_bottom,0.97333085366287,Faeroe Islands
+143,2006,soft_bottom,0.951106357975039,Iceland
+144,2006,soft_bottom,0.865526998562264,Jan Mayen
+145,2006,soft_bottom,1,Greenland
+147,2006,soft_bottom,1,French Polynesia
+148,2006,soft_bottom,1,Line Islands (Kiribati)
+149,2006,soft_bottom,0.685270170738212,Jarvis Island
+150,2006,soft_bottom,1,Palmyra Atoll
+153,2006,soft_bottom,0.955724535704521,Cook Islands
+154,2006,soft_bottom,0.959462529804999,Niue
+155,2006,soft_bottom,1,Tonga
+157,2006,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2006,soft_bottom,1,Howland Island and Baker Island
+159,2006,soft_bottom,0.987911014901182,Johnston Atoll
+161,2006,soft_bottom,0.965224212555275,Wallis and Futuna
+162,2006,soft_bottom,1,New Zealand
+163,2006,soft_bottom,1,United States
+164,2006,soft_bottom,0.896954936936546,Belize
+166,2006,soft_bottom,0.970365753281144,Jamaica
+167,2006,soft_bottom,1,Guyana
+168,2006,soft_bottom,1,Suriname
+169,2006,soft_bottom,1,French Guiana
+171,2006,soft_bottom,1,Brazil
+172,2006,soft_bottom,1,Argentina
+173,2006,soft_bottom,1,Uruguay
+174,2006,soft_bottom,1,Finland
+175,2006,soft_bottom,0.988439060059382,Denmark
+176,2006,soft_bottom,0.97576442318413,Germany
+177,2006,soft_bottom,0.98022245396629,Netherlands
+178,2006,soft_bottom,0.983290202426266,Poland
+179,2006,soft_bottom,0.979034817185922,France
+180,2006,soft_bottom,0.999213939339619,United Kingdom
+181,2006,soft_bottom,1,Ireland
+182,2006,soft_bottom,0.966357563533041,Spain
+183,2006,soft_bottom,0.968164275044494,Portugal
+184,2006,soft_bottom,1,Italy
+186,2006,soft_bottom,1,Montenegro
+187,2006,soft_bottom,1,Croatia
+188,2006,soft_bottom,0.878098465434839,Slovenia
+189,2006,soft_bottom,1,Lithuania
+190,2006,soft_bottom,1,Qatar
+191,2006,soft_bottom,1,Iran
+192,2006,soft_bottom,0.896327001231201,Iraq
+193,2006,soft_bottom,1,Guinea Bissau
+194,2006,soft_bottom,0.960056735580808,Guinea
+195,2006,soft_bottom,0.942216553774789,Ivory Coast
+196,2006,soft_bottom,0.054204105262165,Nigeria
+197,2006,soft_bottom,0.789377874800995,Cameroon
+198,2006,soft_bottom,0.637369527583069,Gabon
+199,2006,soft_bottom,1,Democratic Republic of the Congo
+200,2006,soft_bottom,0.867804739160193,Angola
+202,2006,soft_bottom,0.928523829190543,Tanzania
+203,2006,soft_bottom,0.91590016611072,India
+204,2006,soft_bottom,0.797183592460806,Bangladesh
+205,2006,soft_bottom,0.858164968861504,Myanmar
+206,2006,soft_bottom,0.897171565201147,Malaysia
+207,2006,soft_bottom,0.878434873498502,Vietnam
+208,2006,soft_bottom,0.785146334302992,Singapore
+209,2006,soft_bottom,0.846107803702137,China
+210,2006,soft_bottom,0.879175400603124,Japan
+212,2006,soft_bottom,0.647348130674163,Gilbert Islands (Kiribati)
+214,2006,soft_bottom,1,Egypt
+216,2006,soft_bottom,0.991179335685078,Indonesia
+218,2006,soft_bottom,1,Canada
+219,2006,soft_bottom,1,Saint Pierre and Miquelon
+220,2006,soft_bottom,0.789408063922828,Sint Maarten
+221,2006,soft_bottom,1,Northern Saint-Martin
+222,2006,soft_bottom,1,Sweden
+223,2006,soft_bottom,0.973970354834656,Norway
+224,2006,soft_bottom,0.941519769337264,Chile
+227,2006,soft_bottom,0.875102906002513,Jersey
+228,2006,soft_bottom,0.82423225682084,Guernsey
+231,2006,soft_bottom,0.942830630504959,East Timor
+232,2006,soft_bottom,0.470292777434861,Bosnia and Herzegovina
+237,2006,soft_bottom,0.709518360493421,Oecussi Ambeno
+247,2006,soft_bottom,0.821345136373037,Brunei
+248,2006,soft_bottom,1,Saba
+249,2006,soft_bottom,0.658827152130221,Sint Eustatius
+1,2007,soft_bottom,1,Cocos Islands
+2,2007,soft_bottom,0.88730592495158,Christmas Island
+3,2007,soft_bottom,1,Norfolk Island
+4,2007,soft_bottom,1,Macquarie Island
+5,2007,soft_bottom,1,New Caledonia
+6,2007,soft_bottom,0.971515572165105,Vanuatu
+7,2007,soft_bottom,1,Solomon Islands
+8,2007,soft_bottom,0.811963218315515,Palau
+9,2007,soft_bottom,1,Micronesia
+10,2007,soft_bottom,0.754221802005266,Nauru
+11,2007,soft_bottom,1,Marshall Islands
+13,2007,soft_bottom,1,Northern Mariana Islands and Guam
+14,2007,soft_bottom,0.956354321233467,Taiwan
+15,2007,soft_bottom,0.72836519776359,Philippines
+16,2007,soft_bottom,1,Australia
+17,2007,soft_bottom,1,Papua New Guinea
+18,2007,soft_bottom,0.936477505217093,Fiji
+19,2007,soft_bottom,1,Tuvalu
+20,2007,soft_bottom,1,South Korea
+21,2007,soft_bottom,0.914814918389966,North Korea
+24,2007,soft_bottom,0.990971795158032,Cambodia
+25,2007,soft_bottom,0.98322826740399,Thailand
+26,2007,soft_bottom,0.681288068694855,Andaman and Nicobar
+28,2007,soft_bottom,0.865589017118666,Comoro Islands
+29,2007,soft_bottom,1,Mayotte
+30,2007,soft_bottom,0.93492042478167,Glorioso Islands
+31,2007,soft_bottom,1,Seychelles
+32,2007,soft_bottom,1,R_union
+33,2007,soft_bottom,0.973725441486725,Juan de Nova Island
+34,2007,soft_bottom,1,Bassas da India
+37,2007,soft_bottom,1,Mauritius
+38,2007,soft_bottom,1,British Indian Ocean Territory
+39,2007,soft_bottom,0.990080843308152,Maldives
+40,2007,soft_bottom,0.998398078165913,Sri Lanka
+41,2007,soft_bottom,1,Mozambique
+42,2007,soft_bottom,0.987069049921912,Madagascar
+43,2007,soft_bottom,1,Kenya
+44,2007,soft_bottom,1,Somalia
+45,2007,soft_bottom,1,Eritrea
+46,2007,soft_bottom,0.95031577094132,Djibouti
+47,2007,soft_bottom,0.969980677837827,Yemen
+48,2007,soft_bottom,1,Oman
+49,2007,soft_bottom,0.82891702803308,Sudan
+50,2007,soft_bottom,0.881856785249395,Saudi Arabia
+51,2007,soft_bottom,0.950990341232835,Kuwait
+52,2007,soft_bottom,0.901260798599,Bahrain
+53,2007,soft_bottom,0.907398048771837,Pakistan
+54,2007,soft_bottom,1,United Arab Emirates
+55,2007,soft_bottom,0.765128267283096,Azores
+56,2007,soft_bottom,1,Cape Verde
+57,2007,soft_bottom,0.879668897863331,Madeira
+58,2007,soft_bottom,0.837729476798651,Canary Islands
+59,2007,soft_bottom,1,Belgium
+60,2007,soft_bottom,0.860464471412803,Gibraltar
+61,2007,soft_bottom,1,Tunisia
+62,2007,soft_bottom,0.933387013100615,Morocco
+63,2007,soft_bottom,1,Western Sahara
+64,2007,soft_bottom,0.902319079248463,Mauritania
+65,2007,soft_bottom,0.827851662701958,Gambia
+66,2007,soft_bottom,0.86099877844752,Senegal
+67,2007,soft_bottom,1,Libya
+68,2007,soft_bottom,1,Malta
+69,2007,soft_bottom,1,Latvia
+70,2007,soft_bottom,1,Estonia
+71,2007,soft_bottom,1,Bulgaria
+72,2007,soft_bottom,1,Romania
+73,2007,soft_bottom,1,Russia
+74,2007,soft_bottom,1,Georgia
+75,2007,soft_bottom,1,Ukraine
+76,2007,soft_bottom,0.926511032159413,Turkey
+77,2007,soft_bottom,0.923254844515957,Syria
+78,2007,soft_bottom,0.895889094772413,Lebanon
+79,2007,soft_bottom,1,Israel
+80,2007,soft_bottom,1,Greece
+81,2007,soft_bottom,1,Cyprus
+82,2007,soft_bottom,1,Albania
+84,2007,soft_bottom,0.92306071731842,Algeria
+85,2007,soft_bottom,0.850337025134567,Ascension
+86,2007,soft_bottom,0.842521306902149,Saint Helena
+88,2007,soft_bottom,0.84341772781133,Tristan da Cunha
+89,2007,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2007,soft_bottom,1,Prince Edward Islands
+92,2007,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2007,soft_bottom,1,Kerguelen Islands
+94,2007,soft_bottom,1,Heard and McDonald Islands
+95,2007,soft_bottom,1,Falkland Islands
+96,2007,soft_bottom,0.848869672021431,Sierra Leone
+97,2007,soft_bottom,1,Liberia
+98,2007,soft_bottom,0.714090585693839,Togo
+100,2007,soft_bottom,0.933847186067345,Republique du Congo
+101,2007,soft_bottom,1,Namibia
+102,2007,soft_bottom,1,South Africa
+103,2007,soft_bottom,1,Sao Tome and Principe
+104,2007,soft_bottom,0.952141729858619,Equatorial Guinea
+106,2007,soft_bottom,0.971107625775306,Ghana
+107,2007,soft_bottom,1,Clipperton Island
+108,2007,soft_bottom,0.970215977293878,Bermuda
+110,2007,soft_bottom,1,Bahamas
+111,2007,soft_bottom,1,Turks and Caicos Islands
+112,2007,soft_bottom,1,Cuba
+113,2007,soft_bottom,1,Cayman Islands
+114,2007,soft_bottom,0.874834304906502,Haiti
+115,2007,soft_bottom,1,Dominican Republic
+116,2007,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2007,soft_bottom,1,British Virgin Islands
+118,2007,soft_bottom,1,Anguilla
+119,2007,soft_bottom,0.93245951952838,Saint Kitts and Nevis
+120,2007,soft_bottom,1,Antigua and Barbuda
+121,2007,soft_bottom,0.948581693869672,Montserrat
+122,2007,soft_bottom,0.952594953541075,Saint Lucia
+123,2007,soft_bottom,0.909419254523672,Dominica
+124,2007,soft_bottom,0.894667210528742,Barbados
+125,2007,soft_bottom,1,Grenada
+126,2007,soft_bottom,1,Trinidad and Tobago
+127,2007,soft_bottom,1,Saint Vincent and the Grenadines
+129,2007,soft_bottom,0.875606851954679,Panama
+130,2007,soft_bottom,1,Costa Rica
+131,2007,soft_bottom,1,Nicaragua
+132,2007,soft_bottom,0.988057360714665,Colombia
+133,2007,soft_bottom,1,Honduras
+134,2007,soft_bottom,1,El Salvador
+135,2007,soft_bottom,1,Mexico
+136,2007,soft_bottom,1,Guatemala
+137,2007,soft_bottom,1,Ecuador
+138,2007,soft_bottom,0.948455501383583,Peru
+139,2007,soft_bottom,0.996643503879868,Venezuela
+140,2007,soft_bottom,0.829503033963298,Guadeloupe and Martinique
+141,2007,soft_bottom,0.971159371269342,Faeroe Islands
+143,2007,soft_bottom,0.958151164881845,Iceland
+144,2007,soft_bottom,0.869430122241753,Jan Mayen
+145,2007,soft_bottom,1,Greenland
+147,2007,soft_bottom,1,French Polynesia
+148,2007,soft_bottom,1,Line Islands (Kiribati)
+149,2007,soft_bottom,0.627679397241959,Jarvis Island
+150,2007,soft_bottom,1,Palmyra Atoll
+153,2007,soft_bottom,0.957102920980779,Cook Islands
+154,2007,soft_bottom,0.993984580157949,Niue
+155,2007,soft_bottom,1,Tonga
+157,2007,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2007,soft_bottom,1,Howland Island and Baker Island
+159,2007,soft_bottom,1,Johnston Atoll
+161,2007,soft_bottom,0.95167756361609,Wallis and Futuna
+162,2007,soft_bottom,1,New Zealand
+163,2007,soft_bottom,1,United States
+164,2007,soft_bottom,0.959384584783984,Belize
+166,2007,soft_bottom,0.975928712203029,Jamaica
+167,2007,soft_bottom,1,Guyana
+168,2007,soft_bottom,1,Suriname
+169,2007,soft_bottom,1,French Guiana
+171,2007,soft_bottom,1,Brazil
+172,2007,soft_bottom,1,Argentina
+173,2007,soft_bottom,1,Uruguay
+174,2007,soft_bottom,1,Finland
+175,2007,soft_bottom,0.990829934467569,Denmark
+176,2007,soft_bottom,0.984475776020594,Germany
+177,2007,soft_bottom,0.995247365856228,Netherlands
+178,2007,soft_bottom,1,Poland
+179,2007,soft_bottom,1,France
+180,2007,soft_bottom,0.998664946219412,United Kingdom
+181,2007,soft_bottom,1,Ireland
+182,2007,soft_bottom,0.962719482317157,Spain
+183,2007,soft_bottom,0.965655098801522,Portugal
+184,2007,soft_bottom,1,Italy
+186,2007,soft_bottom,1,Montenegro
+187,2007,soft_bottom,1,Croatia
+188,2007,soft_bottom,0.890904537618856,Slovenia
+189,2007,soft_bottom,1,Lithuania
+190,2007,soft_bottom,1,Qatar
+191,2007,soft_bottom,1,Iran
+192,2007,soft_bottom,0.945723975853901,Iraq
+193,2007,soft_bottom,1,Guinea Bissau
+194,2007,soft_bottom,0.980995560486513,Guinea
+195,2007,soft_bottom,0.963428931679973,Ivory Coast
+196,2007,soft_bottom,0.0420447948770972,Nigeria
+197,2007,soft_bottom,0.824400327042384,Cameroon
+198,2007,soft_bottom,0.680448373159256,Gabon
+199,2007,soft_bottom,0.991612000744224,Democratic Republic of the Congo
+200,2007,soft_bottom,0.853114011230371,Angola
+202,2007,soft_bottom,0.939673483428713,Tanzania
+203,2007,soft_bottom,0.911240736936714,India
+204,2007,soft_bottom,0.798686882486304,Bangladesh
+205,2007,soft_bottom,0.862338883255745,Myanmar
+206,2007,soft_bottom,0.892173564781992,Malaysia
+207,2007,soft_bottom,0.887917455940344,Vietnam
+208,2007,soft_bottom,0.760354182557318,Singapore
+209,2007,soft_bottom,0.851786334725184,China
+210,2007,soft_bottom,0.887020169217078,Japan
+212,2007,soft_bottom,0.660541057930029,Gilbert Islands (Kiribati)
+214,2007,soft_bottom,1,Egypt
+216,2007,soft_bottom,0.990902196574687,Indonesia
+218,2007,soft_bottom,1,Canada
+219,2007,soft_bottom,1,Saint Pierre and Miquelon
+220,2007,soft_bottom,0.746722755903851,Sint Maarten
+221,2007,soft_bottom,1,Northern Saint-Martin
+222,2007,soft_bottom,1,Sweden
+223,2007,soft_bottom,0.980013892733123,Norway
+224,2007,soft_bottom,1,Chile
+227,2007,soft_bottom,1,Jersey
+228,2007,soft_bottom,0.851741202200843,Guernsey
+231,2007,soft_bottom,0.937363858292573,East Timor
+232,2007,soft_bottom,0.430847416177655,Bosnia and Herzegovina
+237,2007,soft_bottom,0.723160530958488,Oecussi Ambeno
+247,2007,soft_bottom,0.714320287610421,Brunei
+248,2007,soft_bottom,1,Saba
+249,2007,soft_bottom,0.631532130473037,Sint Eustatius
+1,2008,soft_bottom,0.852069721046177,Cocos Islands
+2,2008,soft_bottom,0.797527586814205,Christmas Island
+3,2008,soft_bottom,1,Norfolk Island
+4,2008,soft_bottom,1,Macquarie Island
+5,2008,soft_bottom,1,New Caledonia
+6,2008,soft_bottom,0.963332707266145,Vanuatu
+7,2008,soft_bottom,1,Solomon Islands
+8,2008,soft_bottom,0.801482602548967,Palau
+9,2008,soft_bottom,1,Micronesia
+10,2008,soft_bottom,0.799447447821401,Nauru
+11,2008,soft_bottom,1,Marshall Islands
+13,2008,soft_bottom,1,Northern Mariana Islands and Guam
+14,2008,soft_bottom,0.962960711363977,Taiwan
+15,2008,soft_bottom,0.733832526362539,Philippines
+16,2008,soft_bottom,1,Australia
+17,2008,soft_bottom,1,Papua New Guinea
+18,2008,soft_bottom,0.941933849624671,Fiji
+19,2008,soft_bottom,1,Tuvalu
+20,2008,soft_bottom,1,South Korea
+21,2008,soft_bottom,0.904262958119989,North Korea
+24,2008,soft_bottom,1,Cambodia
+25,2008,soft_bottom,1,Thailand
+26,2008,soft_bottom,0.676746443367075,Andaman and Nicobar
+28,2008,soft_bottom,0.768051743202042,Comoro Islands
+29,2008,soft_bottom,1,Mayotte
+30,2008,soft_bottom,0.880695978568512,Glorioso Islands
+31,2008,soft_bottom,1,Seychelles
+32,2008,soft_bottom,1,R_union
+33,2008,soft_bottom,1,Juan de Nova Island
+34,2008,soft_bottom,1,Bassas da India
+37,2008,soft_bottom,1,Mauritius
+38,2008,soft_bottom,1,British Indian Ocean Territory
+39,2008,soft_bottom,1,Maldives
+40,2008,soft_bottom,0.984444533090427,Sri Lanka
+41,2008,soft_bottom,0.979199623964063,Mozambique
+42,2008,soft_bottom,1,Madagascar
+43,2008,soft_bottom,1,Kenya
+44,2008,soft_bottom,1,Somalia
+45,2008,soft_bottom,1,Eritrea
+46,2008,soft_bottom,0.968971710354654,Djibouti
+47,2008,soft_bottom,0.98904281340382,Yemen
+48,2008,soft_bottom,1,Oman
+49,2008,soft_bottom,0.827569301175377,Sudan
+50,2008,soft_bottom,0.854706003125741,Saudi Arabia
+51,2008,soft_bottom,0.902127978161327,Kuwait
+52,2008,soft_bottom,0.90114514083941,Bahrain
+53,2008,soft_bottom,0.903953371275433,Pakistan
+54,2008,soft_bottom,1,United Arab Emirates
+55,2008,soft_bottom,0.613764442030793,Azores
+56,2008,soft_bottom,1,Cape Verde
+57,2008,soft_bottom,0.813532213677188,Madeira
+58,2008,soft_bottom,0.89763327308636,Canary Islands
+59,2008,soft_bottom,1,Belgium
+60,2008,soft_bottom,0.79143132473775,Gibraltar
+61,2008,soft_bottom,1,Tunisia
+62,2008,soft_bottom,0.913354967420749,Morocco
+63,2008,soft_bottom,1,Western Sahara
+64,2008,soft_bottom,0.881274050101183,Mauritania
+65,2008,soft_bottom,0.844275795421649,Gambia
+66,2008,soft_bottom,0.87043299867959,Senegal
+67,2008,soft_bottom,1,Libya
+68,2008,soft_bottom,1,Malta
+69,2008,soft_bottom,1,Latvia
+70,2008,soft_bottom,1,Estonia
+71,2008,soft_bottom,1,Bulgaria
+72,2008,soft_bottom,1,Romania
+73,2008,soft_bottom,1,Russia
+74,2008,soft_bottom,1,Georgia
+75,2008,soft_bottom,1,Ukraine
+76,2008,soft_bottom,0.956793879535215,Turkey
+77,2008,soft_bottom,0.922124835770792,Syria
+78,2008,soft_bottom,0.914598256202415,Lebanon
+79,2008,soft_bottom,1,Israel
+80,2008,soft_bottom,1,Greece
+81,2008,soft_bottom,1,Cyprus
+82,2008,soft_bottom,1,Albania
+84,2008,soft_bottom,0.888289555166512,Algeria
+85,2008,soft_bottom,0.86040704305178,Ascension
+86,2008,soft_bottom,0.722232635296623,Saint Helena
+88,2008,soft_bottom,0.797130791577911,Tristan da Cunha
+89,2008,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2008,soft_bottom,1,Prince Edward Islands
+92,2008,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2008,soft_bottom,1,Kerguelen Islands
+94,2008,soft_bottom,1,Heard and McDonald Islands
+95,2008,soft_bottom,1,Falkland Islands
+96,2008,soft_bottom,0.80073325239363,Sierra Leone
+97,2008,soft_bottom,1,Liberia
+98,2008,soft_bottom,0.691221501432581,Togo
+100,2008,soft_bottom,0.953369984697265,Republique du Congo
+101,2008,soft_bottom,1,Namibia
+102,2008,soft_bottom,1,South Africa
+103,2008,soft_bottom,1,Sao Tome and Principe
+104,2008,soft_bottom,0.936178254369141,Equatorial Guinea
+106,2008,soft_bottom,0.939276494657377,Ghana
+107,2008,soft_bottom,1,Clipperton Island
+108,2008,soft_bottom,1,Bermuda
+110,2008,soft_bottom,1,Bahamas
+111,2008,soft_bottom,1,Turks and Caicos Islands
+112,2008,soft_bottom,1,Cuba
+113,2008,soft_bottom,1,Cayman Islands
+114,2008,soft_bottom,0.869674245490926,Haiti
+115,2008,soft_bottom,1,Dominican Republic
+116,2008,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2008,soft_bottom,1,British Virgin Islands
+118,2008,soft_bottom,1,Anguilla
+119,2008,soft_bottom,0.925028952329864,Saint Kitts and Nevis
+120,2008,soft_bottom,1,Antigua and Barbuda
+121,2008,soft_bottom,0.918349669239142,Montserrat
+122,2008,soft_bottom,0.944310287716575,Saint Lucia
+123,2008,soft_bottom,0.894656507258224,Dominica
+124,2008,soft_bottom,0.836706496063946,Barbados
+125,2008,soft_bottom,1,Grenada
+126,2008,soft_bottom,1,Trinidad and Tobago
+127,2008,soft_bottom,1,Saint Vincent and the Grenadines
+129,2008,soft_bottom,0.881818323427963,Panama
+130,2008,soft_bottom,1,Costa Rica
+131,2008,soft_bottom,1,Nicaragua
+132,2008,soft_bottom,1,Colombia
+133,2008,soft_bottom,1,Honduras
+134,2008,soft_bottom,1,El Salvador
+135,2008,soft_bottom,1,Mexico
+136,2008,soft_bottom,1,Guatemala
+137,2008,soft_bottom,0.987592746760137,Ecuador
+138,2008,soft_bottom,0.962118493327079,Peru
+139,2008,soft_bottom,1,Venezuela
+140,2008,soft_bottom,0.818947503481006,Guadeloupe and Martinique
+141,2008,soft_bottom,0.987503945264504,Faeroe Islands
+143,2008,soft_bottom,0.947896025560381,Iceland
+144,2008,soft_bottom,0.846473204600239,Jan Mayen
+145,2008,soft_bottom,1,Greenland
+147,2008,soft_bottom,1,French Polynesia
+148,2008,soft_bottom,1,Line Islands (Kiribati)
+149,2008,soft_bottom,0.640397646581221,Jarvis Island
+150,2008,soft_bottom,1,Palmyra Atoll
+153,2008,soft_bottom,0.961258953126236,Cook Islands
+154,2008,soft_bottom,1,Niue
+155,2008,soft_bottom,1,Tonga
+157,2008,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2008,soft_bottom,1,Howland Island and Baker Island
+159,2008,soft_bottom,1,Johnston Atoll
+161,2008,soft_bottom,0.940177733681737,Wallis and Futuna
+162,2008,soft_bottom,1,New Zealand
+163,2008,soft_bottom,1,United States
+164,2008,soft_bottom,0.954065373074941,Belize
+166,2008,soft_bottom,0.998640093891671,Jamaica
+167,2008,soft_bottom,1,Guyana
+168,2008,soft_bottom,1,Suriname
+169,2008,soft_bottom,1,French Guiana
+171,2008,soft_bottom,1,Brazil
+172,2008,soft_bottom,1,Argentina
+173,2008,soft_bottom,1,Uruguay
+174,2008,soft_bottom,1,Finland
+175,2008,soft_bottom,0.966198805125544,Denmark
+176,2008,soft_bottom,0.982619372139532,Germany
+177,2008,soft_bottom,0.996123453331499,Netherlands
+178,2008,soft_bottom,1,Poland
+179,2008,soft_bottom,1,France
+180,2008,soft_bottom,1,United Kingdom
+181,2008,soft_bottom,1,Ireland
+182,2008,soft_bottom,0.98962516715366,Spain
+183,2008,soft_bottom,0.970863337807801,Portugal
+184,2008,soft_bottom,1,Italy
+186,2008,soft_bottom,1,Montenegro
+187,2008,soft_bottom,1,Croatia
+188,2008,soft_bottom,0.970815555761612,Slovenia
+189,2008,soft_bottom,1,Lithuania
+190,2008,soft_bottom,1,Qatar
+191,2008,soft_bottom,1,Iran
+192,2008,soft_bottom,0.870256737812588,Iraq
+193,2008,soft_bottom,1,Guinea Bissau
+194,2008,soft_bottom,0.958320497897539,Guinea
+195,2008,soft_bottom,0.945330711659737,Ivory Coast
+196,2008,soft_bottom,0.0477166776490814,Nigeria
+197,2008,soft_bottom,0.830777713973884,Cameroon
+198,2008,soft_bottom,0.700800622244443,Gabon
+199,2008,soft_bottom,1,Democratic Republic of the Congo
+200,2008,soft_bottom,0.86458091543143,Angola
+202,2008,soft_bottom,0.946041886837801,Tanzania
+203,2008,soft_bottom,0.904883660273783,India
+204,2008,soft_bottom,0.799338604991642,Bangladesh
+205,2008,soft_bottom,0.872160449133822,Myanmar
+206,2008,soft_bottom,0.911238677803974,Malaysia
+207,2008,soft_bottom,0.879905029683683,Vietnam
+208,2008,soft_bottom,0.821809062452458,Singapore
+209,2008,soft_bottom,0.851767262782237,China
+210,2008,soft_bottom,0.882679489389108,Japan
+212,2008,soft_bottom,0.709912011720225,Gilbert Islands (Kiribati)
+214,2008,soft_bottom,0.992567869054366,Egypt
+216,2008,soft_bottom,0.996269859719363,Indonesia
+218,2008,soft_bottom,1,Canada
+219,2008,soft_bottom,1,Saint Pierre and Miquelon
+220,2008,soft_bottom,0.788813172563717,Sint Maarten
+221,2008,soft_bottom,1,Northern Saint-Martin
+222,2008,soft_bottom,1,Sweden
+223,2008,soft_bottom,0.980442181010795,Norway
+224,2008,soft_bottom,0.998007888700689,Chile
+227,2008,soft_bottom,0.979672877173732,Jersey
+228,2008,soft_bottom,0.862988508246741,Guernsey
+231,2008,soft_bottom,0.931286636742689,East Timor
+232,2008,soft_bottom,0.485044757428386,Bosnia and Herzegovina
+237,2008,soft_bottom,0.745345942999101,Oecussi Ambeno
+247,2008,soft_bottom,0.815693889353454,Brunei
+248,2008,soft_bottom,1,Saba
+249,2008,soft_bottom,0.663823070450002,Sint Eustatius
+1,2009,soft_bottom,1,Cocos Islands
+2,2009,soft_bottom,0.916399007653763,Christmas Island
+3,2009,soft_bottom,1,Norfolk Island
+4,2009,soft_bottom,1,Macquarie Island
+5,2009,soft_bottom,1,New Caledonia
+6,2009,soft_bottom,0.874146315062484,Vanuatu
+7,2009,soft_bottom,1,Solomon Islands
+8,2009,soft_bottom,0.81415356251087,Palau
+9,2009,soft_bottom,1,Micronesia
+10,2009,soft_bottom,0.85636513622849,Nauru
+11,2009,soft_bottom,1,Marshall Islands
+13,2009,soft_bottom,1,Northern Mariana Islands and Guam
+14,2009,soft_bottom,0.961043793421819,Taiwan
+15,2009,soft_bottom,0.731804271861323,Philippines
+16,2009,soft_bottom,1,Australia
+17,2009,soft_bottom,1,Papua New Guinea
+18,2009,soft_bottom,0.960899309158983,Fiji
+19,2009,soft_bottom,1,Tuvalu
+20,2009,soft_bottom,1,South Korea
+21,2009,soft_bottom,0.911649065675775,North Korea
+24,2009,soft_bottom,1,Cambodia
+25,2009,soft_bottom,0.998211461217027,Thailand
+26,2009,soft_bottom,0.656674398009971,Andaman and Nicobar
+28,2009,soft_bottom,0.671913482294283,Comoro Islands
+29,2009,soft_bottom,0.995689341380497,Mayotte
+30,2009,soft_bottom,0.819910858295099,Glorioso Islands
+31,2009,soft_bottom,1,Seychelles
+32,2009,soft_bottom,1,R_union
+33,2009,soft_bottom,0.980247520163268,Juan de Nova Island
+34,2009,soft_bottom,1,Bassas da India
+37,2009,soft_bottom,1,Mauritius
+38,2009,soft_bottom,1,British Indian Ocean Territory
+39,2009,soft_bottom,0.983119120144958,Maldives
+40,2009,soft_bottom,0.981908084579339,Sri Lanka
+41,2009,soft_bottom,0.971530649627309,Mozambique
+42,2009,soft_bottom,1,Madagascar
+43,2009,soft_bottom,1,Kenya
+44,2009,soft_bottom,1,Somalia
+45,2009,soft_bottom,1,Eritrea
+46,2009,soft_bottom,0.929015289153571,Djibouti
+47,2009,soft_bottom,0.962916794315214,Yemen
+48,2009,soft_bottom,1,Oman
+49,2009,soft_bottom,0.823520691610927,Sudan
+50,2009,soft_bottom,0.874831153851174,Saudi Arabia
+51,2009,soft_bottom,0.932108780030842,Kuwait
+52,2009,soft_bottom,0.855083962707537,Bahrain
+53,2009,soft_bottom,0.905571452737524,Pakistan
+54,2009,soft_bottom,1,United Arab Emirates
+55,2009,soft_bottom,0.755720565597652,Azores
+56,2009,soft_bottom,1,Cape Verde
+57,2009,soft_bottom,0.901026464457795,Madeira
+58,2009,soft_bottom,0.841743556814187,Canary Islands
+59,2009,soft_bottom,1,Belgium
+60,2009,soft_bottom,0.806533685851826,Gibraltar
+61,2009,soft_bottom,1,Tunisia
+62,2009,soft_bottom,0.909153732537359,Morocco
+63,2009,soft_bottom,1,Western Sahara
+64,2009,soft_bottom,0.901648604347177,Mauritania
+65,2009,soft_bottom,0.835354883748724,Gambia
+66,2009,soft_bottom,0.853968888397058,Senegal
+67,2009,soft_bottom,1,Libya
+68,2009,soft_bottom,1,Malta
+69,2009,soft_bottom,1,Latvia
+70,2009,soft_bottom,1,Estonia
+71,2009,soft_bottom,1,Bulgaria
+72,2009,soft_bottom,1,Romania
+73,2009,soft_bottom,1,Russia
+74,2009,soft_bottom,1,Georgia
+75,2009,soft_bottom,1,Ukraine
+76,2009,soft_bottom,0.949946377698465,Turkey
+77,2009,soft_bottom,0.893174225393149,Syria
+78,2009,soft_bottom,0.894414535510419,Lebanon
+79,2009,soft_bottom,1,Israel
+80,2009,soft_bottom,1,Greece
+81,2009,soft_bottom,1,Cyprus
+82,2009,soft_bottom,1,Albania
+84,2009,soft_bottom,0.909026231714624,Algeria
+85,2009,soft_bottom,0.713316158335339,Ascension
+86,2009,soft_bottom,0.835075522346513,Saint Helena
+88,2009,soft_bottom,0.798813695656383,Tristan da Cunha
+89,2009,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2009,soft_bottom,1,Prince Edward Islands
+92,2009,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2009,soft_bottom,1,Kerguelen Islands
+94,2009,soft_bottom,1,Heard and McDonald Islands
+95,2009,soft_bottom,1,Falkland Islands
+96,2009,soft_bottom,0.799662672623716,Sierra Leone
+97,2009,soft_bottom,1,Liberia
+98,2009,soft_bottom,0.706992920604798,Togo
+100,2009,soft_bottom,0.943476024233612,Republique du Congo
+101,2009,soft_bottom,1,Namibia
+102,2009,soft_bottom,1,South Africa
+103,2009,soft_bottom,1,Sao Tome and Principe
+104,2009,soft_bottom,0.942160592638339,Equatorial Guinea
+106,2009,soft_bottom,0.973363451222677,Ghana
+107,2009,soft_bottom,1,Clipperton Island
+108,2009,soft_bottom,1,Bermuda
+110,2009,soft_bottom,1,Bahamas
+111,2009,soft_bottom,1,Turks and Caicos Islands
+112,2009,soft_bottom,1,Cuba
+113,2009,soft_bottom,1,Cayman Islands
+114,2009,soft_bottom,0.851281518882723,Haiti
+115,2009,soft_bottom,1,Dominican Republic
+116,2009,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2009,soft_bottom,1,British Virgin Islands
+118,2009,soft_bottom,1,Anguilla
+119,2009,soft_bottom,0.963859077239206,Saint Kitts and Nevis
+120,2009,soft_bottom,1,Antigua and Barbuda
+121,2009,soft_bottom,0.955192012421202,Montserrat
+122,2009,soft_bottom,0.970884373342843,Saint Lucia
+123,2009,soft_bottom,0.888244858390523,Dominica
+124,2009,soft_bottom,0.836009619571621,Barbados
+125,2009,soft_bottom,1,Grenada
+126,2009,soft_bottom,1,Trinidad and Tobago
+127,2009,soft_bottom,1,Saint Vincent and the Grenadines
+129,2009,soft_bottom,0.864390611489369,Panama
+130,2009,soft_bottom,1,Costa Rica
+131,2009,soft_bottom,1,Nicaragua
+132,2009,soft_bottom,1,Colombia
+133,2009,soft_bottom,1,Honduras
+134,2009,soft_bottom,1,El Salvador
+135,2009,soft_bottom,1,Mexico
+136,2009,soft_bottom,1,Guatemala
+137,2009,soft_bottom,0.949833269116588,Ecuador
+138,2009,soft_bottom,0.944082990824652,Peru
+139,2009,soft_bottom,1,Venezuela
+140,2009,soft_bottom,0.857076963103326,Guadeloupe and Martinique
+141,2009,soft_bottom,0.978994018308813,Faeroe Islands
+143,2009,soft_bottom,0.950056770362692,Iceland
+144,2009,soft_bottom,0.855672912345,Jan Mayen
+145,2009,soft_bottom,1,Greenland
+147,2009,soft_bottom,1,French Polynesia
+148,2009,soft_bottom,1,Line Islands (Kiribati)
+149,2009,soft_bottom,0.727455979058724,Jarvis Island
+150,2009,soft_bottom,1,Palmyra Atoll
+153,2009,soft_bottom,0.968959936738953,Cook Islands
+154,2009,soft_bottom,1,Niue
+155,2009,soft_bottom,1,Tonga
+157,2009,soft_bottom,1,Phoenix Islands (Kiribati)
+158,2009,soft_bottom,1,Howland Island and Baker Island
+159,2009,soft_bottom,0.892461315736309,Johnston Atoll
+161,2009,soft_bottom,0.940341333812903,Wallis and Futuna
+162,2009,soft_bottom,1,New Zealand
+163,2009,soft_bottom,1,United States
+164,2009,soft_bottom,0.960610829681755,Belize
+166,2009,soft_bottom,0.974152744991653,Jamaica
+167,2009,soft_bottom,1,Guyana
+168,2009,soft_bottom,1,Suriname
+169,2009,soft_bottom,1,French Guiana
+171,2009,soft_bottom,1,Brazil
+172,2009,soft_bottom,1,Argentina
+173,2009,soft_bottom,1,Uruguay
+174,2009,soft_bottom,1,Finland
+175,2009,soft_bottom,0.946257424981745,Denmark
+176,2009,soft_bottom,0.944790119208492,Germany
+177,2009,soft_bottom,0.985766161868173,Netherlands
+178,2009,soft_bottom,1,Poland
+179,2009,soft_bottom,1,France
+180,2009,soft_bottom,0.99537485491148,United Kingdom
+181,2009,soft_bottom,1,Ireland
+182,2009,soft_bottom,1,Spain
+183,2009,soft_bottom,0.935305421929712,Portugal
+184,2009,soft_bottom,1,Italy
+186,2009,soft_bottom,1,Montenegro
+187,2009,soft_bottom,1,Croatia
+188,2009,soft_bottom,1,Slovenia
+189,2009,soft_bottom,1,Lithuania
+190,2009,soft_bottom,1,Qatar
+191,2009,soft_bottom,1,Iran
+192,2009,soft_bottom,0.927157362697252,Iraq
+193,2009,soft_bottom,1,Guinea Bissau
+194,2009,soft_bottom,0.93912109372865,Guinea
+195,2009,soft_bottom,0.956814061210011,Ivory Coast
+196,2009,soft_bottom,0.0412377171858983,Nigeria
+197,2009,soft_bottom,0.830852555618083,Cameroon
+198,2009,soft_bottom,0.718199928434722,Gabon
+199,2009,soft_bottom,1,Democratic Republic of the Congo
+200,2009,soft_bottom,0.870823775885956,Angola
+202,2009,soft_bottom,0.93799596358158,Tanzania
+203,2009,soft_bottom,0.903413337109217,India
+204,2009,soft_bottom,0.783580486315314,Bangladesh
+205,2009,soft_bottom,0.885941211896068,Myanmar
+206,2009,soft_bottom,0.901013982096927,Malaysia
+207,2009,soft_bottom,0.864708433917425,Vietnam
+208,2009,soft_bottom,0.811207269100143,Singapore
+209,2009,soft_bottom,0.851417923520969,China
+210,2009,soft_bottom,0.887649970225272,Japan
+212,2009,soft_bottom,0.757883581807481,Gilbert Islands (Kiribati)
+214,2009,soft_bottom,1,Egypt
+216,2009,soft_bottom,0.998080120132085,Indonesia
+218,2009,soft_bottom,1,Canada
+219,2009,soft_bottom,1,Saint Pierre and Miquelon
+220,2009,soft_bottom,0.592831730608129,Sint Maarten
+221,2009,soft_bottom,1,Northern Saint-Martin
+222,2009,soft_bottom,1,Sweden
+223,2009,soft_bottom,0.980672957327378,Norway
+224,2009,soft_bottom,0.97295895742227,Chile
+227,2009,soft_bottom,1,Jersey
+228,2009,soft_bottom,0.84686078047187,Guernsey
+231,2009,soft_bottom,0.931817169999159,East Timor
+232,2009,soft_bottom,0.465006164122098,Bosnia and Herzegovina
+237,2009,soft_bottom,0.756828498210901,Oecussi Ambeno
+247,2009,soft_bottom,0.873009013825393,Brunei
+248,2009,soft_bottom,1,Saba
+249,2009,soft_bottom,0.597373986356176,Sint Eustatius
+1,2010,soft_bottom,1,Cocos Islands
+2,2010,soft_bottom,0.775691655434422,Christmas Island
+3,2010,soft_bottom,1,Norfolk Island
+4,2010,soft_bottom,1,Macquarie Island
+5,2010,soft_bottom,1,New Caledonia
+6,2010,soft_bottom,0.89604730969795,Vanuatu
+7,2010,soft_bottom,1,Solomon Islands
+8,2010,soft_bottom,0.800618287173258,Palau
+9,2010,soft_bottom,1,Micronesia
+10,2010,soft_bottom,0.796163799840992,Nauru
+11,2010,soft_bottom,0.992497662938074,Marshall Islands
+13,2010,soft_bottom,1,Northern Mariana Islands and Guam
+14,2010,soft_bottom,0.95612997907898,Taiwan
+15,2010,soft_bottom,0.729725098448806,Philippines
+16,2010,soft_bottom,1,Australia
+17,2010,soft_bottom,1,Papua New Guinea
+18,2010,soft_bottom,0.944757112612577,Fiji
+19,2010,soft_bottom,1,Tuvalu
+20,2010,soft_bottom,1,South Korea
+21,2010,soft_bottom,0.916817961573287,North Korea
+24,2010,soft_bottom,0.939639922009255,Cambodia
+25,2010,soft_bottom,0.992367092417245,Thailand
+26,2010,soft_bottom,0.654078290539961,Andaman and Nicobar
+28,2010,soft_bottom,0.68440849245643,Comoro Islands
+29,2010,soft_bottom,0.991414067646964,Mayotte
+30,2010,soft_bottom,0.954784339018678,Glorioso Islands
+31,2010,soft_bottom,1,Seychelles
+32,2010,soft_bottom,0.907655596494181,R_union
+33,2010,soft_bottom,0.99939501538192,Juan de Nova Island
+34,2010,soft_bottom,1,Bassas da India
+37,2010,soft_bottom,1,Mauritius
+38,2010,soft_bottom,1,British Indian Ocean Territory
+39,2010,soft_bottom,0.988248342834908,Maldives
+40,2010,soft_bottom,0.976469121083084,Sri Lanka
+41,2010,soft_bottom,0.954213907953429,Mozambique
+42,2010,soft_bottom,1,Madagascar
+43,2010,soft_bottom,1,Kenya
+44,2010,soft_bottom,1,Somalia
+45,2010,soft_bottom,1,Eritrea
+46,2010,soft_bottom,0.932875974052883,Djibouti
+47,2010,soft_bottom,0.979449529206314,Yemen
+48,2010,soft_bottom,1,Oman
+49,2010,soft_bottom,0.807366006371454,Sudan
+50,2010,soft_bottom,0.864317276455247,Saudi Arabia
+51,2010,soft_bottom,0.868920426309754,Kuwait
+52,2010,soft_bottom,0.814791045361593,Bahrain
+53,2010,soft_bottom,0.90408434907959,Pakistan
+54,2010,soft_bottom,1,United Arab Emirates
+55,2010,soft_bottom,0.770347397530854,Azores
+56,2010,soft_bottom,1,Cape Verde
+57,2010,soft_bottom,0.773599217444226,Madeira
+58,2010,soft_bottom,0.829648707501493,Canary Islands
+59,2010,soft_bottom,1,Belgium
+60,2010,soft_bottom,0.716998477141272,Gibraltar
+61,2010,soft_bottom,1,Tunisia
+62,2010,soft_bottom,0.940770398993959,Morocco
+63,2010,soft_bottom,1,Western Sahara
+64,2010,soft_bottom,0.88346251499954,Mauritania
+65,2010,soft_bottom,0.838868335188456,Gambia
+66,2010,soft_bottom,0.861516285480361,Senegal
+67,2010,soft_bottom,1,Libya
+68,2010,soft_bottom,1,Malta
+69,2010,soft_bottom,1,Latvia
+70,2010,soft_bottom,1,Estonia
+71,2010,soft_bottom,1,Bulgaria
+72,2010,soft_bottom,1,Romania
+73,2010,soft_bottom,1,Russia
+74,2010,soft_bottom,1,Georgia
+75,2010,soft_bottom,1,Ukraine
+76,2010,soft_bottom,0.96622430224745,Turkey
+77,2010,soft_bottom,0.917420827100075,Syria
+78,2010,soft_bottom,0.905569871745898,Lebanon
+79,2010,soft_bottom,1,Israel
+80,2010,soft_bottom,1,Greece
+81,2010,soft_bottom,1,Cyprus
+82,2010,soft_bottom,1,Albania
+84,2010,soft_bottom,0.925218266627011,Algeria
+85,2010,soft_bottom,0.892558476106945,Ascension
+86,2010,soft_bottom,0.766066672027577,Saint Helena
+88,2010,soft_bottom,0.771559648419429,Tristan da Cunha
+89,2010,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2010,soft_bottom,1,Prince Edward Islands
+92,2010,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2010,soft_bottom,1,Kerguelen Islands
+94,2010,soft_bottom,1,Heard and McDonald Islands
+95,2010,soft_bottom,1,Falkland Islands
+96,2010,soft_bottom,0.798518949023178,Sierra Leone
+97,2010,soft_bottom,1,Liberia
+98,2010,soft_bottom,0.702871032304034,Togo
+100,2010,soft_bottom,0.928420129621016,Republique du Congo
+101,2010,soft_bottom,1,Namibia
+102,2010,soft_bottom,1,South Africa
+103,2010,soft_bottom,1,Sao Tome and Principe
+104,2010,soft_bottom,0.922151950224015,Equatorial Guinea
+106,2010,soft_bottom,0.988121543975889,Ghana
+107,2010,soft_bottom,1,Clipperton Island
+108,2010,soft_bottom,1,Bermuda
+110,2010,soft_bottom,1,Bahamas
+111,2010,soft_bottom,1,Turks and Caicos Islands
+112,2010,soft_bottom,1,Cuba
+113,2010,soft_bottom,1,Cayman Islands
+114,2010,soft_bottom,0.799061189200018,Haiti
+115,2010,soft_bottom,1,Dominican Republic
+116,2010,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2010,soft_bottom,1,British Virgin Islands
+118,2010,soft_bottom,1,Anguilla
+119,2010,soft_bottom,0.941540451783646,Saint Kitts and Nevis
+120,2010,soft_bottom,1,Antigua and Barbuda
+121,2010,soft_bottom,0.968817981438254,Montserrat
+122,2010,soft_bottom,0.981611895780412,Saint Lucia
+123,2010,soft_bottom,0.883696613525351,Dominica
+124,2010,soft_bottom,0.842022218168756,Barbados
+125,2010,soft_bottom,1,Grenada
+126,2010,soft_bottom,1,Trinidad and Tobago
+127,2010,soft_bottom,1,Saint Vincent and the Grenadines
+129,2010,soft_bottom,0.943924077725357,Panama
+130,2010,soft_bottom,1,Costa Rica
+131,2010,soft_bottom,1,Nicaragua
+132,2010,soft_bottom,1,Colombia
+133,2010,soft_bottom,1,Honduras
+134,2010,soft_bottom,1,El Salvador
+135,2010,soft_bottom,1,Mexico
+136,2010,soft_bottom,1,Guatemala
+137,2010,soft_bottom,1,Ecuador
+138,2010,soft_bottom,0.928567070915549,Peru
+139,2010,soft_bottom,1,Venezuela
+140,2010,soft_bottom,0.851440382589905,Guadeloupe and Martinique
+141,2010,soft_bottom,1,Faeroe Islands
+143,2010,soft_bottom,0.957334484329459,Iceland
+144,2010,soft_bottom,0.833537073863135,Jan Mayen
+145,2010,soft_bottom,1,Greenland
+147,2010,soft_bottom,1,French Polynesia
+148,2010,soft_bottom,1,Line Islands (Kiribati)
+149,2010,soft_bottom,0.794086727152415,Jarvis Island
+150,2010,soft_bottom,1,Palmyra Atoll
+153,2010,soft_bottom,0.954562274122505,Cook Islands
+154,2010,soft_bottom,1,Niue
+155,2010,soft_bottom,1,Tonga
+157,2010,soft_bottom,0.992128683156164,Phoenix Islands (Kiribati)
+158,2010,soft_bottom,1,Howland Island and Baker Island
+159,2010,soft_bottom,0.952039350920709,Johnston Atoll
+161,2010,soft_bottom,0.931713442969294,Wallis and Futuna
+162,2010,soft_bottom,1,New Zealand
+163,2010,soft_bottom,1,United States
+164,2010,soft_bottom,0.918900143087574,Belize
+166,2010,soft_bottom,0.985155313005508,Jamaica
+167,2010,soft_bottom,1,Guyana
+168,2010,soft_bottom,1,Suriname
+169,2010,soft_bottom,1,French Guiana
+171,2010,soft_bottom,1,Brazil
+172,2010,soft_bottom,1,Argentina
+173,2010,soft_bottom,1,Uruguay
+174,2010,soft_bottom,1,Finland
+175,2010,soft_bottom,0.969154610480914,Denmark
+176,2010,soft_bottom,0.964027958676955,Germany
+177,2010,soft_bottom,0.975508359018088,Netherlands
+178,2010,soft_bottom,1,Poland
+179,2010,soft_bottom,1,France
+180,2010,soft_bottom,0.979597881210898,United Kingdom
+181,2010,soft_bottom,1,Ireland
+182,2010,soft_bottom,0.990225331304458,Spain
+183,2010,soft_bottom,0.882084844080328,Portugal
+184,2010,soft_bottom,1,Italy
+186,2010,soft_bottom,1,Montenegro
+187,2010,soft_bottom,1,Croatia
+188,2010,soft_bottom,0.975088746748277,Slovenia
+189,2010,soft_bottom,1,Lithuania
+190,2010,soft_bottom,1,Qatar
+191,2010,soft_bottom,1,Iran
+192,2010,soft_bottom,0.785895474225266,Iraq
+193,2010,soft_bottom,1,Guinea Bissau
+194,2010,soft_bottom,0.959607453146512,Guinea
+195,2010,soft_bottom,0.953672381505991,Ivory Coast
+196,2010,soft_bottom,0.0334792357090669,Nigeria
+197,2010,soft_bottom,0.81295826836563,Cameroon
+198,2010,soft_bottom,0.707947834645056,Gabon
+199,2010,soft_bottom,1,Democratic Republic of the Congo
+200,2010,soft_bottom,0.851912553950942,Angola
+202,2010,soft_bottom,0.916688757300698,Tanzania
+203,2010,soft_bottom,0.908528313127942,India
+204,2010,soft_bottom,0.783613572861114,Bangladesh
+205,2010,soft_bottom,0.887120656921663,Myanmar
+206,2010,soft_bottom,0.911486893375383,Malaysia
+207,2010,soft_bottom,0.867546821250291,Vietnam
+208,2010,soft_bottom,0.803197811074897,Singapore
+209,2010,soft_bottom,0.847505663697836,China
+210,2010,soft_bottom,0.887791529117053,Japan
+212,2010,soft_bottom,0.78838571929616,Gilbert Islands (Kiribati)
+214,2010,soft_bottom,1,Egypt
+216,2010,soft_bottom,0.988135294139242,Indonesia
+218,2010,soft_bottom,1,Canada
+219,2010,soft_bottom,1,Saint Pierre and Miquelon
+220,2010,soft_bottom,0.833618615299365,Sint Maarten
+221,2010,soft_bottom,1,Northern Saint-Martin
+222,2010,soft_bottom,1,Sweden
+223,2010,soft_bottom,0.974160152936501,Norway
+224,2010,soft_bottom,1,Chile
+227,2010,soft_bottom,0.940706773149437,Jersey
+228,2010,soft_bottom,0.813122425547036,Guernsey
+231,2010,soft_bottom,0.931084581336712,East Timor
+232,2010,soft_bottom,0.439424839681382,Bosnia and Herzegovina
+237,2010,soft_bottom,0.719877871927742,Oecussi Ambeno
+247,2010,soft_bottom,0.828841218011783,Brunei
+248,2010,soft_bottom,1,Saba
+249,2010,soft_bottom,0.622515973068013,Sint Eustatius
+1,2011,soft_bottom,1,Cocos Islands
+2,2011,soft_bottom,0.937557139563645,Christmas Island
+3,2011,soft_bottom,1,Norfolk Island
+4,2011,soft_bottom,1,Macquarie Island
+5,2011,soft_bottom,1,New Caledonia
+6,2011,soft_bottom,0.918272563590358,Vanuatu
+7,2011,soft_bottom,1,Solomon Islands
+8,2011,soft_bottom,0.799229477982758,Palau
+9,2011,soft_bottom,1,Micronesia
+10,2011,soft_bottom,0.795609381539119,Nauru
+11,2011,soft_bottom,1,Marshall Islands
+13,2011,soft_bottom,1,Northern Mariana Islands and Guam
+14,2011,soft_bottom,0.941306077504584,Taiwan
+15,2011,soft_bottom,0.740392929952424,Philippines
+16,2011,soft_bottom,1,Australia
+17,2011,soft_bottom,1,Papua New Guinea
+18,2011,soft_bottom,0.960237132186904,Fiji
+19,2011,soft_bottom,1,Tuvalu
+20,2011,soft_bottom,1,South Korea
+21,2011,soft_bottom,0.910746922927034,North Korea
+24,2011,soft_bottom,0.940438171131337,Cambodia
+25,2011,soft_bottom,1,Thailand
+26,2011,soft_bottom,0.670104143481784,Andaman and Nicobar
+28,2011,soft_bottom,0.782378260869968,Comoro Islands
+29,2011,soft_bottom,1,Mayotte
+30,2011,soft_bottom,0.929309200034916,Glorioso Islands
+31,2011,soft_bottom,1,Seychelles
+32,2011,soft_bottom,1,R_union
+33,2011,soft_bottom,0.993817806770501,Juan de Nova Island
+34,2011,soft_bottom,1,Bassas da India
+37,2011,soft_bottom,1,Mauritius
+38,2011,soft_bottom,1,British Indian Ocean Territory
+39,2011,soft_bottom,0.982631449772293,Maldives
+40,2011,soft_bottom,0.948802986937243,Sri Lanka
+41,2011,soft_bottom,0.951313149386212,Mozambique
+42,2011,soft_bottom,1,Madagascar
+43,2011,soft_bottom,1,Kenya
+44,2011,soft_bottom,1,Somalia
+45,2011,soft_bottom,1,Eritrea
+46,2011,soft_bottom,0.968196774884995,Djibouti
+47,2011,soft_bottom,0.991185661243036,Yemen
+48,2011,soft_bottom,1,Oman
+49,2011,soft_bottom,0.832395987177697,Sudan
+50,2011,soft_bottom,0.871060202580172,Saudi Arabia
+51,2011,soft_bottom,0.945224114205961,Kuwait
+52,2011,soft_bottom,0.922555239440171,Bahrain
+53,2011,soft_bottom,0.901526143940716,Pakistan
+54,2011,soft_bottom,1,United Arab Emirates
+55,2011,soft_bottom,0.679560654381885,Azores
+56,2011,soft_bottom,1,Cape Verde
+57,2011,soft_bottom,0.85823205199961194,Madeira
+58,2011,soft_bottom,0.8866900848019,Canary Islands
+59,2011,soft_bottom,1,Belgium
+60,2011,soft_bottom,0.774532399825575,Gibraltar
+61,2011,soft_bottom,1,Tunisia
+62,2011,soft_bottom,0.941058318881181,Morocco
+63,2011,soft_bottom,1,Western Sahara
+64,2011,soft_bottom,0.872620893594076,Mauritania
+65,2011,soft_bottom,0.831009921214929,Gambia
+66,2011,soft_bottom,0.857085821559249,Senegal
+67,2011,soft_bottom,1,Libya
+68,2011,soft_bottom,1,Malta
+69,2011,soft_bottom,1,Latvia
+70,2011,soft_bottom,1,Estonia
+71,2011,soft_bottom,1,Bulgaria
+72,2011,soft_bottom,1,Romania
+73,2011,soft_bottom,1,Russia
+74,2011,soft_bottom,1,Georgia
+75,2011,soft_bottom,1,Ukraine
+76,2011,soft_bottom,0.963968181936135,Turkey
+77,2011,soft_bottom,0.942668433821365,Syria
+78,2011,soft_bottom,0.906400432541033,Lebanon
+79,2011,soft_bottom,1,Israel
+80,2011,soft_bottom,1,Greece
+81,2011,soft_bottom,1,Cyprus
+82,2011,soft_bottom,1,Albania
+84,2011,soft_bottom,0.916342921156446,Algeria
+85,2011,soft_bottom,1,Ascension
+86,2011,soft_bottom,0.807185291983817,Saint Helena
+88,2011,soft_bottom,0.990600528201774,Tristan da Cunha
+89,2011,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2011,soft_bottom,1,Prince Edward Islands
+92,2011,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2011,soft_bottom,1,Kerguelen Islands
+94,2011,soft_bottom,1,Heard and McDonald Islands
+95,2011,soft_bottom,1,Falkland Islands
+96,2011,soft_bottom,0.797484327853314,Sierra Leone
+97,2011,soft_bottom,1,Liberia
+98,2011,soft_bottom,0.693675050750754,Togo
+100,2011,soft_bottom,0.935111015894478,Republique du Congo
+101,2011,soft_bottom,1,Namibia
+102,2011,soft_bottom,1,South Africa
+103,2011,soft_bottom,0.997328393150606,Sao Tome and Principe
+104,2011,soft_bottom,0.915345934498594,Equatorial Guinea
+106,2011,soft_bottom,0.970462382267602,Ghana
+107,2011,soft_bottom,1,Clipperton Island
+108,2011,soft_bottom,1,Bermuda
+110,2011,soft_bottom,1,Bahamas
+111,2011,soft_bottom,1,Turks and Caicos Islands
+112,2011,soft_bottom,1,Cuba
+113,2011,soft_bottom,1,Cayman Islands
+114,2011,soft_bottom,0.839544017511808,Haiti
+115,2011,soft_bottom,1,Dominican Republic
+116,2011,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2011,soft_bottom,1,British Virgin Islands
+118,2011,soft_bottom,1,Anguilla
+119,2011,soft_bottom,0.966311391537445,Saint Kitts and Nevis
+120,2011,soft_bottom,1,Antigua and Barbuda
+121,2011,soft_bottom,0.931081641132918,Montserrat
+122,2011,soft_bottom,0.994591358232976,Saint Lucia
+123,2011,soft_bottom,0.924070706828076,Dominica
+124,2011,soft_bottom,0.930690806085594,Barbados
+125,2011,soft_bottom,1,Grenada
+126,2011,soft_bottom,1,Trinidad and Tobago
+127,2011,soft_bottom,1,Saint Vincent and the Grenadines
+129,2011,soft_bottom,0.956015170721753,Panama
+130,2011,soft_bottom,1,Costa Rica
+131,2011,soft_bottom,1,Nicaragua
+132,2011,soft_bottom,1,Colombia
+133,2011,soft_bottom,1,Honduras
+134,2011,soft_bottom,1,El Salvador
+135,2011,soft_bottom,1,Mexico
+136,2011,soft_bottom,1,Guatemala
+137,2011,soft_bottom,0.999378596951215,Ecuador
+138,2011,soft_bottom,0.898145023064534,Peru
+139,2011,soft_bottom,1,Venezuela
+140,2011,soft_bottom,0.853493088324182,Guadeloupe and Martinique
+141,2011,soft_bottom,1,Faeroe Islands
+143,2011,soft_bottom,0.976037485363134,Iceland
+144,2011,soft_bottom,0.834900929061217,Jan Mayen
+145,2011,soft_bottom,1,Greenland
+147,2011,soft_bottom,1,French Polynesia
+148,2011,soft_bottom,1,Line Islands (Kiribati)
+149,2011,soft_bottom,0.78396902273748,Jarvis Island
+150,2011,soft_bottom,1,Palmyra Atoll
+153,2011,soft_bottom,0.939940105070153,Cook Islands
+154,2011,soft_bottom,1,Niue
+155,2011,soft_bottom,1,Tonga
+157,2011,soft_bottom,0.787878294003268,Phoenix Islands (Kiribati)
+158,2011,soft_bottom,1,Howland Island and Baker Island
+159,2011,soft_bottom,1,Johnston Atoll
+161,2011,soft_bottom,0.94942682633572,Wallis and Futuna
+162,2011,soft_bottom,1,New Zealand
+163,2011,soft_bottom,1,United States
+164,2011,soft_bottom,0.961980024106583,Belize
+166,2011,soft_bottom,0.963217700138643,Jamaica
+167,2011,soft_bottom,1,Guyana
+168,2011,soft_bottom,1,Suriname
+169,2011,soft_bottom,1,French Guiana
+171,2011,soft_bottom,1,Brazil
+172,2011,soft_bottom,1,Argentina
+173,2011,soft_bottom,1,Uruguay
+174,2011,soft_bottom,1,Finland
+175,2011,soft_bottom,0.945854390740693,Denmark
+176,2011,soft_bottom,0.938995100021498,Germany
+177,2011,soft_bottom,0.952400500202028,Netherlands
+178,2011,soft_bottom,1,Poland
+179,2011,soft_bottom,1,France
+180,2011,soft_bottom,0.993104629644004,United Kingdom
+181,2011,soft_bottom,1,Ireland
+182,2011,soft_bottom,1,Spain
+183,2011,soft_bottom,0.877030439433953,Portugal
+184,2011,soft_bottom,1,Italy
+186,2011,soft_bottom,1,Montenegro
+187,2011,soft_bottom,1,Croatia
+188,2011,soft_bottom,1,Slovenia
+189,2011,soft_bottom,1,Lithuania
+190,2011,soft_bottom,1,Qatar
+191,2011,soft_bottom,1,Iran
+192,2011,soft_bottom,0.920907159358364,Iraq
+193,2011,soft_bottom,1,Guinea Bissau
+194,2011,soft_bottom,0.941450553664729,Guinea
+195,2011,soft_bottom,0.92201579028384,Ivory Coast
+196,2011,soft_bottom,0.0294358140817159,Nigeria
+197,2011,soft_bottom,0.791638892467524,Cameroon
+198,2011,soft_bottom,0.68785067499381,Gabon
+199,2011,soft_bottom,1,Democratic Republic of the Congo
+200,2011,soft_bottom,0.849574206986546,Angola
+202,2011,soft_bottom,0.907588210918376,Tanzania
+203,2011,soft_bottom,0.904547231717223,India
+204,2011,soft_bottom,0.785312623307969,Bangladesh
+205,2011,soft_bottom,0.865871107400444,Myanmar
+206,2011,soft_bottom,0.920957506106918,Malaysia
+207,2011,soft_bottom,0.857789276393747,Vietnam
+208,2011,soft_bottom,0.835364339447472,Singapore
+209,2011,soft_bottom,0.838192355529443,China
+210,2011,soft_bottom,0.900099489652451,Japan
+212,2011,soft_bottom,0.791676394949003,Gilbert Islands (Kiribati)
+214,2011,soft_bottom,1,Egypt
+216,2011,soft_bottom,0.989811982632177,Indonesia
+218,2011,soft_bottom,1,Canada
+219,2011,soft_bottom,1,Saint Pierre and Miquelon
+220,2011,soft_bottom,0.754397896926918,Sint Maarten
+221,2011,soft_bottom,1,Northern Saint-Martin
+222,2011,soft_bottom,1,Sweden
+223,2011,soft_bottom,0.973077444502521,Norway
+224,2011,soft_bottom,0.980254012368035,Chile
+227,2011,soft_bottom,0.980410581378178,Jersey
+228,2011,soft_bottom,0.83574964880235,Guernsey
+231,2011,soft_bottom,0.93958756904542,East Timor
+232,2011,soft_bottom,0.483988884514458,Bosnia and Herzegovina
+237,2011,soft_bottom,0.741111454199308,Oecussi Ambeno
+247,2011,soft_bottom,0.807530785368825,Brunei
+248,2011,soft_bottom,1,Saba
+249,2011,soft_bottom,0.685887582856283,Sint Eustatius
+1,2012,soft_bottom,1,Cocos Islands
+2,2012,soft_bottom,0.825821786885126,Christmas Island
+3,2012,soft_bottom,1,Norfolk Island
+4,2012,soft_bottom,1,Macquarie Island
+5,2012,soft_bottom,1,New Caledonia
+6,2012,soft_bottom,0.88025895974085,Vanuatu
+7,2012,soft_bottom,1,Solomon Islands
+8,2012,soft_bottom,0.805573827338291,Palau
+9,2012,soft_bottom,1,Micronesia
+10,2012,soft_bottom,0.794299619246448,Nauru
+11,2012,soft_bottom,1,Marshall Islands
+13,2012,soft_bottom,1,Northern Mariana Islands and Guam
+14,2012,soft_bottom,0.942809615152181,Taiwan
+15,2012,soft_bottom,0.734777302460422,Philippines
+16,2012,soft_bottom,1,Australia
+17,2012,soft_bottom,1,Papua New Guinea
+18,2012,soft_bottom,0.965672929446587,Fiji
+19,2012,soft_bottom,1,Tuvalu
+20,2012,soft_bottom,1,South Korea
+21,2012,soft_bottom,0.910260238522334,North Korea
+24,2012,soft_bottom,0.904597564036097,Cambodia
+25,2012,soft_bottom,1,Thailand
+26,2012,soft_bottom,0.650005927071643,Andaman and Nicobar
+28,2012,soft_bottom,0.797750225611919,Comoro Islands
+29,2012,soft_bottom,1,Mayotte
+30,2012,soft_bottom,0.922404184397545,Glorioso Islands
+31,2012,soft_bottom,1,Seychelles
+32,2012,soft_bottom,1,R_union
+33,2012,soft_bottom,0.945707956661496,Juan de Nova Island
+34,2012,soft_bottom,0.962578981708412,Bassas da India
+37,2012,soft_bottom,1,Mauritius
+38,2012,soft_bottom,1,British Indian Ocean Territory
+39,2012,soft_bottom,0.999846261223351,Maldives
+40,2012,soft_bottom,0.951560613349215,Sri Lanka
+41,2012,soft_bottom,0.935346456434059,Mozambique
+42,2012,soft_bottom,1,Madagascar
+43,2012,soft_bottom,1,Kenya
+44,2012,soft_bottom,1,Somalia
+45,2012,soft_bottom,1,Eritrea
+46,2012,soft_bottom,0.955421595295377,Djibouti
+47,2012,soft_bottom,0.96063216118053,Yemen
+48,2012,soft_bottom,0.997377648409947,Oman
+49,2012,soft_bottom,0.81061815640198,Sudan
+50,2012,soft_bottom,0.869435098864233,Saudi Arabia
+51,2012,soft_bottom,0.95102495044486,Kuwait
+52,2012,soft_bottom,0.926551051761521,Bahrain
+53,2012,soft_bottom,0.891675840555605,Pakistan
+54,2012,soft_bottom,1,United Arab Emirates
+55,2012,soft_bottom,0.880150870422511,Azores
+56,2012,soft_bottom,1,Cape Verde
+57,2012,soft_bottom,0.850305038828817,Madeira
+58,2012,soft_bottom,0.851769643082756,Canary Islands
+59,2012,soft_bottom,1,Belgium
+60,2012,soft_bottom,0.692718511057042,Gibraltar
+61,2012,soft_bottom,1,Tunisia
+62,2012,soft_bottom,0.967785171452839,Morocco
+63,2012,soft_bottom,1,Western Sahara
+64,2012,soft_bottom,0.848654839439492,Mauritania
+65,2012,soft_bottom,0.84636996782295,Gambia
+66,2012,soft_bottom,0.858876726352439,Senegal
+67,2012,soft_bottom,1,Libya
+68,2012,soft_bottom,1,Malta
+69,2012,soft_bottom,1,Latvia
+70,2012,soft_bottom,1,Estonia
+71,2012,soft_bottom,1,Bulgaria
+72,2012,soft_bottom,1,Romania
+73,2012,soft_bottom,1,Russia
+74,2012,soft_bottom,1,Georgia
+75,2012,soft_bottom,1,Ukraine
+76,2012,soft_bottom,0.945291618568072,Turkey
+77,2012,soft_bottom,0.912746284127163,Syria
+78,2012,soft_bottom,0.895517112322767,Lebanon
+79,2012,soft_bottom,0.991122886816388,Israel
+80,2012,soft_bottom,1,Greece
+81,2012,soft_bottom,0.986037667338423,Cyprus
+82,2012,soft_bottom,1,Albania
+84,2012,soft_bottom,0.906106610798331,Algeria
+85,2012,soft_bottom,0.800127681160265,Ascension
+86,2012,soft_bottom,0.748645919967289,Saint Helena
+88,2012,soft_bottom,0.941174721840443,Tristan da Cunha
+89,2012,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2012,soft_bottom,1,Prince Edward Islands
+92,2012,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2012,soft_bottom,1,Kerguelen Islands
+94,2012,soft_bottom,1,Heard and McDonald Islands
+95,2012,soft_bottom,1,Falkland Islands
+96,2012,soft_bottom,0.798406827045314,Sierra Leone
+97,2012,soft_bottom,1,Liberia
+98,2012,soft_bottom,0.724777536512236,Togo
+100,2012,soft_bottom,0.929737958879363,Republique du Congo
+101,2012,soft_bottom,1,Namibia
+102,2012,soft_bottom,1,South Africa
+103,2012,soft_bottom,0.9724289759984,Sao Tome and Principe
+104,2012,soft_bottom,0.895601410259627,Equatorial Guinea
+106,2012,soft_bottom,0.952149700144352,Ghana
+107,2012,soft_bottom,1,Clipperton Island
+108,2012,soft_bottom,1,Bermuda
+110,2012,soft_bottom,1,Bahamas
+111,2012,soft_bottom,1,Turks and Caicos Islands
+112,2012,soft_bottom,1,Cuba
+113,2012,soft_bottom,1,Cayman Islands
+114,2012,soft_bottom,0.842308394241171,Haiti
+115,2012,soft_bottom,1,Dominican Republic
+116,2012,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2012,soft_bottom,1,British Virgin Islands
+118,2012,soft_bottom,1,Anguilla
+119,2012,soft_bottom,0.933750638133503,Saint Kitts and Nevis
+120,2012,soft_bottom,1,Antigua and Barbuda
+121,2012,soft_bottom,0.836822987134399,Montserrat
+122,2012,soft_bottom,0.964657058543929,Saint Lucia
+123,2012,soft_bottom,0.934717848478687,Dominica
+124,2012,soft_bottom,0.967979553271516,Barbados
+125,2012,soft_bottom,1,Grenada
+126,2012,soft_bottom,1,Trinidad and Tobago
+127,2012,soft_bottom,1,Saint Vincent and the Grenadines
+129,2012,soft_bottom,0.938903287530473,Panama
+130,2012,soft_bottom,1,Costa Rica
+131,2012,soft_bottom,1,Nicaragua
+132,2012,soft_bottom,1,Colombia
+133,2012,soft_bottom,1,Honduras
+134,2012,soft_bottom,1,El Salvador
+135,2012,soft_bottom,0.996400064214209,Mexico
+136,2012,soft_bottom,1,Guatemala
+137,2012,soft_bottom,1,Ecuador
+138,2012,soft_bottom,0.939699959814183,Peru
+139,2012,soft_bottom,1,Venezuela
+140,2012,soft_bottom,0.846354909150993,Guadeloupe and Martinique
+141,2012,soft_bottom,0.990805728118372,Faeroe Islands
+143,2012,soft_bottom,0.979597686311614,Iceland
+144,2012,soft_bottom,0.807768270007169,Jan Mayen
+145,2012,soft_bottom,1,Greenland
+147,2012,soft_bottom,1,French Polynesia
+148,2012,soft_bottom,1,Line Islands (Kiribati)
+149,2012,soft_bottom,0.765544332698441,Jarvis Island
+150,2012,soft_bottom,1,Palmyra Atoll
+153,2012,soft_bottom,0.94000000775080494,Cook Islands
+154,2012,soft_bottom,1,Niue
+155,2012,soft_bottom,1,Tonga
+157,2012,soft_bottom,0.910670162666192,Phoenix Islands (Kiribati)
+158,2012,soft_bottom,1,Howland Island and Baker Island
+159,2012,soft_bottom,1,Johnston Atoll
+161,2012,soft_bottom,0.933119371841218,Wallis and Futuna
+162,2012,soft_bottom,1,New Zealand
+163,2012,soft_bottom,1,United States
+164,2012,soft_bottom,0.953119156865646,Belize
+166,2012,soft_bottom,0.986529856932479,Jamaica
+167,2012,soft_bottom,1,Guyana
+168,2012,soft_bottom,1,Suriname
+169,2012,soft_bottom,1,French Guiana
+171,2012,soft_bottom,1,Brazil
+172,2012,soft_bottom,1,Argentina
+173,2012,soft_bottom,1,Uruguay
+174,2012,soft_bottom,1,Finland
+175,2012,soft_bottom,1,Denmark
+176,2012,soft_bottom,1,Germany
+177,2012,soft_bottom,1,Netherlands
+178,2012,soft_bottom,1,Poland
+179,2012,soft_bottom,0.961027389668978,France
+180,2012,soft_bottom,1,United Kingdom
+181,2012,soft_bottom,1,Ireland
+182,2012,soft_bottom,1,Spain
+183,2012,soft_bottom,0.889388912984275,Portugal
+184,2012,soft_bottom,1,Italy
+186,2012,soft_bottom,1,Montenegro
+187,2012,soft_bottom,1,Croatia
+188,2012,soft_bottom,1,Slovenia
+189,2012,soft_bottom,0.984358194557471,Lithuania
+190,2012,soft_bottom,1,Qatar
+191,2012,soft_bottom,1,Iran
+192,2012,soft_bottom,0.931762352006789,Iraq
+193,2012,soft_bottom,1,Guinea Bissau
+194,2012,soft_bottom,0.933172118769,Guinea
+195,2012,soft_bottom,0.923301204246939,Ivory Coast
+196,2012,soft_bottom,0.0183943898460306,Nigeria
+197,2012,soft_bottom,0.775369828849425,Cameroon
+198,2012,soft_bottom,0.694858403954002,Gabon
+199,2012,soft_bottom,1,Democratic Republic of the Congo
+200,2012,soft_bottom,0.865557861243815,Angola
+202,2012,soft_bottom,0.907406656744704,Tanzania
+203,2012,soft_bottom,0.904176766293597,India
+204,2012,soft_bottom,0.783224279056147,Bangladesh
+205,2012,soft_bottom,0.880497381364962,Myanmar
+206,2012,soft_bottom,0.904433529205265,Malaysia
+207,2012,soft_bottom,0.862078146131977,Vietnam
+208,2012,soft_bottom,0.814351595702243,Singapore
+209,2012,soft_bottom,0.840734321323878,China
+210,2012,soft_bottom,0.901647929923063,Japan
+212,2012,soft_bottom,0.787474023414016,Gilbert Islands (Kiribati)
+214,2012,soft_bottom,1,Egypt
+216,2012,soft_bottom,0.988684207102838,Indonesia
+218,2012,soft_bottom,1,Canada
+219,2012,soft_bottom,1,Saint Pierre and Miquelon
+220,2012,soft_bottom,0.827599109242161,Sint Maarten
+221,2012,soft_bottom,1,Northern Saint-Martin
+222,2012,soft_bottom,1,Sweden
+223,2012,soft_bottom,0.966856659172495,Norway
+224,2012,soft_bottom,1,Chile
+227,2012,soft_bottom,0.992249352698444,Jersey
+228,2012,soft_bottom,0.869275679803629,Guernsey
+231,2012,soft_bottom,0.923779272440782,East Timor
+232,2012,soft_bottom,0.526953177503795,Bosnia and Herzegovina
+237,2012,soft_bottom,0.738084943524133,Oecussi Ambeno
+247,2012,soft_bottom,0.827009587637124,Brunei
+248,2012,soft_bottom,1,Saba
+249,2012,soft_bottom,0.686560369490212,Sint Eustatius
+1,2013,soft_bottom,0.986416126792749,Cocos Islands
+2,2013,soft_bottom,0.988895391272455,Christmas Island
+3,2013,soft_bottom,1,Norfolk Island
+4,2013,soft_bottom,1,Macquarie Island
+5,2013,soft_bottom,1,New Caledonia
+6,2013,soft_bottom,0.900575613142073,Vanuatu
+7,2013,soft_bottom,1,Solomon Islands
+8,2013,soft_bottom,0.80811407991361806,Palau
+9,2013,soft_bottom,1,Micronesia
+10,2013,soft_bottom,0.791971841640739,Nauru
+11,2013,soft_bottom,1,Marshall Islands
+13,2013,soft_bottom,1,Northern Mariana Islands and Guam
+14,2013,soft_bottom,0.939102541523447,Taiwan
+15,2013,soft_bottom,0.750214555724222,Philippines
+16,2013,soft_bottom,1,Australia
+17,2013,soft_bottom,1,Papua New Guinea
+18,2013,soft_bottom,0.966848496085264,Fiji
+19,2013,soft_bottom,1,Tuvalu
+20,2013,soft_bottom,1,South Korea
+21,2013,soft_bottom,0.920049648341693,North Korea
+24,2013,soft_bottom,0.987722559612768,Cambodia
+25,2013,soft_bottom,0.993410187476405,Thailand
+26,2013,soft_bottom,0.64636543837375,Andaman and Nicobar
+28,2013,soft_bottom,0.793237343818466,Comoro Islands
+29,2013,soft_bottom,1,Mayotte
+30,2013,soft_bottom,0.913230797396662,Glorioso Islands
+31,2013,soft_bottom,1,Seychelles
+32,2013,soft_bottom,1,R_union
+33,2013,soft_bottom,1,Juan de Nova Island
+34,2013,soft_bottom,1,Bassas da India
+37,2013,soft_bottom,1,Mauritius
+38,2013,soft_bottom,1,British Indian Ocean Territory
+39,2013,soft_bottom,1,Maldives
+40,2013,soft_bottom,0.944884716962153,Sri Lanka
+41,2013,soft_bottom,0.939099782090235,Mozambique
+42,2013,soft_bottom,1,Madagascar
+43,2013,soft_bottom,1,Kenya
+44,2013,soft_bottom,1,Somalia
+45,2013,soft_bottom,1,Eritrea
+46,2013,soft_bottom,0.955046241185664,Djibouti
+47,2013,soft_bottom,0.959710263284245,Yemen
+48,2013,soft_bottom,0.985870506001316,Oman
+49,2013,soft_bottom,0.844927659868129,Sudan
+50,2013,soft_bottom,0.866773421889629,Saudi Arabia
+51,2013,soft_bottom,0.957106741783737,Kuwait
+52,2013,soft_bottom,0.834214256533335,Bahrain
+53,2013,soft_bottom,0.898581644018004,Pakistan
+54,2013,soft_bottom,1,United Arab Emirates
+55,2013,soft_bottom,0.856536091467776,Azores
+56,2013,soft_bottom,1,Cape Verde
+57,2013,soft_bottom,0.818049739127349,Madeira
+58,2013,soft_bottom,0.826283127165431,Canary Islands
+59,2013,soft_bottom,0.973381209063609,Belgium
+60,2013,soft_bottom,0.712957974167711,Gibraltar
+61,2013,soft_bottom,1,Tunisia
+62,2013,soft_bottom,0.932765157049031,Morocco
+63,2013,soft_bottom,1,Western Sahara
+64,2013,soft_bottom,0.821761274232673,Mauritania
+65,2013,soft_bottom,0.83389707056756,Gambia
+66,2013,soft_bottom,0.851618365239741,Senegal
+67,2013,soft_bottom,1,Libya
+68,2013,soft_bottom,1,Malta
+69,2013,soft_bottom,1,Latvia
+70,2013,soft_bottom,1,Estonia
+71,2013,soft_bottom,1,Bulgaria
+72,2013,soft_bottom,1,Romania
+73,2013,soft_bottom,1,Russia
+74,2013,soft_bottom,1,Georgia
+75,2013,soft_bottom,1,Ukraine
+76,2013,soft_bottom,0.949789250940995,Turkey
+77,2013,soft_bottom,0.941148692729211,Syria
+78,2013,soft_bottom,0.897339015844106,Lebanon
+79,2013,soft_bottom,1,Israel
+80,2013,soft_bottom,1,Greece
+81,2013,soft_bottom,0.979312429199838,Cyprus
+82,2013,soft_bottom,1,Albania
+84,2013,soft_bottom,0.907714680301955,Algeria
+85,2013,soft_bottom,0.98762554235023,Ascension
+86,2013,soft_bottom,1,Saint Helena
+88,2013,soft_bottom,0.933084063906712,Tristan da Cunha
+89,2013,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2013,soft_bottom,1,Prince Edward Islands
+92,2013,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2013,soft_bottom,1,Kerguelen Islands
+94,2013,soft_bottom,1,Heard and McDonald Islands
+95,2013,soft_bottom,1,Falkland Islands
+96,2013,soft_bottom,0.79563199769078,Sierra Leone
+97,2013,soft_bottom,1,Liberia
+98,2013,soft_bottom,0.737364096636428,Togo
+100,2013,soft_bottom,0.923089553332007,Republique du Congo
+101,2013,soft_bottom,1,Namibia
+102,2013,soft_bottom,1,South Africa
+103,2013,soft_bottom,0.947783202740683,Sao Tome and Principe
+104,2013,soft_bottom,0.882642120906925,Equatorial Guinea
+106,2013,soft_bottom,0.974469247797442,Ghana
+107,2013,soft_bottom,1,Clipperton Island
+108,2013,soft_bottom,1,Bermuda
+110,2013,soft_bottom,1,Bahamas
+111,2013,soft_bottom,1,Turks and Caicos Islands
+112,2013,soft_bottom,1,Cuba
+113,2013,soft_bottom,1,Cayman Islands
+114,2013,soft_bottom,0.852667813046088,Haiti
+115,2013,soft_bottom,0.99487585052273,Dominican Republic
+116,2013,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2013,soft_bottom,1,British Virgin Islands
+118,2013,soft_bottom,1,Anguilla
+119,2013,soft_bottom,0.955679313893297,Saint Kitts and Nevis
+120,2013,soft_bottom,1,Antigua and Barbuda
+121,2013,soft_bottom,0.866595283251212,Montserrat
+122,2013,soft_bottom,0.974959373510672,Saint Lucia
+123,2013,soft_bottom,0.944157134558083,Dominica
+124,2013,soft_bottom,0.857276279399312,Barbados
+125,2013,soft_bottom,1,Grenada
+126,2013,soft_bottom,1,Trinidad and Tobago
+127,2013,soft_bottom,1,Saint Vincent and the Grenadines
+129,2013,soft_bottom,0.876146799861234,Panama
+130,2013,soft_bottom,1,Costa Rica
+131,2013,soft_bottom,1,Nicaragua
+132,2013,soft_bottom,1,Colombia
+133,2013,soft_bottom,1,Honduras
+134,2013,soft_bottom,1,El Salvador
+135,2013,soft_bottom,0.99829531489672,Mexico
+136,2013,soft_bottom,1,Guatemala
+137,2013,soft_bottom,1,Ecuador
+138,2013,soft_bottom,0.943594618874091,Peru
+139,2013,soft_bottom,1,Venezuela
+140,2013,soft_bottom,0.836751183866166,Guadeloupe and Martinique
+141,2013,soft_bottom,1,Faeroe Islands
+143,2013,soft_bottom,0.979677168538411,Iceland
+144,2013,soft_bottom,0.824786416887436,Jan Mayen
+145,2013,soft_bottom,1,Greenland
+147,2013,soft_bottom,1,French Polynesia
+148,2013,soft_bottom,1,Line Islands (Kiribati)
+149,2013,soft_bottom,0.678212682680617,Jarvis Island
+150,2013,soft_bottom,1,Palmyra Atoll
+153,2013,soft_bottom,0.978218717941498,Cook Islands
+154,2013,soft_bottom,1,Niue
+155,2013,soft_bottom,1,Tonga
+157,2013,soft_bottom,0.95086701911786,Phoenix Islands (Kiribati)
+158,2013,soft_bottom,1,Howland Island and Baker Island
+159,2013,soft_bottom,1,Johnston Atoll
+161,2013,soft_bottom,0.864550086629624,Wallis and Futuna
+162,2013,soft_bottom,1,New Zealand
+163,2013,soft_bottom,1,United States
+164,2013,soft_bottom,0.948699236660102,Belize
+166,2013,soft_bottom,0.967322923467128,Jamaica
+167,2013,soft_bottom,1,Guyana
+168,2013,soft_bottom,1,Suriname
+169,2013,soft_bottom,1,French Guiana
+171,2013,soft_bottom,1,Brazil
+172,2013,soft_bottom,1,Argentina
+173,2013,soft_bottom,1,Uruguay
+174,2013,soft_bottom,1,Finland
+175,2013,soft_bottom,0.999362892003223,Denmark
+176,2013,soft_bottom,0.994049166833502,Germany
+177,2013,soft_bottom,1,Netherlands
+178,2013,soft_bottom,1,Poland
+179,2013,soft_bottom,1,France
+180,2013,soft_bottom,1,United Kingdom
+181,2013,soft_bottom,1,Ireland
+182,2013,soft_bottom,1,Spain
+183,2013,soft_bottom,0.926612610568309,Portugal
+184,2013,soft_bottom,1,Italy
+186,2013,soft_bottom,1,Montenegro
+187,2013,soft_bottom,1,Croatia
+188,2013,soft_bottom,1,Slovenia
+189,2013,soft_bottom,1,Lithuania
+190,2013,soft_bottom,1,Qatar
+191,2013,soft_bottom,1,Iran
+192,2013,soft_bottom,0.952230415140769,Iraq
+193,2013,soft_bottom,1,Guinea Bissau
+194,2013,soft_bottom,0.916893839894287,Guinea
+195,2013,soft_bottom,0.906186693696363,Ivory Coast
+196,2013,soft_bottom,0.00914959088755716,Nigeria
+197,2013,soft_bottom,0.755514060740874,Cameroon
+198,2013,soft_bottom,0.699483517939711,Gabon
+199,2013,soft_bottom,1,Democratic Republic of the Congo
+200,2013,soft_bottom,0.859858041696734,Angola
+202,2013,soft_bottom,0.899317030221331,Tanzania
+203,2013,soft_bottom,0.901298424749607,India
+204,2013,soft_bottom,0.779706392978352,Bangladesh
+205,2013,soft_bottom,0.893620760659877,Myanmar
+206,2013,soft_bottom,0.912334279923355,Malaysia
+207,2013,soft_bottom,0.85203914991609,Vietnam
+208,2013,soft_bottom,0.77575340550759,Singapore
+209,2013,soft_bottom,0.840277437984302,China
+210,2013,soft_bottom,0.905023342372938,Japan
+212,2013,soft_bottom,0.750614100456773,Gilbert Islands (Kiribati)
+214,2013,soft_bottom,1,Egypt
+216,2013,soft_bottom,0.98242282829297,Indonesia
+218,2013,soft_bottom,1,Canada
+219,2013,soft_bottom,1,Saint Pierre and Miquelon
+220,2013,soft_bottom,0.835463346695482,Sint Maarten
+221,2013,soft_bottom,1,Northern Saint-Martin
+222,2013,soft_bottom,1,Sweden
+223,2013,soft_bottom,0.971134175615762,Norway
+224,2013,soft_bottom,1,Chile
+227,2013,soft_bottom,1,Jersey
+228,2013,soft_bottom,0.857366124647586,Guernsey
+231,2013,soft_bottom,0.93359570950134,East Timor
+232,2013,soft_bottom,0.473079962267633,Bosnia and Herzegovina
+237,2013,soft_bottom,0.695473133491051,Oecussi Ambeno
+247,2013,soft_bottom,0.87085811438957506,Brunei
+248,2013,soft_bottom,1,Saba
+249,2013,soft_bottom,0.688670700910852,Sint Eustatius
+1,2014,soft_bottom,1,Cocos Islands
+2,2014,soft_bottom,0.947194016367205,Christmas Island
+3,2014,soft_bottom,1,Norfolk Island
+4,2014,soft_bottom,1,Macquarie Island
+5,2014,soft_bottom,1,New Caledonia
+6,2014,soft_bottom,0.91715597956401,Vanuatu
+7,2014,soft_bottom,1,Solomon Islands
+8,2014,soft_bottom,0.802118006899225,Palau
+9,2014,soft_bottom,0.998146516820735,Micronesia
+10,2014,soft_bottom,0.826257746068148,Nauru
+11,2014,soft_bottom,1,Marshall Islands
+13,2014,soft_bottom,1,Northern Mariana Islands and Guam
+14,2014,soft_bottom,0.956618576175397,Taiwan
+15,2014,soft_bottom,0.7553981228365,Philippines
+16,2014,soft_bottom,1,Australia
+17,2014,soft_bottom,1,Papua New Guinea
+18,2014,soft_bottom,0.973781130887348,Fiji
+19,2014,soft_bottom,1,Tuvalu
+20,2014,soft_bottom,1,South Korea
+21,2014,soft_bottom,0.899711975637449,North Korea
+24,2014,soft_bottom,0.991767857819811,Cambodia
+25,2014,soft_bottom,0.993158151426443,Thailand
+26,2014,soft_bottom,0.634465346268961,Andaman and Nicobar
+28,2014,soft_bottom,1,Comoro Islands
+29,2014,soft_bottom,1,Mayotte
+30,2014,soft_bottom,0.619828322517648,Glorioso Islands
+31,2014,soft_bottom,1,Seychelles
+32,2014,soft_bottom,1,R_union
+33,2014,soft_bottom,0.990342826394215,Juan de Nova Island
+34,2014,soft_bottom,1,Bassas da India
+37,2014,soft_bottom,1,Mauritius
+38,2014,soft_bottom,1,British Indian Ocean Territory
+39,2014,soft_bottom,1,Maldives
+40,2014,soft_bottom,0.929373219398301,Sri Lanka
+41,2014,soft_bottom,0.917553595172143,Mozambique
+42,2014,soft_bottom,1,Madagascar
+43,2014,soft_bottom,1,Kenya
+44,2014,soft_bottom,1,Somalia
+45,2014,soft_bottom,1,Eritrea
+46,2014,soft_bottom,0.950114956498437,Djibouti
+47,2014,soft_bottom,0.966976199648193,Yemen
+48,2014,soft_bottom,0.985021608404819,Oman
+49,2014,soft_bottom,0.813640882839926,Sudan
+50,2014,soft_bottom,0.867690349244334,Saudi Arabia
+51,2014,soft_bottom,0.922000266887596,Kuwait
+52,2014,soft_bottom,0.933735104886225,Bahrain
+53,2014,soft_bottom,0.903771761278933,Pakistan
+54,2014,soft_bottom,1,United Arab Emirates
+55,2014,soft_bottom,0.823124173776429,Azores
+56,2014,soft_bottom,1,Cape Verde
+57,2014,soft_bottom,0.870307252321543,Madeira
+58,2014,soft_bottom,0.776408009681726,Canary Islands
+59,2014,soft_bottom,1,Belgium
+60,2014,soft_bottom,0.810828597807681,Gibraltar
+61,2014,soft_bottom,1,Tunisia
+62,2014,soft_bottom,0.932689900777084,Morocco
+63,2014,soft_bottom,1,Western Sahara
+64,2014,soft_bottom,0.853846532248725,Mauritania
+65,2014,soft_bottom,0.814654556500219,Gambia
+66,2014,soft_bottom,0.83683906865439,Senegal
+67,2014,soft_bottom,1,Libya
+68,2014,soft_bottom,1,Malta
+69,2014,soft_bottom,1,Latvia
+70,2014,soft_bottom,1,Estonia
+71,2014,soft_bottom,1,Bulgaria
+72,2014,soft_bottom,1,Romania
+73,2014,soft_bottom,1,Russia
+74,2014,soft_bottom,1,Georgia
+75,2014,soft_bottom,1,Ukraine
+76,2014,soft_bottom,0.984529308919615,Turkey
+77,2014,soft_bottom,0.949610299354961,Syria
+78,2014,soft_bottom,0.881070808931523,Lebanon
+79,2014,soft_bottom,1,Israel
+80,2014,soft_bottom,1,Greece
+81,2014,soft_bottom,0.99590823925441,Cyprus
+82,2014,soft_bottom,1,Albania
+84,2014,soft_bottom,0.928551393061905,Algeria
+85,2014,soft_bottom,0.803163900617674,Ascension
+86,2014,soft_bottom,0.745793137128439,Saint Helena
+88,2014,soft_bottom,0.923353816571999,Tristan da Cunha
+89,2014,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2014,soft_bottom,1,Prince Edward Islands
+92,2014,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2014,soft_bottom,1,Kerguelen Islands
+94,2014,soft_bottom,1,Heard and McDonald Islands
+95,2014,soft_bottom,1,Falkland Islands
+96,2014,soft_bottom,0.798440544474071,Sierra Leone
+97,2014,soft_bottom,1,Liberia
+98,2014,soft_bottom,0.768659033293882,Togo
+100,2014,soft_bottom,0.957812454015309,Republique du Congo
+101,2014,soft_bottom,1,Namibia
+102,2014,soft_bottom,1,South Africa
+103,2014,soft_bottom,0.93062676142924206,Sao Tome and Principe
+104,2014,soft_bottom,0.866720570539314,Equatorial Guinea
+106,2014,soft_bottom,0.97989491501837,Ghana
+107,2014,soft_bottom,1,Clipperton Island
+108,2014,soft_bottom,1,Bermuda
+110,2014,soft_bottom,1,Bahamas
+111,2014,soft_bottom,1,Turks and Caicos Islands
+112,2014,soft_bottom,1,Cuba
+113,2014,soft_bottom,1,Cayman Islands
+114,2014,soft_bottom,0.846388137343433,Haiti
+115,2014,soft_bottom,1,Dominican Republic
+116,2014,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2014,soft_bottom,1,British Virgin Islands
+118,2014,soft_bottom,1,Anguilla
+119,2014,soft_bottom,0.994524353243765,Saint Kitts and Nevis
+120,2014,soft_bottom,1,Antigua and Barbuda
+121,2014,soft_bottom,0.922078517378205,Montserrat
+122,2014,soft_bottom,0.940537046786922,Saint Lucia
+123,2014,soft_bottom,0.995859555013525,Dominica
+124,2014,soft_bottom,0.864571382457935,Barbados
+125,2014,soft_bottom,1,Grenada
+126,2014,soft_bottom,1,Trinidad and Tobago
+127,2014,soft_bottom,1,Saint Vincent and the Grenadines
+129,2014,soft_bottom,0.954763503759421,Panama
+130,2014,soft_bottom,1,Costa Rica
+131,2014,soft_bottom,1,Nicaragua
+132,2014,soft_bottom,1,Colombia
+133,2014,soft_bottom,1,Honduras
+134,2014,soft_bottom,1,El Salvador
+135,2014,soft_bottom,1,Mexico
+136,2014,soft_bottom,1,Guatemala
+137,2014,soft_bottom,0.976433353030406,Ecuador
+138,2014,soft_bottom,0.89764435676228,Peru
+139,2014,soft_bottom,1,Venezuela
+140,2014,soft_bottom,0.850185721750728,Guadeloupe and Martinique
+141,2014,soft_bottom,1,Faeroe Islands
+143,2014,soft_bottom,0.987652952188104,Iceland
+144,2014,soft_bottom,0.8373172097845,Jan Mayen
+145,2014,soft_bottom,1,Greenland
+147,2014,soft_bottom,1,French Polynesia
+148,2014,soft_bottom,1,Line Islands (Kiribati)
+149,2014,soft_bottom,0.721239111774181,Jarvis Island
+150,2014,soft_bottom,1,Palmyra Atoll
+153,2014,soft_bottom,0.989464295723239,Cook Islands
+154,2014,soft_bottom,1,Niue
+155,2014,soft_bottom,0.959193179541838,Tonga
+157,2014,soft_bottom,0.938095999797184,Phoenix Islands (Kiribati)
+158,2014,soft_bottom,0.74501770433451,Howland Island and Baker Island
+159,2014,soft_bottom,1,Johnston Atoll
+161,2014,soft_bottom,0.945386714742785,Wallis and Futuna
+162,2014,soft_bottom,1,New Zealand
+163,2014,soft_bottom,1,United States
+164,2014,soft_bottom,0.987233252318181,Belize
+166,2014,soft_bottom,0.988090519488853,Jamaica
+167,2014,soft_bottom,1,Guyana
+168,2014,soft_bottom,1,Suriname
+169,2014,soft_bottom,1,French Guiana
+171,2014,soft_bottom,1,Brazil
+172,2014,soft_bottom,1,Argentina
+173,2014,soft_bottom,1,Uruguay
+174,2014,soft_bottom,1,Finland
+175,2014,soft_bottom,0.987697291457035,Denmark
+176,2014,soft_bottom,0.978843846754386,Germany
+177,2014,soft_bottom,1,Netherlands
+178,2014,soft_bottom,1,Poland
+179,2014,soft_bottom,0.94657710742233,France
+180,2014,soft_bottom,1,United Kingdom
+181,2014,soft_bottom,1,Ireland
+182,2014,soft_bottom,0.978047459379838,Spain
+183,2014,soft_bottom,0.925245546720094,Portugal
+184,2014,soft_bottom,1,Italy
+186,2014,soft_bottom,1,Montenegro
+187,2014,soft_bottom,1,Croatia
+188,2014,soft_bottom,0.93399177455994,Slovenia
+189,2014,soft_bottom,1,Lithuania
+190,2014,soft_bottom,0.999926701120945,Qatar
+191,2014,soft_bottom,1,Iran
+192,2014,soft_bottom,0.909880901668909,Iraq
+193,2014,soft_bottom,1,Guinea Bissau
+194,2014,soft_bottom,0.941746695010604,Guinea
+195,2014,soft_bottom,0.914814493563951,Ivory Coast
+196,2014,soft_bottom,0.00492247329839871,Nigeria
+197,2014,soft_bottom,0.736473664185946,Cameroon
+198,2014,soft_bottom,0.701051228187665,Gabon
+199,2014,soft_bottom,1,Democratic Republic of the Congo
+200,2014,soft_bottom,0.868367610609302,Angola
+202,2014,soft_bottom,0.904864767301131,Tanzania
+203,2014,soft_bottom,0.898403484011915,India
+204,2014,soft_bottom,0.783678292796376,Bangladesh
+205,2014,soft_bottom,0.886901501620618,Myanmar
+206,2014,soft_bottom,0.909782125128795,Malaysia
+207,2014,soft_bottom,0.839455647157081,Vietnam
+208,2014,soft_bottom,0.809498932411782,Singapore
+209,2014,soft_bottom,0.832926146258375,China
+210,2014,soft_bottom,0.903792056646946,Japan
+212,2014,soft_bottom,0.714604027599875,Gilbert Islands (Kiribati)
+214,2014,soft_bottom,1,Egypt
+216,2014,soft_bottom,0.976476940705912,Indonesia
+218,2014,soft_bottom,1,Canada
+219,2014,soft_bottom,1,Saint Pierre and Miquelon
+220,2014,soft_bottom,0.813958602381468,Sint Maarten
+221,2014,soft_bottom,1,Northern Saint-Martin
+222,2014,soft_bottom,1,Sweden
+223,2014,soft_bottom,0.973544717589683,Norway
+224,2014,soft_bottom,1,Chile
+227,2014,soft_bottom,1,Jersey
+228,2014,soft_bottom,0.863993923318179,Guernsey
+231,2014,soft_bottom,0.917122293953168,East Timor
+232,2014,soft_bottom,0.433304369917171,Bosnia and Herzegovina
+237,2014,soft_bottom,0.733992999747668,Oecussi Ambeno
+247,2014,soft_bottom,0.799069978829001,Brunei
+248,2014,soft_bottom,1,Saba
+249,2014,soft_bottom,0.721258387985434,Sint Eustatius
+1,2015,soft_bottom,1,Cocos Islands
+2,2015,soft_bottom,0.825507159339312,Christmas Island
+3,2015,soft_bottom,1,Norfolk Island
+4,2015,soft_bottom,1,Macquarie Island
+5,2015,soft_bottom,1,New Caledonia
+6,2015,soft_bottom,0.950747452976824,Vanuatu
+7,2015,soft_bottom,1,Solomon Islands
+8,2015,soft_bottom,0.768388064195261,Palau
+9,2015,soft_bottom,0.976434432023174,Micronesia
+10,2015,soft_bottom,0.787032228180168,Nauru
+11,2015,soft_bottom,1,Marshall Islands
+13,2015,soft_bottom,1,Northern Mariana Islands and Guam
+14,2015,soft_bottom,0.948213871402855,Taiwan
+15,2015,soft_bottom,0.755052877040017,Philippines
+16,2015,soft_bottom,1,Australia
+17,2015,soft_bottom,1,Papua New Guinea
+18,2015,soft_bottom,0.955310021187185,Fiji
+19,2015,soft_bottom,1,Tuvalu
+20,2015,soft_bottom,1,South Korea
+21,2015,soft_bottom,0.908293460074483,North Korea
+24,2015,soft_bottom,0.942168748947199,Cambodia
+25,2015,soft_bottom,1,Thailand
+26,2015,soft_bottom,0.663088546044864,Andaman and Nicobar
+28,2015,soft_bottom,0.987656231638465,Comoro Islands
+29,2015,soft_bottom,1,Mayotte
+30,2015,soft_bottom,0.900167325814127,Glorioso Islands
+31,2015,soft_bottom,1,Seychelles
+32,2015,soft_bottom,1,R_union
+33,2015,soft_bottom,1,Juan de Nova Island
+34,2015,soft_bottom,1,Bassas da India
+37,2015,soft_bottom,1,Mauritius
+38,2015,soft_bottom,1,British Indian Ocean Territory
+39,2015,soft_bottom,1,Maldives
+40,2015,soft_bottom,0.966140725634717,Sri Lanka
+41,2015,soft_bottom,0.903416445506134,Mozambique
+42,2015,soft_bottom,1,Madagascar
+43,2015,soft_bottom,1,Kenya
+44,2015,soft_bottom,1,Somalia
+45,2015,soft_bottom,1,Eritrea
+46,2015,soft_bottom,0.972603209352219,Djibouti
+47,2015,soft_bottom,0.978702473061715,Yemen
+48,2015,soft_bottom,0.973665187981393,Oman
+49,2015,soft_bottom,0.829222272521553,Sudan
+50,2015,soft_bottom,0.853934038526173,Saudi Arabia
+51,2015,soft_bottom,0.929353105192701,Kuwait
+52,2015,soft_bottom,0.880932218588127,Bahrain
+53,2015,soft_bottom,0.895117274943058,Pakistan
+54,2015,soft_bottom,1,United Arab Emirates
+55,2015,soft_bottom,0.856555924876681,Azores
+56,2015,soft_bottom,1,Cape Verde
+57,2015,soft_bottom,0.901306744009358,Madeira
+58,2015,soft_bottom,0.814255442752113,Canary Islands
+59,2015,soft_bottom,0.955391930951604,Belgium
+60,2015,soft_bottom,0.688144435395285,Gibraltar
+61,2015,soft_bottom,1,Tunisia
+62,2015,soft_bottom,0.920546782730293,Morocco
+63,2015,soft_bottom,1,Western Sahara
+64,2015,soft_bottom,0.829205634753991,Mauritania
+65,2015,soft_bottom,0.841130903283546,Gambia
+66,2015,soft_bottom,0.865509550211422,Senegal
+67,2015,soft_bottom,1,Libya
+68,2015,soft_bottom,1,Malta
+69,2015,soft_bottom,1,Latvia
+70,2015,soft_bottom,1,Estonia
+71,2015,soft_bottom,1,Bulgaria
+72,2015,soft_bottom,1,Romania
+73,2015,soft_bottom,1,Russia
+74,2015,soft_bottom,1,Georgia
+75,2015,soft_bottom,1,Ukraine
+76,2015,soft_bottom,0.970103990182253,Turkey
+77,2015,soft_bottom,0.979034889131451,Syria
+78,2015,soft_bottom,0.968470348029994,Lebanon
+79,2015,soft_bottom,1,Israel
+80,2015,soft_bottom,1,Greece
+81,2015,soft_bottom,1,Cyprus
+82,2015,soft_bottom,1,Albania
+84,2015,soft_bottom,0.935759673792584,Algeria
+85,2015,soft_bottom,0.910874239371662,Ascension
+86,2015,soft_bottom,0.893791764278987,Saint Helena
+88,2015,soft_bottom,0.943815697001898,Tristan da Cunha
+89,2015,soft_bottom,1,South Georgia and the South Sandwich Islands
+90,2015,soft_bottom,1,Prince Edward Islands
+92,2015,soft_bottom,1,Amsterdam Island and Saint Paul Island
+93,2015,soft_bottom,1,Kerguelen Islands
+94,2015,soft_bottom,1,Heard and McDonald Islands
+95,2015,soft_bottom,1,Falkland Islands
+96,2015,soft_bottom,0.803851431722056,Sierra Leone
+97,2015,soft_bottom,1,Liberia
+98,2015,soft_bottom,0.736932750069504,Togo
+100,2015,soft_bottom,0.981832611993683,Republique du Congo
+101,2015,soft_bottom,1,Namibia
+102,2015,soft_bottom,1,South Africa
+103,2015,soft_bottom,0.929787680479376,Sao Tome and Principe
+104,2015,soft_bottom,0.867085883413225,Equatorial Guinea
+106,2015,soft_bottom,0.932882668557999,Ghana
+107,2015,soft_bottom,1,Clipperton Island
+108,2015,soft_bottom,1,Bermuda
+110,2015,soft_bottom,1,Bahamas
+111,2015,soft_bottom,1,Turks and Caicos Islands
+112,2015,soft_bottom,1,Cuba
+113,2015,soft_bottom,1,Cayman Islands
+114,2015,soft_bottom,0.843184146930677,Haiti
+115,2015,soft_bottom,1,Dominican Republic
+116,2015,soft_bottom,1,Puerto Rico and Virgin Islands of the United States
+117,2015,soft_bottom,1,British Virgin Islands
+118,2015,soft_bottom,1,Anguilla
+119,2015,soft_bottom,1,Saint Kitts and Nevis
+120,2015,soft_bottom,1,Antigua and Barbuda
+121,2015,soft_bottom,0.981027048355552,Montserrat
+122,2015,soft_bottom,0.983623179716052,Saint Lucia
+123,2015,soft_bottom,0.969561617546963,Dominica
+124,2015,soft_bottom,0.868447362906024,Barbados
+125,2015,soft_bottom,1,Grenada
+126,2015,soft_bottom,1,Trinidad and Tobago
+127,2015,soft_bottom,1,Saint Vincent and the Grenadines
+129,2015,soft_bottom,1,Panama
+130,2015,soft_bottom,1,Costa Rica
+131,2015,soft_bottom,1,Nicaragua
+132,2015,soft_bottom,1,Colombia
+133,2015,soft_bottom,1,Honduras
+134,2015,soft_bottom,1,El Salvador
+135,2015,soft_bottom,0.999099974474751,Mexico
+136,2015,soft_bottom,1,Guatemala
+137,2015,soft_bottom,0.994454342736524,Ecuador
+138,2015,soft_bottom,0.937464723631279,Peru
+139,2015,soft_bottom,1,Venezuela
+140,2015,soft_bottom,0.866097832936212,Guadeloupe and Martinique
+141,2015,soft_bottom,1,Faeroe Islands
+143,2015,soft_bottom,1,Iceland
+144,2015,soft_bottom,0.81491712742542,Jan Mayen
+145,2015,soft_bottom,1,Greenland
+147,2015,soft_bottom,1,French Polynesia
+148,2015,soft_bottom,1,Line Islands (Kiribati)
+149,2015,soft_bottom,0.845027966112926,Jarvis Island
+150,2015,soft_bottom,1,Palmyra Atoll
+153,2015,soft_bottom,0.968075176218142,Cook Islands
+154,2015,soft_bottom,1,Niue
+155,2015,soft_bottom,1,Tonga
+157,2015,soft_bottom,0.865652842984318,Phoenix Islands (Kiribati)
+158,2015,soft_bottom,1,Howland Island and Baker Island
+159,2015,soft_bottom,1,Johnston Atoll
+161,2015,soft_bottom,0.939185688074785,Wallis and Futuna
+162,2015,soft_bottom,1,New Zealand
+163,2015,soft_bottom,1,United States
+164,2015,soft_bottom,0.976688127090887,Belize
+166,2015,soft_bottom,0.983017701143214,Jamaica
+167,2015,soft_bottom,1,Guyana
+168,2015,soft_bottom,1,Suriname
+169,2015,soft_bottom,1,French Guiana
+171,2015,soft_bottom,1,Brazil
+172,2015,soft_bottom,1,Argentina
+173,2015,soft_bottom,1,Uruguay
+174,2015,soft_bottom,1,Finland
+175,2015,soft_bottom,0.998310920101359,Denmark
+176,2015,soft_bottom,0.979786039663061,Germany
+177,2015,soft_bottom,0.99769666015636,Netherlands
+178,2015,soft_bottom,1,Poland
+179,2015,soft_bottom,1,France
+180,2015,soft_bottom,1,United Kingdom
+181,2015,soft_bottom,1,Ireland
+182,2015,soft_bottom,0.944578714596354,Spain
+183,2015,soft_bottom,0.944212352151678,Portugal
+184,2015,soft_bottom,1,Italy
+186,2015,soft_bottom,1,Montenegro
+187,2015,soft_bottom,1,Croatia
+188,2015,soft_bottom,1,Slovenia
+189,2015,soft_bottom,0.964683907573195,Lithuania
+190,2015,soft_bottom,1,Qatar
+191,2015,soft_bottom,1,Iran
+192,2015,soft_bottom,0.879693816835844,Iraq
+193,2015,soft_bottom,1,Guinea Bissau
+194,2015,soft_bottom,0.958601942675885,Guinea
+195,2015,soft_bottom,0.906088676394182,Ivory Coast
+196,2015,soft_bottom,0,Nigeria
+197,2015,soft_bottom,0.722682564038261,Cameroon
+198,2015,soft_bottom,0.702317220069357,Gabon
+199,2015,soft_bottom,1,Democratic Republic of the Congo
+200,2015,soft_bottom,0.891714937052522,Angola
+202,2015,soft_bottom,0.904680028061796,Tanzania
+203,2015,soft_bottom,0.900288058713207,India
+204,2015,soft_bottom,0.787936375029395,Bangladesh
+205,2015,soft_bottom,0.881062282005785,Myanmar
+206,2015,soft_bottom,0.909084896461079,Malaysia
+207,2015,soft_bottom,0.844899977903792,Vietnam
+208,2015,soft_bottom,0.750718113281079,Singapore
+209,2015,soft_bottom,0.838408520659813,China
+210,2015,soft_bottom,0.927427839359272,Japan
+212,2015,soft_bottom,0.754180757283673,Gilbert Islands (Kiribati)
+214,2015,soft_bottom,1,Egypt
+216,2015,soft_bottom,0.975291691018159,Indonesia
+218,2015,soft_bottom,1,Canada
+219,2015,soft_bottom,1,Saint Pierre and Miquelon
+220,2015,soft_bottom,0.773836330654497,Sint Maarten
+221,2015,soft_bottom,1,Northern Saint-Martin
+222,2015,soft_bottom,1,Sweden
+223,2015,soft_bottom,0.964572834620042,Norway
+224,2015,soft_bottom,1,Chile
+227,2015,soft_bottom,0.994391086870364,Jersey
+228,2015,soft_bottom,0.899452248031135,Guernsey
+231,2015,soft_bottom,0.933649235326833,East Timor
+232,2015,soft_bottom,0.500530165771678,Bosnia and Herzegovina
+237,2015,soft_bottom,0.704585571566762,Oecussi Ambeno
+247,2015,soft_bottom,0.819032581346918,Brunei
+248,2015,soft_bottom,1,Saba
+249,2015,soft_bottom,0.726775669844819,Sint Eustatius
+5,2012,mangrove,0.798076923076923,New Caledonia
+6,2012,mangrove,0.833333333333333,Vanuatu
+7,2012,mangrove,0.687086092715232,Solomon Islands
+8,2012,mangrove,1,Palau
+9,2012,mangrove,1,Micronesia
+14,2012,mangrove,0.764670001153157,Taiwan
+15,2012,mangrove,0.813559322033898,Philippines
+16,2012,mangrove,0.99519890260631,Australia
+17,2012,mangrove,0.697247706422018,Papua New Guinea
+18,2012,mangrove,0.778723404255319,Fiji
+24,2012,mangrove,0.758771929824561,Cambodia
+25,2012,mangrove,0.857142857142857,Thailand
+26,2012,mangrove,0.884152358397474,Andaman and Nicobar
+28,2012,mangrove,0.917327754951335,Comoro Islands
+29,2012,mangrove,1,Mayotte
+31,2012,mangrove,1,Seychelles
+39,2012,mangrove,0.885170418930361,Maldives
+40,2012,mangrove,0.916666666666667,Sri Lanka
+41,2012,mangrove,0.96944099378882,Mozambique
+42,2012,mangrove,0.909090909090909,Madagascar
+43,2012,mangrove,0.914076782449726,Kenya
+44,2012,mangrove,0.768421052631579,Somalia
+45,2012,mangrove,0.955223880597015,Eritrea
+46,2012,mangrove,0.917327754951335,Djibouti
+47,2012,mangrove,0.9,Yemen
+48,2012,mangrove,0.89047619047619,Oman
+49,2012,mangrove,1,Sudan
+50,2012,mangrove,0.952380952380952,Saudi Arabia
+52,2012,mangrove,0.6,Bahrain
+53,2012,mangrove,0.455072463768116,Pakistan
+54,2012,mangrove,1,United Arab Emirates
+62,2012,mangrove,1,Morocco
+65,2012,mangrove,0.823863636363636,Gambia
+66,2012,mangrove,0.680473372781065,Senegal
+96,2012,mangrove,0.596302921884317,Sierra Leone
+97,2012,mangrove,0.349740932642487,Liberia
+98,2012,mangrove,0.683156864262259,Togo
+99,2012,mangrove,0.683156864262259,Benin
+102,2012,mangrove,0.857142857142857,South Africa
+104,2012,mangrove,0.936329588014981,Equatorial Guinea
+106,2012,mangrove,0.688888888888889,Ghana
+108,2012,mangrove,0.969822341202239,Bermuda
+110,2012,mangrove,0.777777777777778,Bahamas
+111,2012,mangrove,0.969822341202239,Turks and Caicos Islands
+112,2012,mangrove,1,Cuba
+113,2012,mangrove,0.969822341202239,Cayman Islands
+114,2012,mangrove,0.769662921348315,Haiti
+115,2012,mangrove,0.488372093023256,Dominican Republic
+116,2012,mangrove,1,Puerto Rico and Virgin Islands of the United States
+117,2012,mangrove,0.969822341202239,British Virgin Islands
+118,2012,mangrove,0.969822341202239,Anguilla
+119,2012,mangrove,0.884301436021579,Saint Kitts and Nevis
+120,2012,mangrove,0.884301436021579,Antigua and Barbuda
+122,2012,mangrove,0.884301436021579,Saint Lucia
+124,2012,mangrove,0.884301436021579,Barbados
+125,2012,mangrove,0.728813559322034,Grenada
+126,2012,mangrove,0.933333333333333,Trinidad and Tobago
+127,2012,mangrove,0.884301436021579,Saint Vincent and the Grenadines
+129,2012,mangrove,0.68,Panama
+130,2012,mangrove,0.646687697160883,Costa Rica
+131,2012,mangrove,0.62862669245648,Nicaragua
+132,2012,mangrove,0.795454545454545,Colombia
+133,2012,mangrove,0.440655737704918,Honduras
+134,2012,mangrove,0.599571734475375,El Salvador
+135,2012,mangrove,0.729537366548043,Mexico
+136,2012,mangrove,0.940860215053763,Guatemala
+137,2012,mangrove,0.741379310344828,Ecuador
+138,2012,mangrove,0.542168674698795,Peru
+139,2012,mangrove,0.859615384615385,Venezuela
+140,2012,mangrove,0.969387755102041,Guadeloupe and Martinique
+162,2012,mangrove,0.935483870967742,New Zealand
+163,2012,mangrove,0.709090909090909,United States
+164,2012,mangrove,0.968152866242038,Belize
+166,2012,mangrove,0.8,Jamaica
+167,2012,mangrove,0.879120879120879,Guyana
+168,2012,mangrove,0.994782608695652,Suriname
+169,2012,mangrove,1,French Guiana
+171,2012,mangrove,0.952380952380952,Brazil
+190,2012,mangrove,1,Qatar
+191,2012,mangrove,0.690909090909091,Iran
+193,2012,mangrove,0.760869565217391,Guinea Bissau
+194,2012,mangrove,0.922459893048128,Guinea
+195,2012,mangrove,0.327814569536424,Ivory Coast
+196,2012,mangrove,0.997997997997998,Nigeria
+197,2012,mangrove,0.919117647058823,Cameroon
+198,2012,mangrove,0.68649885583524,Gabon
+199,2012,mangrove,0.306122448979592,Democratic Republic of the Congo
+200,2012,mangrove,0.622641509433962,Angola
+202,2012,mangrove,0.822368421052632,Tanzania
+203,2012,mangrove,0.884152358397474,India
+204,2012,mangrove,1,Bangladesh
+205,2012,mangrove,0.912691269126913,Myanmar
+206,2012,mangrove,0.838278931750742,Malaysia
+207,2012,mangrove,0.583317852498607,Vietnam
+208,2012,mangrove,0.279329608938548,Singapore
+209,2012,mangrove,0.764670001153157,China
+210,2012,mangrove,0.764670001153157,Japan
+214,2012,mangrove,1,Egypt
+216,2012,mangrove,0.69047619047619,Indonesia
+221,2012,mangrove,0.969387755102041,Northern Saint-Martin
+231,2012,mangrove,0.423529411764706,East Timor
+237,2012,mangrove,0.423529411764706,Oecussi Ambeno
+244,2012,mangrove,0.87719298245614,Curacao
+245,2012,mangrove,0.87719298245614,Bonaire
+247,2012,mangrove,0.838278931750742,Brunei
+250,2012,mangrove,0.87719298245614,Aruba
+3,2012,seagrass,0.855116269050631,Norfolk Island
+2,2012,seagrass,0.855116269050631,Christmas Island
+1,2012,seagrass,0.855116269050631,Cocos Islands
+5,2012,seagrass,0.721897450142865,New Caledonia
+6,2012,seagrass,0.855116269050631,Vanuatu
+7,2012,seagrass,0.721897450142865,Solomon Islands
+8,2012,seagrass,0.855116269050631,Palau
+9,2012,seagrass,0.855116269050631,Micronesia
+11,2012,seagrass,0.855116269050631,Marshall Islands
+14,2012,seagrass,0.912847483095417,Taiwan
+15,2012,seagrass,0.912847483095417,Philippines
+16,2012,seagrass,0.721897450142865,Australia
+17,2012,seagrass,0.721897450142865,Papua New Guinea
+18,2012,seagrass,0.855116269050631,Fiji
+20,2012,seagrass,0,South Korea
+25,2012,seagrass,0.855116269050631,Thailand
+28,2012,seagrass,0.855116269050631,Comoro Islands
+35,2012,seagrass,0.855116269050631,Ile Europa
+32,2012,seagrass,0.855116269050631,R_union
+29,2012,seagrass,0.855116269050631,Mayotte
+34,2012,seagrass,0.855116269050631,Bassas da India
+36,2012,seagrass,0.855116269050631,Ile Tromelin
+33,2012,seagrass,0.855116269050631,Juan de Nova Island
+30,2012,seagrass,0.855116269050631,Glorioso Islands
+37,2012,seagrass,0.855116269050631,Mauritius
+39,2012,seagrass,0.855116269050631,Maldives
+40,2012,seagrass,0.855116269050631,Sri Lanka
+41,2012,seagrass,1,Mozambique
+42,2012,seagrass,0.855116269050631,Madagascar
+43,2012,seagrass,0.855116269050631,Kenya
+45,2012,seagrass,0.855116269050631,Eritrea
+47,2012,seagrass,0.855116269050631,Yemen
+49,2012,seagrass,0.855116269050631,Sudan
+50,2012,seagrass,0.855116269050631,Saudi Arabia
+51,2012,seagrass,0.855116269050631,Kuwait
+52,2012,seagrass,0.855116269050631,Bahrain
+54,2012,seagrass,0.855116269050631,United Arab Emirates
+66,2012,seagrass,0.258539503138599,Senegal
+68,2012,seagrass,0.82451230316197,Malta
+73,2012,seagrass,1,Russia
+75,2012,seagrass,0.82451230316197,Ukraine
+79,2012,seagrass,0.82451230316197,Israel
+96,2012,seagrass,0.258539503138599,Sierra Leone
+98,2012,seagrass,1,Togo
+99,2012,seagrass,1,Benin
+90,2012,seagrass,1,Prince Edward Islands
+102,2012,seagrass,1,South Africa
+106,2012,seagrass,1,Ghana
+110,2012,seagrass,1,Bahamas
+112,2012,seagrass,1,Cuba
+114,2012,seagrass,1,Haiti
+115,2012,seagrass,1,Dominican Republic
+116,2012,seagrass,1,Puerto Rico and Virgin Islands of the United States
+121,2012,seagrass,1,Montserrat
+111,2012,seagrass,1,Turks and Caicos Islands
+108,2012,seagrass,1,Bermuda
+118,2012,seagrass,1,Anguilla
+117,2012,seagrass,1,British Virgin Islands
+113,2012,seagrass,1,Cayman Islands
+119,2012,seagrass,1,Saint Kitts and Nevis
+120,2012,seagrass,1,Antigua and Barbuda
+122,2012,seagrass,0.252772343349348,Saint Lucia
+123,2012,seagrass,0.252772343349348,Dominica
+124,2012,seagrass,0.252772343349348,Barbados
+125,2012,seagrass,0.252772343349348,Grenada
+220,2012,seagrass,1,Sint Maarten
+249,2012,seagrass,1,Sint Eustatius
+250,2012,seagrass,1,Aruba
+245,2012,seagrass,1,Bonaire
+244,2012,seagrass,1,Curacao
+248,2012,seagrass,1,Saba
+129,2012,seagrass,0,Panama
+131,2012,seagrass,0,Nicaragua
+132,2012,seagrass,0,Colombia
+133,2012,seagrass,1,Honduras
+135,2012,seagrass,1,Mexico
+139,2012,seagrass,1,Venezuela
+140,2012,seagrass,1,Guadeloupe and Martinique
+221,2012,seagrass,1,Northern Saint-Martin
+161,2012,seagrass,0.855116269050631,Wallis and Futuna
+147,2012,seagrass,0.855116269050631,French Polynesia
+13,2012,seagrass,0.912847483095417,Northern Mariana Islands and Guam
+158,2012,seagrass,0.912847483095417,Howland Island and Baker Island
+151,2012,seagrass,0.912847483095417,American Samoa
+152,2012,seagrass,0.855116269050631,Samoa
+155,2012,seagrass,0.855116269050631,Tonga
+163,2012,seagrass,1,United States
+164,2012,seagrass,0.217264308537159,Belize
+166,2012,seagrass,1,Jamaica
+171,2012,seagrass,1,Brazil
+141,2012,seagrass,1,Faeroe Islands
+175,2012,seagrass,1,Denmark
+145,2012,seagrass,1,Greenland
+177,2012,seagrass,1,Netherlands
+178,2012,seagrass,1,Poland
+179,2012,seagrass,1,France
+58,2012,seagrass,0.5,Canary Islands
+182,2012,seagrass,0.5,Spain
+184,2012,seagrass,0.610246840188935,Italy
+190,2012,seagrass,0.855116269050631,Qatar
+191,2012,seagrass,0.855116269050631,Iran
+192,2012,seagrass,0.855116269050631,Iraq
+193,2012,seagrass,0.258539503138599,Guinea Bissau
+194,2012,seagrass,0.258539503138599,Guinea
+196,2012,seagrass,1,Nigeria
+200,2012,seagrass,1,Angola
+202,2012,seagrass,0.855116269050631,Tanzania
+26,2012,seagrass,0.855116269050631,Andaman and Nicobar
+203,2012,seagrass,0.855116269050631,India
+205,2012,seagrass,0.855116269050631,Myanmar
+247,2012,seagrass,0.855116269050631,Brunei
+206,2012,seagrass,0.855116269050631,Malaysia
+207,2012,seagrass,0.893645547136102,Vietnam
+208,2012,seagrass,0.855116269050631,Singapore
+209,2012,seagrass,0.727201968811659,China
+210,2012,seagrass,0.912847483095417,Japan
+212,2012,seagrass,0.855116269050631,Gilbert Islands (Kiribati)
+148,2012,seagrass,0.855116269050631,Line Islands (Kiribati)
+157,2012,seagrass,0.855116269050631,Phoenix Islands (Kiribati)
+214,2012,seagrass,0.82451230316197,Egypt
+215,2012,seagrass,0.855116269050631,Jordan
+216,2012,seagrass,0.721897450142865,Indonesia
+218,2012,seagrass,1,Canada
+222,2012,seagrass,1,Sweden
+231,2012,seagrass,0.855116269050631,East Timor
+237,2012,seagrass,0.855116269050631,Oecussi Ambeno
+16,2012,saltmarsh,1,Australia
+59,2012,saltmarsh,1,Belgium
+69,2012,saltmarsh,0.5,Latvia
+70,2012,saltmarsh,1,Estonia
+154,2012,saltmarsh,0.5,Niue
+162,2012,saltmarsh,0.5,New Zealand
+156,2012,saltmarsh,0.5,Tokelau
+153,2012,saltmarsh,0.5,Cook Islands
+163,2012,saltmarsh,0.5,United States
+176,2012,saltmarsh,1,Germany
+177,2012,saltmarsh,1,Netherlands
+178,2012,saltmarsh,0.5,Poland
+179,2012,saltmarsh,0.5,France
+228,2012,saltmarsh,0.5,Guernsey
+227,2012,saltmarsh,0.5,Jersey
+180,2012,saltmarsh,0.5,United Kingdom
+181,2012,saltmarsh,0.5,Ireland
+184,2012,saltmarsh,1,Italy
+209,2012,saltmarsh,0.5,China
+218,2012,saltmarsh,0.5,Canada
+222,2012,saltmarsh,0.5,Sweden
+3,2012,coral,1,Norfolk Island
+2,2012,coral,1,Christmas Island
+1,2012,coral,1,Cocos Islands
+5,2012,coral,0.730957557997747,New Caledonia
+6,2012,coral,0.964113890082612,Vanuatu
+7,2012,coral,0.730957557997747,Solomon Islands
+8,2012,coral,1,Palau
+9,2012,coral,0.964113890082612,Micronesia
+10,2012,coral,0.964113890082612,Nauru
+11,2012,coral,0.964113890082612,Marshall Islands
+14,2012,coral,1,Taiwan
+15,2012,coral,1,Philippines
+16,2012,coral,0.730957557997747,Australia
+17,2012,coral,0.953679013210641,Papua New Guinea
+18,2012,coral,1,Fiji
+19,2012,coral,1,Tuvalu
+24,2012,coral,1,Cambodia
+25,2012,coral,1,Thailand
+28,2012,coral,0.755307777337641,Comoro Islands
+35,2012,coral,0.855746556788467,Ile Europa
+32,2012,coral,0.855746556788467,R_union
+29,2012,coral,0.855746556788467,Mayotte
+34,2012,coral,0.855746556788467,Bassas da India
+36,2012,coral,0.855746556788467,Ile Tromelin
+33,2012,coral,0.855746556788467,Juan de Nova Island
+30,2012,coral,0.855746556788467,Glorioso Islands
+31,2012,coral,0.855746556788467,Seychelles
+37,2012,coral,0.855746556788467,Mauritius
+38,2012,coral,1,British Indian Ocean Territory
+39,2012,coral,1,Maldives
+40,2012,coral,1,Sri Lanka
+41,2012,coral,0.755307777337641,Mozambique
+42,2012,coral,0.755307777337641,Madagascar
+43,2012,coral,0.580673354488477,Kenya
+44,2012,coral,0.580673354488477,Somalia
+45,2012,coral,0.984538344672957,Eritrea
+46,2012,coral,0.984538344672957,Djibouti
+47,2012,coral,0.984538344672957,Yemen
+48,2012,coral,0.984538344672957,Oman
+49,2012,coral,0.984538344672957,Sudan
+50,2012,coral,0.984538344672957,Saudi Arabia
+51,2012,coral,0.984538344672957,Kuwait
+52,2012,coral,0.984538344672957,Bahrain
+54,2012,coral,0.984538344672957,United Arab Emirates
+90,2012,coral,0.755307777337641,Prince Edward Islands
+102,2012,coral,0.755307777337641,South Africa
+107,2012,coral,1,Clipperton Island
+110,2012,coral,0.397647968195135,Bahamas
+112,2012,coral,0,Cuba
+114,2012,coral,0.422740366276086,Haiti
+115,2012,coral,1,Dominican Republic
+116,2012,coral,0.595384173926359,Puerto Rico and Virgin Islands of the United States
+121,2012,coral,0.517296486375576,Montserrat
+111,2012,coral,0.517296486375576,Turks and Caicos Islands
+108,2012,coral,0.517296486375576,Bermuda
+118,2012,coral,0.517296486375576,Anguilla
+117,2012,coral,0.517296486375576,British Virgin Islands
+113,2012,coral,0.517296486375576,Cayman Islands
+119,2012,coral,0.725611882724082,Saint Kitts and Nevis
+120,2012,coral,0.517296486375576,Antigua and Barbuda
+122,2012,coral,0.715200330885569,Saint Lucia
+123,2012,coral,0.567313208117372,Dominica
+124,2012,coral,1,Barbados
+125,2012,coral,0.567313208117372,Grenada
+126,2012,coral,0.715200330885569,Trinidad and Tobago
+127,2012,coral,0.715200330885569,Saint Vincent and the Grenadines
+220,2012,coral,1,Sint Maarten
+249,2012,coral,1,Sint Eustatius
+250,2012,coral,1,Aruba
+245,2012,coral,1,Bonaire
+244,2012,coral,1,Curacao
+248,2012,coral,1,Saba
+129,2012,coral,1,Panama
+130,2012,coral,1,Costa Rica
+131,2012,coral,1,Nicaragua
+132,2012,coral,0.850910287291316,Colombia
+133,2012,coral,0.975251135882013,Honduras
+135,2012,coral,1,Mexico
+137,2012,coral,1,Ecuador
+139,2012,coral,0.567313208117372,Venezuela
+140,2012,coral,0.76285514465227,Guadeloupe and Martinique
+221,2012,coral,0.76285514465227,Northern Saint-Martin
+146,2012,coral,1,Pitcairn
+161,2012,coral,1,Wallis and Futuna
+147,2012,coral,1,French Polynesia
+149,2012,coral,0.964113890082612,Jarvis Island
+13,2012,coral,1,Northern Mariana Islands and Guam
+158,2012,coral,1,Howland Island and Baker Island
+151,2012,coral,1,American Samoa
+152,2012,coral,1,Samoa
+155,2012,coral,1,Tonga
+150,2012,coral,0.743013670160413,Palmyra Atoll
+159,2012,coral,0.743013670160413,Johnston Atoll
+12,2012,coral,0.743013670160413,Wake Island
+154,2012,coral,1,Niue
+162,2012,coral,1,New Zealand
+156,2012,coral,1,Tokelau
+153,2012,coral,1,Cook Islands
+163,2012,coral,0.422873323253544,United States
+164,2012,coral,0.0199508481299071,Belize
+166,2012,coral,0.226458805310968,Jamaica
+171,2012,coral,0.923285557938854,Brazil
+190,2012,coral,0.984538344672957,Qatar
+191,2012,coral,0.984538344672957,Iran
+202,2012,coral,0.580673354488477,Tanzania
+26,2012,coral,1,Andaman and Nicobar
+203,2012,coral,1,India
+204,2012,coral,1,Bangladesh
+205,2012,coral,1,Myanmar
+247,2012,coral,1,Brunei
+206,2012,coral,1,Malaysia
+207,2012,coral,1,Vietnam
+208,2012,coral,1,Singapore
+209,2012,coral,0.811450896179176,China
+210,2012,coral,1,Japan
+212,2012,coral,1,Gilbert Islands (Kiribati)
+148,2012,coral,1,Line Islands (Kiribati)
+157,2012,coral,1,Phoenix Islands (Kiribati)
+214,2012,coral,0.984538344672957,Egypt
+215,2012,coral,0.984538344672957,Jordan
+216,2012,coral,1,Indonesia
+231,2012,coral,1,East Timor
+237,2012,coral,1,Oecussi Ambeno
+21,2007,seaice_edge,0.910525532231651,North Korea
+69,2007,seaice_edge,0.736607142857143,Latvia
+70,2007,seaice_edge,0.943650126156434,Estonia
+73,2007,seaice_edge,1,Russia
+143,2007,seaice_edge,0.787109108288953,Iceland
+144,2007,seaice_edge,0.0093716719914803,Jan Mayen
+145,2007,seaice_edge,0.830649240458825,Greenland
+163,2007,seaice_edge,1,United States
+174,2007,seaice_edge,0.977023319615912,Finland
+175,2007,seaice_edge,0.507404709881039,Denmark
+176,2007,seaice_edge,0.373400111296605,Germany
+177,2007,seaice_edge,0.334502923976608,Netherlands
+178,2007,seaice_edge,0.0166477487703367,Poland
+179,2007,seaice_edge,0.226221079691517,France
+180,2007,seaice_edge,0.241941600303375,United Kingdom
+189,2007,seaice_edge,0.830484330484331,Lithuania
+209,2007,seaice_edge,1,China
+210,2007,seaice_edge,1,Japan
+218,2007,seaice_edge,0.917058461596269,Canada
+222,2007,seaice_edge,0.46789976808643,Sweden
+223,2007,seaice_edge,0.83856320441093,Norway
+89,2007,seaice_edge,0.94560733973247,South Georgia and the South Sandwich Islands
+105,2007,seaice_edge,1,Bouvet Island
+21,2007,seaice_shoreline,0.973756365060713,North Korea
+69,2007,seaice_shoreline,0.699861687413555,Latvia
+70,2007,seaice_shoreline,0.90107120352867,Estonia
+73,2007,seaice_shoreline,0.899820155533082,Russia
+143,2007,seaice_shoreline,0.421828908554572,Iceland
+145,2007,seaice_shoreline,0.905785641043466,Greenland
+163,2007,seaice_shoreline,0.95806262335307,United States
+174,2007,seaice_shoreline,0.764547413793104,Finland
+175,2007,seaice_shoreline,0.684238270954138,Denmark
+176,2007,seaice_shoreline,0.625929518267055,Germany
+179,2007,seaice_shoreline,0,France
+180,2007,seaice_shoreline,0.174603174603175,United Kingdom
+189,2007,seaice_shoreline,0.592132505175983,Lithuania
+209,2007,seaice_shoreline,1,China
+210,2007,seaice_shoreline,1,Japan
+218,2007,seaice_shoreline,0.934504444429476,Canada
+222,2007,seaice_shoreline,0.483687943262411,Sweden
+223,2007,seaice_shoreline,0.668245554678396,Norway
+21,2008,seaice_edge,1,North Korea
+69,2008,seaice_edge,0.698412698412698,Latvia
+70,2008,seaice_edge,0.792542753013737,Estonia
+73,2008,seaice_edge,1,Russia
+143,2008,seaice_edge,0.549774682507169,Iceland
+144,2008,seaice_edge,0,Jan Mayen
+145,2008,seaice_edge,0.862453701437499,Greenland
+163,2008,seaice_edge,1,United States
+174,2008,seaice_edge,0.842478280749886,Finland
+175,2008,seaice_edge,0.510075260985676,Denmark
+176,2008,seaice_edge,0.367278797996661,Germany
+177,2008,seaice_edge,0.257309941520468,Netherlands
+178,2008,seaice_edge,0.0166477487703367,Poland
+179,2008,seaice_edge,0.263924592973436,France
+180,2008,seaice_edge,0.428264441916319,United Kingdom
+189,2008,seaice_edge,0.658119658119658,Lithuania
+209,2008,seaice_edge,1,China
+210,2008,seaice_edge,1,Japan
+218,2008,seaice_edge,0.944096617177605,Canada
+222,2008,seaice_edge,0.480343910854686,Sweden
+223,2008,seaice_edge,0.781967080191357,Norway
+89,2008,seaice_edge,0.917790370456035,South Georgia and the South Sandwich Islands
+105,2008,seaice_edge,1,Bouvet Island
+21,2008,seaice_shoreline,0.947904426165296,North Korea
+69,2008,seaice_shoreline,0.616182572614108,Latvia
+70,2008,seaice_shoreline,0.743961352657005,Estonia
+73,2008,seaice_shoreline,0.890979048036573,Russia
+143,2008,seaice_shoreline,0.421828908554572,Iceland
+145,2008,seaice_shoreline,0.918785519386851,Greenland
+163,2008,seaice_shoreline,0.974726622926335,United States
+174,2008,seaice_shoreline,0.640086206896552,Finland
+175,2008,seaice_shoreline,0.7074327886136,Denmark
+176,2008,seaice_shoreline,0.625929518267055,Germany
+179,2008,seaice_shoreline,0.142394822006472,France
+180,2008,seaice_shoreline,0.218253968253968,United Kingdom
+189,2008,seaice_shoreline,0.455486542443064,Lithuania
+209,2008,seaice_shoreline,1,China
+210,2008,seaice_shoreline,0.969175090477973,Japan
+218,2008,seaice_shoreline,0.933516543964939,Canada
+222,2008,seaice_shoreline,0.408274231678487,Sweden
+223,2008,seaice_shoreline,0.671553700988685,Norway
+21,2009,seaice_edge,1,North Korea
+69,2009,seaice_edge,0.638392857142857,Latvia
+70,2009,seaice_edge,0.690776562938043,Estonia
+73,2009,seaice_edge,1,Russia
+143,2009,seaice_edge,0.401565842778461,Iceland
+144,2009,seaice_edge,0.0093716719914803,Jan Mayen
+145,2009,seaice_edge,0.827992885930132,Greenland
+163,2009,seaice_edge,1,United States
+174,2009,seaice_edge,0.763260173754001,Finland
+175,2009,seaice_edge,0.504734158776402,Denmark
+176,2009,seaice_edge,0.385642737896494,Germany
+177,2009,seaice_edge,0.154385964912281,Netherlands
+178,2009,seaice_edge,0,Poland
+179,2009,seaice_edge,0.377035132819195,France
+180,2009,seaice_edge,0.52003539375553,United Kingdom
+189,2009,seaice_edge,0.454415954415954,Lithuania
+209,2009,seaice_edge,1,China
+210,2009,seaice_edge,1,Japan
+218,2009,seaice_edge,0.96328165241175,Canada
+222,2009,seaice_edge,0.452966796764523,Sweden
+223,2009,seaice_edge,0.779048082380605,Norway
+89,2009,seaice_edge,0.808218650013492,South Georgia and the South Sandwich Islands
+105,2009,seaice_edge,1,Bouvet Island
+21,2009,seaice_shoreline,0.973756365060713,North Korea
+69,2009,seaice_shoreline,0.48686030428769,Latvia
+70,2009,seaice_shoreline,0.522159210249947,Estonia
+73,2009,seaice_shoreline,0.889188906436041,Russia
+143,2009,seaice_shoreline,0.389380530973451,Iceland
+145,2009,seaice_shoreline,0.909609134673873,Greenland
+163,2009,seaice_shoreline,0.96346082039793,United States
+174,2009,seaice_shoreline,0.547234195402299,Finland
+175,2009,seaice_shoreline,0.746090318046038,Denmark
+176,2009,seaice_shoreline,0.625929518267055,Germany
+179,2009,seaice_shoreline,0.142394822006472,France
+180,2009,seaice_shoreline,0.218253968253968,United Kingdom
+189,2009,seaice_shoreline,0.318840579710145,Lithuania
+209,2009,seaice_shoreline,1,China
+210,2009,seaice_shoreline,0.947210782478472,Japan
+218,2009,seaice_shoreline,0.953941386069256,Canada
+222,2009,seaice_shoreline,0.343262411347518,Sweden
+223,2009,seaice_shoreline,0.751776249013195,Norway
+21,2010,seaice_edge,1,North Korea
+69,2010,seaice_edge,0.6875,Latvia
+70,2010,seaice_edge,0.84188393608074,Estonia
+73,2010,seaice_edge,1,Russia
+143,2010,seaice_edge,0.392553143065228,Iceland
+144,2010,seaice_edge,0.0140575079872204,Jan Mayen
+145,2010,seaice_edge,0.796116631585818,Greenland
+163,2010,seaice_edge,0.980973514419135,United States
+174,2010,seaice_edge,0.889003200731596,Finland
+175,2010,seaice_edge,0.763777615926196,Denmark
+176,2010,seaice_edge,0.618252643294379,Germany
+177,2010,seaice_edge,0.205847953216374,Netherlands
+178,2010,seaice_edge,0.0166477487703367,Poland
+179,2010,seaice_edge,0.508997429305913,France
+180,2010,seaice_edge,0.650739476678043,United Kingdom
+189,2010,seaice_edge,0.626780626780627,Lithuania
+209,2010,seaice_edge,1,China
+210,2010,seaice_edge,1,Japan
+218,2010,seaice_edge,0.902971065885738,Canada
+222,2010,seaice_edge,0.821313422704904,Sweden
+223,2010,seaice_edge,0.776129084569853,Norway
+89,2010,seaice_edge,0.769037431093636,South Georgia and the South Sandwich Islands
+105,2010,seaice_edge,1,Bouvet Island
+21,2010,seaice_shoreline,1,North Korea
+69,2010,seaice_shoreline,0.677040110650069,Latvia
+70,2010,seaice_shoreline,0.799411888258769,Estonia
+73,2010,seaice_shoreline,0.905263647338783,Russia
+143,2010,seaice_shoreline,0.389380530973451,Iceland
+145,2010,seaice_shoreline,0.884119177137825,Greenland
+163,2010,seaice_shoreline,0.964869045713981,United States
+174,2010,seaice_shoreline,0.758620689655172,Finland
+175,2010,seaice_shoreline,1,Denmark
+176,2010,seaice_shoreline,0.881991593921759,Germany
+179,2010,seaice_shoreline,0.142394822006472,France
+180,2010,seaice_shoreline,0.288095238095238,United Kingdom
+189,2010,seaice_shoreline,0.501035196687371,Lithuania
+209,2010,seaice_shoreline,1,China
+210,2010,seaice_shoreline,0.933483089978784,Japan
+218,2010,seaice_shoreline,0.933516543964939,Canada
+222,2010,seaice_shoreline,0.644917257683215,Sweden
+223,2010,seaice_shoreline,0.79726326077967,Norway
+21,2011,seaice_edge,1,North Korea
+69,2011,seaice_edge,0.840277777777778,Latvia
+70,2011,seaice_edge,1,Estonia
+73,2011,seaice_edge,1,Russia
+143,2011,seaice_edge,0.39655878738222,Iceland
+144,2011,seaice_edge,0.0140575079872204,Jan Mayen
+145,2011,seaice_edge,0.780609264607502,Greenland
+163,2011,seaice_edge,0.959799308451859,United States
+174,2011,seaice_edge,0.998399634202104,Finland
+175,2011,seaice_edge,0.782471473658655,Denmark
+176,2011,seaice_edge,0.630495269894268,Germany
+177,2011,seaice_edge,0.102923976608187,Netherlands
+178,2011,seaice_edge,0.0665909950813469,Poland
+179,2011,seaice_edge,0.452442159383033,France
+180,2011,seaice_edge,0.500568828213879,United Kingdom
+189,2011,seaice_edge,0.767806267806268,Lithuania
+209,2011,seaice_edge,1,China
+210,2011,seaice_edge,1,Japan
+218,2011,seaice_edge,0.889055887726681,Canada
+222,2011,seaice_edge,1,Sweden
+223,2011,seaice_edge,0.794940403794697,Norway
+89,2011,seaice_edge,0.689826914922324,South Georgia and the South Sandwich Islands
+105,2011,seaice_edge,0.855493292579385,Bouvet Island
+21,2011,seaice_shoreline,1,North Korea
+69,2011,seaice_shoreline,0.905255878284924,Latvia
+70,2011,seaice_shoreline,1,Estonia
+73,2011,seaice_shoreline,0.896349472838172,Russia
+143,2011,seaice_shoreline,0.389380530973451,Iceland
+145,2011,seaice_shoreline,0.884374076713186,Greenland
+163,2011,seaice_shoreline,0.937408652050995,United States
+174,2011,seaice_shoreline,1,Finland
+175,2011,seaice_shoreline,1,Denmark
+176,2011,seaice_shoreline,0.881991593921759,Germany
+179,2011,seaice_shoreline,0.0711974110032362,France
+180,2011,seaice_shoreline,0.226984126984127,United Kingdom
+189,2011,seaice_shoreline,0.774327122153209,Lithuania
+209,2011,seaice_shoreline,1,China
+210,2011,seaice_shoreline,0.933483089978784,Japan
+218,2011,seaice_shoreline,0.913635047116116,Canada
+222,2011,seaice_shoreline,0.912765957446808,Sweden
+223,2011,seaice_shoreline,0.767489943987068,Norway
+21,2012,seaice_edge,1,North Korea
+69,2012,seaice_edge,0.834821428571428,Latvia
+70,2012,seaice_edge,1,Estonia
+73,2012,seaice_edge,1,Russia
+143,2012,seaice_edge,0.438618052710638,Iceland
+144,2012,seaice_edge,0.0112460063897764,Jan Mayen
+145,2012,seaice_edge,0.818659748396887,Greenland
+163,2012,seaice_edge,0.9547018144227,United States
+174,2012,seaice_edge,1,Finland
+175,2012,seaice_edge,0.846564700169944,Denmark
+176,2012,seaice_edge,0.624373956594324,Germany
+177,2012,seaice_edge,0.180116959064327,Netherlands
+178,2012,seaice_edge,0.0665909950813469,Poland
+179,2012,seaice_edge,0.471293916023993,France
+180,2012,seaice_edge,0.639615724939957,United Kingdom
+189,2012,seaice_edge,0.673789173789174,Lithuania
+209,2012,seaice_edge,1,China
+210,2012,seaice_edge,1,Japan
+218,2012,seaice_edge,0.887092607639884,Canada
+222,2012,seaice_edge,1,Sweden
+223,2012,seaice_edge,0.735911781399497,Norway
+89,2012,seaice_edge,0.764797039435642,South Georgia and the South Sandwich Islands
+105,2012,seaice_edge,0.824006016058996,Bouvet Island
+21,2012,seaice_shoreline,1,North Korea
+69,2012,seaice_shoreline,0.981327800829875,Latvia
+70,2012,seaice_shoreline,1,Estonia
+73,2012,seaice_shoreline,0.887069963317043,Russia
+143,2012,seaice_shoreline,0.389380530973451,Iceland
+145,2012,seaice_shoreline,0.890874015884878,Greenland
+163,2012,seaice_shoreline,0.963226116178589,United States
+174,2012,seaice_shoreline,1,Finland
+175,2012,seaice_shoreline,1,Denmark
+176,2012,seaice_shoreline,0.881991593921759,Germany
+179,2012,seaice_shoreline,0.355987055016181,France
+180,2012,seaice_shoreline,0.296825396825397,United Kingdom
+189,2012,seaice_shoreline,0.63768115942029,Lithuania
+209,2012,seaice_shoreline,1,China
+210,2012,seaice_shoreline,0.963684013478098,Japan
+218,2012,seaice_shoreline,0.896643159126067,Canada
+222,2012,seaice_shoreline,0.923167848699764,Sweden
+223,2012,seaice_shoreline,0.650877786549378,Norway
+21,2013,seaice_edge,1,North Korea
+69,2013,seaice_edge,0.802083333333333,Latvia
+70,2013,seaice_edge,1,Estonia
+73,2013,seaice_edge,1,Russia
+143,2013,seaice_edge,0.333469889389594,Iceland
+144,2013,seaice_edge,0.0477955271565495,Jan Mayen
+145,2013,seaice_edge,0.820239202440975,Greenland
+163,2013,seaice_edge,0.940977792036502,United States
+174,2013,seaice_edge,1,Finland
+175,2013,seaice_edge,0.809176984705026,Denmark
+176,2013,seaice_edge,0.501947690595437,Germany
+177,2013,seaice_edge,0.128654970760234,Netherlands
+178,2013,seaice_edge,0.0499432463110102,Poland
+179,2013,seaice_edge,0.414738646101114,France
+180,2013,seaice_edge,0.68132979395778,United Kingdom
+189,2013,seaice_edge,0.57977207977208,Lithuania
+209,2013,seaice_edge,1,China
+210,2013,seaice_edge,1,Japan
+218,2013,seaice_edge,0.904245475766642,Canada
+222,2013,seaice_edge,1,Sweden
+223,2013,seaice_edge,0.751479769723506,Norway
+89,2013,seaice_edge,0.794310165375275,South Georgia and the South Sandwich Islands
+105,2013,seaice_edge,0.860296436455377,Bouvet Island
+21,2013,seaice_shoreline,1,North Korea
+69,2013,seaice_shoreline,0.935684647302905,Latvia
+70,2013,seaice_shoreline,1,Estonia
+73,2013,seaice_shoreline,0.888860104917575,Russia
+143,2013,seaice_shoreline,0.389380530973451,Iceland
+145,2013,seaice_shoreline,0.904511143166664,Greenland
+163,2013,seaice_shoreline,0.962991411959247,United States
+174,2013,seaice_shoreline,0.932471264367816,Finland
+175,2013,seaice_shoreline,1,Denmark
+176,2013,seaice_shoreline,0.853540252182347,Germany
+179,2013,seaice_shoreline,0.355987055016181,France
+180,2013,seaice_shoreline,0.296825396825397,United Kingdom
+189,2013,seaice_shoreline,0.592132505175983,Lithuania
+209,2013,seaice_shoreline,1,China
+210,2013,seaice_shoreline,1,Japan
+218,2013,seaice_shoreline,0.921019603088536,Canada
+222,2013,seaice_shoreline,0.777541371158392,Sweden
+223,2013,seaice_shoreline,0.587195970076313,Norway
+21,2014,seaice_edge,1,North Korea
+69,2014,seaice_edge,0.720238095238095,Latvia
+70,2014,seaice_edge,0.931314830389683,Estonia
+73,2014,seaice_edge,1,Russia
+143,2014,seaice_edge,0.247348536574264,Iceland
+144,2014,seaice_edge,0.0477955271565495,Jan Mayen
+145,2014,seaice_edge,0.809398404229282,Greenland
+163,2014,seaice_edge,0.907844080846968,United States
+174,2014,seaice_edge,0.924211248285322,Finland
+175,2014,seaice_edge,0.851905802379218,Denmark
+176,2014,seaice_edge,0.544796883695047,Germany
+177,2014,seaice_edge,0.205847953216374,Netherlands
+178,2014,seaice_edge,0,Poland
+179,2014,seaice_edge,0.508997429305913,France
+180,2014,seaice_edge,0.945518897737328,United Kingdom
+189,2014,seaice_edge,0.423076923076923,Lithuania
+209,2014,seaice_edge,1,China
+210,2014,seaice_edge,1,Japan
+218,2014,seaice_edge,0.901455551432772,Canada
+222,2014,seaice_edge,1,Sweden
+223,2014,seaice_edge,0.785372577637233,Norway
+89,2014,seaice_edge,0.908122277475811,South Georgia and the South Sandwich Islands
+105,2014,seaice_edge,0.998520243553356,Bouvet Island
+21,2014,seaice_shoreline,1,North Korea
+69,2014,seaice_shoreline,0.791147994467497,Latvia
+70,2014,seaice_shoreline,0.836378911993279,Estonia
+73,2014,seaice_shoreline,0.90022202405565,Russia
+143,2014,seaice_shoreline,0.405604719764012,Iceland
+145,2014,seaice_shoreline,0.890236766946477,Greenland
+163,2014,seaice_shoreline,0.932245159225476,United States
+174,2014,seaice_shoreline,0.713182471264368,Finland
+175,2014,seaice_shoreline,1,Denmark
+176,2014,seaice_shoreline,0.8606530876172,Germany
+179,2014,seaice_shoreline,0.56957928802589,France
+180,2014,seaice_shoreline,0.471428571428571,United Kingdom
+189,2014,seaice_shoreline,0.364389233954451,Lithuania
+209,2014,seaice_shoreline,1,China
+210,2014,seaice_shoreline,1,Japan
+218,2014,seaice_shoreline,0.948384445956232,Canada
+222,2014,seaice_shoreline,0.540898345153664,Sweden
+223,2014,seaice_shoreline,0.569001165369723,Norway
+21,2015,seaice_edge,1,North Korea
+69,2015,seaice_edge,0.692956349206349,Latvia
+70,2015,seaice_edge,0.84188393608074,Estonia
+73,2015,seaice_edge,1,Russia
+143,2015,seaice_edge,0.239337247940279,Iceland
+144,2015,seaice_edge,0.0412353567625133,Jan Mayen
+145,2015,seaice_edge,0.78829115473102,Greenland
+163,2015,seaice_edge,0.913039603607457,United States
+174,2015,seaice_edge,0.798468221307728,Finland
+175,2015,seaice_edge,0.84122359796067,Denmark
+176,2015,seaice_edge,0.532554257095159,Germany
+177,2015,seaice_edge,0.154385964912281,Netherlands
+178,2015,seaice_edge,0,Poland
+179,2015,seaice_edge,0.546700942587832,France
+180,2015,seaice_edge,0.990013904689673,United Kingdom
+189,2015,seaice_edge,0.407407407407407,Lithuania
+209,2015,seaice_edge,1,China
+210,2015,seaice_edge,1,Japan
+218,2015,seaice_edge,0.956875159496937,Canada
+222,2015,seaice_edge,1,Sweden
+223,2015,seaice_edge,0.780021081650855,Norway
+89,2015,seaice_edge,0.965791604024517,South Georgia and the South Sandwich Islands
+105,2015,seaice_edge,0.963297188462751,Bouvet Island
+21,2015,seaice_shoreline,1,North Korea
+69,2015,seaice_shoreline,0.677040110650069,Latvia
+70,2015,seaice_shoreline,0.706994328922495,Estonia
+73,2015,seaice_shoreline,0.895399601784828,Russia
+143,2015,seaice_shoreline,0.405604719764012,Iceland
+145,2015,seaice_shoreline,0.903364095077542,Greenland
+163,2015,seaice_shoreline,0.874038512828719,United States
+174,2015,seaice_shoreline,0.596623563218391,Finland
+175,2015,seaice_shoreline,1,Denmark
+176,2015,seaice_shoreline,0.8606530876172,Germany
+179,2015,seaice_shoreline,0.427184466019418,France
+180,2015,seaice_shoreline,0.445238095238095,United Kingdom
+189,2015,seaice_shoreline,0.364389233954451,Lithuania
+209,2015,seaice_shoreline,1,China
+210,2015,seaice_shoreline,1,Japan
+218,2015,seaice_shoreline,0.963943878272701,Canada
+222,2015,seaice_shoreline,0.462884160756501,Sweden
+223,2015,seaice_shoreline,0.618623360024059,Norway
+21,2016,seaice_edge,1,North Korea
+69,2016,seaice_edge,0.692956349206349,Latvia
+70,2016,seaice_edge,0.700028034763106,Estonia
+73,2016,seaice_edge,1,Russia
+143,2016,seaice_edge,0.201283626928854,Iceland
+144,2016,seaice_edge,0,Jan Mayen
+145,2016,seaice_edge,0.770127433224012,Greenland
+163,2016,seaice_edge,0.890002851744911,United States
+174,2016,seaice_edge,0.6953589391861,Finland
+175,2016,seaice_edge,0.827870842437485,Denmark
+176,2016,seaice_edge,0.544796883695047,Germany
+177,2016,seaice_edge,0.180116959064327,Netherlands
+178,2016,seaice_edge,0,Poland
+179,2016,seaice_edge,0.754070265638389,France
+180,2016,seaice_edge,1,United Kingdom
+189,2016,seaice_edge,0.344729344729345,Lithuania
+209,2016,seaice_edge,1,China
+210,2016,seaice_edge,1,Japan
+218,2016,seaice_edge,1,Canada
+222,2016,seaice_edge,0.87357882233158,Sweden
+223,2016,seaice_edge,0.776615584204978,Norway
+89,2016,seaice_edge,1,South Georgia and the South Sandwich Islands
+105,2016,seaice_edge,1,Bouvet Island
+21,2016,seaice_shoreline,0.99960830395613,North Korea
+69,2016,seaice_shoreline,0.524896265560166,Latvia
+70,2016,seaice_shoreline,0.51291745431632,Estonia
+73,2016,seaice_shoreline,0.876548314726157,Russia
+143,2016,seaice_shoreline,0.405604719764012,Iceland
+145,2016,seaice_shoreline,0.888325020131273,Greenland
+163,2016,seaice_shoreline,0.822872993012215,United States
+174,2016,seaice_shoreline,0.47808908045977,Finland
+175,2016,seaice_shoreline,1,Denmark
+176,2016,seaice_shoreline,0.867765923052053,Germany
+179,2016,seaice_shoreline,0.854368932038835,France
+180,2016,seaice_shoreline,0.541269841269841,United Kingdom
+189,2016,seaice_shoreline,0.273291925465839,Lithuania
+209,2016,seaice_shoreline,1,China
+210,2016,seaice_shoreline,1,Japan
+218,2016,seaice_shoreline,0.955077471603475,Canada
+222,2016,seaice_shoreline,0.32505910165484603,Sweden
+223,2016,seaice_shoreline,0.555768580128567,Norway
+21,2017,seaice_edge,1,North Korea
+69,2017,seaice_edge,0.61656746031746,Latvia
+70,2017,seaice_edge,0.687692738996355,Estonia
+73,2017,seaice_edge,1,Russia
+143,2017,seaice_edge,0.210296326642087,Iceland
+144,2017,seaice_edge,0.0112460063897764,Jan Mayen
+145,2017,seaice_edge,0.748661216897548,Greenland
+163,2017,seaice_edge,0.884023099133782,United States
+174,2017,seaice_edge,0.726794695930498,Finland
+175,2017,seaice_edge,0.782471473658655,Denmark
+176,2017,seaice_edge,0.495826377295493,Germany
+177,2017,seaice_edge,0.102923976608187,Netherlands
+178,2017,seaice_edge,0,Poland
+179,2017,seaice_edge,0.735218508997429,France
+180,2017,seaice_edge,1,United Kingdom
+189,2017,seaice_edge,0.329059829059829,Lithuania
+209,2017,seaice_edge,1,China
+210,2017,seaice_edge,1,Japan
+218,2017,seaice_edge,1,Canada
+222,2017,seaice_edge,0.815091351320776,Sweden
+223,2017,seaice_edge,0.750831103543339,Norway
+89,2017,seaice_edge,1,South Georgia and the South Sandwich Islands
+105,2017,seaice_edge,1,Bouvet Island
+21,2017,seaice_shoreline,1,North Korea
+69,2017,seaice_shoreline,0.464038727524205,Latvia
+70,2017,seaice_shoreline,0.489813064482252,Estonia
+73,2017,seaice_shoreline,0.860181305807,Russia
+143,2017,seaice_shoreline,0.389380530973451,Iceland
+145,2017,seaice_shoreline,0.893805361001524,Greenland
+163,2017,seaice_shoreline,0.813250120019203,United States
+174,2017,seaice_shoreline,0.503771551724138,Finland
+175,2017,seaice_shoreline,1,Denmark
+176,2017,seaice_shoreline,0.8606530876172,Germany
+179,2017,seaice_shoreline,0.854368932038835,France
+180,2017,seaice_shoreline,0.445238095238095,United Kingdom
+189,2017,seaice_shoreline,0.227743271221532,Lithuania
+209,2017,seaice_shoreline,1,China
+210,2017,seaice_shoreline,1,Japan
+218,2017,seaice_shoreline,0.947001385305879,Canada
+222,2017,seaice_shoreline,0.351063829787234,Sweden
+223,2017,seaice_shoreline,0.518551934137814,Norway

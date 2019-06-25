@@ -60,6 +60,7 @@ ico_spp_rgn_prepped_csv <- read_csv(file.path(rawprep_prefix, "globalprep/spp_ic
 risk_code_lookup <- read_csv(file.path(rawprep_prefix, "globalprep/spp_ico/v2017/raw/risk_code_lookup.csv"))
 rgn_spp_gl_csv <- read_csv("data/rgn_spp_gl.csv")
 ico_spp_iucn_status_csv <- read_csv(file.path(rawprep_prefix, "globalprep/spp_ico/v2017/output/ico_spp_iucn_status.csv"))
+
 ico_global_list <- read_csv(file.path(rawprep_prefix, "globalprep/spp_ico/v2017/int/ico_global_list.csv"))
 
 
@@ -77,6 +78,11 @@ hab_seaice_extent_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/hab_seaic
 hab_softbottom_extent_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/hab_softbottom_extent.csv"))%>%
   left_join(rgn_global)
 
+#create one look up table for hub
+habitat_extent<-hab_softbottom_extent_csv %>% 
+  rbind(hab_mangrove_extent_csv, hab_seagrass_extent_csv, hab_saltmarsh_extent_csv, hab_coral_extent_csv, hab_seaice_extent_csv)
+habitat_extent %>% write_csv("data/global_data/habitat_extent.csv")
+
 ## Habitat health
 hab_mangrove_health_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/hab_mangrove_health.csv"))%>%
   left_join(rgn_global)
@@ -91,9 +97,21 @@ hab_seaice_health_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/hab_seaic
 hab_softbottom_health_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/hab_softbottom_health.csv"))%>%
   left_join(rgn_global)
 
+#create one look up table for hub
+habitat_health<-hab_softbottom_health_csv %>% 
+  rbind(hab_mangrove_health_csv, hab_seagrass_health_csv, hab_saltmarsh_health_csv, hab_coral_health_csv, hab_seaice_health_csv)
+habitat_health %>% write_csv("data/global_data/habitat_health.csv")
+
+
+
 ## LSP
-lsp_prot_area_inland1km_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/lsp_prot_area_inland1km.csv"))
-lsp_prot_area_offshore3nm_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/lsp_prot_area_offshore3nm.csv"))       
+lsp_prot_area_inland1km_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/lsp_prot_area_inland1km.csv")) %>%
+  left_join(rgn_global)
+lsp_prot_area_inland1km_csv %>% write_csv("data/global_data/lsp_prot_area_inland1km.csv")
+
+lsp_prot_area_offshore3nm_csv <- read_csv(file.path(rawkey_prefix, "eez/layers/lsp_prot_area_offshore3nm.csv")) %>%
+  left_join(rgn_global)       
+lsp_prot_area_offshore3nm_csv %>% write_csv("data/global_data/lsp_prot_area_offshore3nm.csv")
 ```
 
 
